@@ -1,0 +1,566 @@
+Municipality,County,County Rate Share,School Rate Share,Municipal Rate Share,Total County Rate,Avg Property value(in $),Year
+Absecon City,Atlantic,0.16,0.51,0.33,0.52,171726.00,2016
+Atlantic City City,Atlantic,0.10,0.40,0.50,0.38,154778.00,2016
+Brigantine City,Atlantic,0.31,0.30,0.40,0.54,362331.00,2016
+Buena Borough,Atlantic,0.16,0.50,0.34,0.46,175934.00,2016
+Buena Vista Township,Atlantic,0.20,0.63,0.17,0.48,215174.00,2016
+Corbin City,Atlantic,0.28,0.55,0.16,0.51,189669.00,2016
+Egg Harbor City,Atlantic,0.12,0.46,0.42,0.54,138428.00,2016
+Egg Harbor Township,Atlantic,0.17,0.64,0.19,0.52,208290.00,2016
+Estell Manor City,Atlantic,0.23,0.64,0.13,0.56,179945.00,2016
+Folsom Borough,Atlantic,0.26,0.55,0.19,0.80,120681.00,2016
+Galloway Township,Atlantic,0.18,0.60,0.22,0.55,167366.00,2016
+Hamilton Township,Atlantic,0.19,0.53,0.29,0.55,161166.00,2016
+Hammonton Township,Atlantic,0.20,0.55,0.26,0.50,214449.00,2016
+Linwood City,Atlantic,0.14,0.58,0.28,0.46,309236.00,2016
+Longport Borough,Atlantic,0.58,0.06,0.36,0.54,1105179.00,2016
+Margate City,Atlantic,0.35,0.22,0.43,0.53,521200.00,2016
+Mullica Township,Atlantic,0.20,0.52,0.28,0.89,116204.00,2016
+Northfield City,Atlantic,0.15,0.55,0.30,0.47,230062.00,2016
+Pleasantville City,Atlantic,0.12,0.26,0.62,0.48,107950.00,2016
+Port Republic City,Atlantic,0.23,0.59,0.18,0.86,157594.00,2016
+Somers Point City,Atlantic,0.18,0.50,0.32,0.50,212780.00,2016
+Ventnor City,Atlantic,0.22,0.37,0.41,0.48,352914.00,2016
+Weymouth Township,Atlantic,0.24,0.58,0.18,0.57,192818.00,2016
+Allendale Borough,Bergen,0.11,0.65,0.25,0.25,651328.00,2016
+Alpine Borough,Bergen,0.38,0.40,0.22,0.29,2724160.00,2016
+Bergenfield Borough,Bergen,0.08,0.57,0.35,0.25,320869.00,2016
+Bogota Borough,Bergen,0.07,0.61,0.32,0.27,261426.00,2016
+Carlstadt Borough,Bergen,0.12,0.45,0.43,0.26,330455.00,2016
+Cliffside Park Borough,Bergen,0.11,0.49,0.40,0.26,353207.00,2016
+Closter Borough,Bergen,0.11,0.64,0.25,0.25,675919.00,2016
+Cresskill Borough,Bergen,0.11,0.57,0.32,0.29,595288.00,2016
+Demarest Borough,Bergen,0.12,0.65,0.23,0.29,753388.00,2016
+Dumont Borough,Bergen,0.08,0.61,0.31,0.27,307009.00,2016
+Elmwood Park Borough,Bergen,0.09,0.60,0.32,0.25,329331.00,2016
+East Rutherford Borough,Bergen,0.16,0.55,0.29,0.31,316718.00,2016
+Edgewater Borough,Bergen,0.16,0.41,0.43,0.29,460245.00,2016
+Emerson Borough,Bergen,0.10,0.60,0.30,0.26,437395.00,2016
+Englewood City,Bergen,0.10,0.47,0.43,0.27,462002.00,2016
+Englewood Cliffs Borough,Bergen,0.24,0.38,0.38,0.23,1276386.00,2016
+Fair Lawn Borough,Bergen,0.09,0.63,0.29,0.27,326272.00,2016
+Fairview Borough,Bergen,0.09,0.45,0.46,0.28,298166.00,2016
+Fort Lee Borough,Bergen,0.12,0.43,0.45,0.26,457221.00,2016
+Franklin Lakes Borough,Bergen,0.16,0.67,0.17,0.27,1048526.00,2016
+Garfield City,Bergen,0.10,0.48,0.43,0.26,281209.00,2016
+Glen Rock Borough,Bergen,0.10,0.68,0.22,0.27,554186.00,2016
+Hackensack City,Bergen,0.07,0.44,0.49,0.25,234466.00,2016
+Harrington Park Borough,Bergen,0.10,0.69,0.21,0.27,538477.00,2016
+Hasbrouck Heights Borough,Bergen,0.09,0.59,0.31,0.28,353339.00,2016
+Haworth Borough,Bergen,0.10,0.64,0.26,0.28,610751.00,2016
+Hillsdale Borough,Bergen,0.10,0.70,0.20,0.26,469540.00,2016
+Ho-Ho-Kus Borough,Bergen,0.14,0.57,0.29,0.28,756814.00,2016
+Leonia Borough,Bergen,0.10,0.58,0.32,0.27,432634.00,2016
+Little Ferry Borough,Bergen,0.07,0.56,0.37,0.25,270987.00,2016
+Lodi Borough,Bergen,0.08,0.62,0.29,0.27,317111.00,2016
+Lyndhurst Township,Bergen,0.09,0.47,0.44,0.24,307404.00,2016
+Mahwah Township,Bergen,0.15,0.61,0.25,0.26,474439.00,2016
+Maywood Borough,Bergen,0.09,0.54,0.36,0.27,318608.00,2016
+Midland Park Borough,Bergen,0.10,0.66,0.25,0.28,393426.00,2016
+Montvale Borough,Bergen,0.12,0.62,0.26,0.26,515424.00,2016
+Moonachie Borough,Bergen,0.12,0.43,0.45,0.27,326920.00,2016
+New Milford Borough,Bergen,0.09,0.60,0.31,0.29,324522.00,2016
+North Arlington Borough,Bergen,0.08,0.53,0.39,0.26,317624.00,2016
+Northvale Borough,Bergen,0.10,0.63,0.27,0.27,390121.00,2016
+Norwood Borough,Bergen,0.11,0.60,0.29,0.27,550346.00,2016
+Oakland Borough,Bergen,0.10,0.65,0.25,0.27,411582.00,2016
+Old Tappan Borough,Bergen,0.12,0.71,0.16,0.24,823005.00,2016
+Oradell Borough,Bergen,0.10,0.62,0.28,0.29,474694.00,2016
+Palisades Park Borough,Bergen,0.14,0.50,0.36,0.27,478171.00,2016
+Paramus Borough,Bergen,0.15,0.54,0.30,0.27,519303.00,2016
+Park Ridge Borough,Bergen,0.11,0.67,0.22,0.29,471179.00,2016
+Ramsey Borough,Bergen,0.11,0.67,0.22,0.24,522071.00,2016
+Ridgefield Borough,Bergen,0.12,0.59,0.29,0.27,389090.00,2016
+Ridgefield Park Village,Bergen,0.07,0.58,0.35,0.25,268137.00,2016
+Ridgewood Village,Bergen,0.11,0.65,0.24,0.27,693904.00,2016
+River Edge Borough,Bergen,0.09,0.65,0.27,0.29,385336.00,2016
+River Vale Township,Bergen,0.10,0.67,0.23,0.24,592559.00,2016
+Rochelle Park Township,Bergen,0.10,0.50,0.40,0.23,330406.00,2016
+Rockleigh Borough,Bergen,0.24,0.36,0.40,0.23,1627296.00,2016
+Rutherford Borough,Bergen,0.10,0.57,0.34,0.25,430876.00,2016
+Saddle Brook Township,Bergen,0.11,0.57,0.32,0.30,296125.00,2016
+Saddle River Borough,Bergen,0.27,0.35,0.38,0.27,1690773.00,2016
+South Hackensack Township,Bergen,0.09,0.48,0.43,0.25,328678.00,2016
+Teaneck Township,Bergen,0.08,0.56,0.36,0.26,378412.00,2016
+Tenafly Borough,Bergen,0.11,0.65,0.24,0.28,803377.00,2016
+Teterboro Borough,Bergen,0.25,0.03,0.72,0.27,168400.00,2016
+Upper Saddle River Borough,Bergen,0.13,0.70,0.17,0.31,769123.00,2016
+Waldwick Borough,Bergen,0.09,0.69,0.22,0.24,415340.00,2016
+Wallington Borough,Bergen,0.09,0.59,0.32,0.25,310531.00,2016
+Washington Township,Bergen,0.11,0.64,0.25,0.26,463114.00,2016
+Westwood Borough,Bergen,0.10,0.57,0.32,0.27,388355.00,2016
+Woodcliff Lake Borough,Bergen,0.12,0.65,0.24,0.25,725883.00,2016
+Wood-Ridge Borough,Bergen,0.09,0.52,0.39,0.36,230202.00,2016
+Wyckoff Township,Bergen,0.14,0.70,0.16,0.24,778341.00,2016
+Bass River Township,Burlington,0.21,0.71,0.07,0.47,221017.00,2016
+Beverly City,Burlington,0.09,0.57,0.34,0.40,126820.00,2016
+Bordentown City,Burlington,0.12,0.57,0.30,0.41,202207.00,2016
+Bordentown Township,Burlington,0.15,0.67,0.19,0.45,241745.00,2016
+Burlington City,Burlington,0.12,0.52,0.36,0.42,139462.00,2016
+Burlington Township,Burlington,0.16,0.67,0.18,0.46,228799.00,2016
+Chesterfield Township,Burlington,0.15,0.75,0.10,0.41,391432.00,2016
+Cinnaminson Township,Burlington,0.14,0.66,0.20,0.45,232101.00,2016
+Delanco Township,Burlington,0.15,0.52,0.33,0.44,189102.00,2016
+Delran Township,Burlington,0.12,0.65,0.22,0.44,209856.00,2016
+Eastampton Township,Burlington,0.14,0.55,0.30,0.43,220501.00,2016
+Edgewater Park Township,Burlington,0.13,0.58,0.29,0.36,190458.00,2016
+Evesham Township,Burlington,0.15,0.68,0.17,0.41,269941.00,2016
+Fieldsboro Borough,Burlington,0.15,0.64,0.22,0.39,191145.00,2016
+Florence Township,Burlington,0.17,0.64,0.19,0.39,218712.00,2016
+Hainesport Township,Burlington,0.19,0.66,0.16,0.43,277541.00,2016
+Lumberton Township,Burlington,0.17,0.64,0.19,0.39,303243.00,2016
+Mansfield Township,Burlington,0.16,0.69,0.15,0.50,248389.00,2016
+Maple Shade Township,Burlington,0.13,0.61,0.26,0.44,158245.00,2016
+Medford Township,Burlington,0.14,0.71,0.14,0.45,327608.00,2016
+Medford Lakes Borough,Burlington,0.13,0.66,0.20,0.41,285597.00,2016
+Moorestown Township,Burlington,0.18,0.65,0.17,0.45,468181.00,2016
+Mount Holly Township,Burlington,0.14,0.59,0.27,0.37,172205.00,2016
+Mount Laurel Township,Burlington,0.16,0.67,0.18,0.41,237625.00,2016
+New Hanover Township,Burlington,0.22,0.78,0.00,0.55,179904.00,2016
+North Hanover Township,Burlington,0.19,0.65,0.16,0.40,314827.00,2016
+Palmyra Borough,Burlington,0.12,0.56,0.32,0.44,147751.00,2016
+Pemberton Borough,Burlington,0.24,0.51,0.25,0.44,185129.00,2016
+Pemberton Township,Burlington,0.18,0.37,0.45,0.67,97025.00,2016
+Riverside Township,Burlington,0.12,0.57,0.31,0.39,152154.00,2016
+Riverton Borough,Burlington,0.13,0.62,0.25,0.44,246831.00,2016
+Shamong Township,Burlington,0.16,0.81,0.04,0.43,307988.00,2016
+Southampton Township,Burlington,0.16,0.69,0.15,0.44,192034.00,2016
+Springfield Township,Burlington,0.14,0.67,0.19,0.42,275016.00,2016
+Tabernacle Township,Burlington,0.15,0.70,0.14,0.43,263745.00,2016
+Washington Township,Burlington,0.23,0.77,0.00,0.40,235417.00,2016
+Westampton Township,Burlington,0.18,0.56,0.26,0.41,242411.00,2016
+Willingboro Township,Burlington,0.09,0.45,0.45,0.35,157838.00,2016
+Woodland Township,Burlington,0.17,0.79,0.04,0.36,261391.00,2016
+Wrightstown Borough,Burlington,0.14,0.49,0.36,0.54,104988.00,2016
+Audubon Borough,Camden,0.24,0.50,0.26,0.82,204191.00,2016
+Audubon Park Borough,Camden,0.15,0.32,0.53,0.89,41852.54,2016
+Barrington Borough,Camden,0.22,0.50,0.28,0.83,217203.00,2016
+Bellmawr Borough,Camden,0.22,0.46,0.32,0.81,168832.00,2016
+Berlin Borough,Camden,0.27,0.50,0.23,0.81,234214.00,2016
+Berlin Township,Camden,0.24,0.42,0.33,0.87,171164.00,2016
+Brooklawn Borough,Camden,0.23,0.31,0.45,0.72,136107.00,2016
+Camden City,Camden,0.32,0.15,0.53,0.90,55551.00,2016
+Cherry Hill Township,Camden,0.24,0.59,0.16,0.89,224167.00,2016
+Chesilhurst Borough,Camden,0.26,0.28,0.46,0.83,164692.00,2016
+Clementon Borough,Camden,0.22,0.44,0.35,0.81,134997.00,2016
+Collingswood Borough,Camden,0.25,0.45,0.30,0.82,229469.00,2016
+Gibbsboro Borough,Camden,0.24,0.52,0.24,1.21,155776.00,2016
+Gloucester City City,Camden,0.23,0.25,0.52,0.95,107659.00,2016
+Gloucester Township,Camden,0.24,0.48,0.29,0.85,189648.00,2016
+Haddon Township,Camden,0.26,0.55,0.18,0.93,224346.00,2016
+Haddonfield Borough,Camden,0.29,0.54,0.17,0.84,488481.00,2016
+Haddon Heights Borough,Camden,0.27,0.51,0.23,0.83,284293.00,2016
+Hi-nella Borough,Camden,0.18,0.53,0.29,0.78,150445.00,2016
+Laurel Springs Borough,Camden,0.17,0.51,0.31,1.28,108637.00,2016
+Lawnside Borough,Camden,0.23,0.53,0.24,0.90,136104.00,2016
+Lindenwold Borough,Camden,0.19,0.47,0.34,0.91,96438.00,2016
+Magnolia Borough,Camden,0.22,0.53,0.25,0.88,146929.00,2016
+Merchantville Borough,Camden,0.22,0.49,0.29,0.90,185600.00,2016
+Mount Ephraim Borough,Camden,0.20,0.50,0.29,0.90,144873.00,2016
+Oaklyn Borough,Camden,0.23,0.45,0.33,0.97,162923.00,2016
+Pennsauken Township,Camden,0.25,0.48,0.27,0.88,140017.00,2016
+Pine Hill Borough,Camden,0.19,0.56,0.25,0.77,151411.00,2016
+Pine Valley Borough,Camden,0.52,0.00,0.48,0.89,544874.00,2016
+Runnemede Borough,Camden,0.22,0.51,0.27,0.84,147265.00,2016
+Somerdale Borough,Camden,0.22,0.51,0.26,0.92,135187.00,2016
+Stratford Borough,Camden,0.21,0.56,0.23,0.86,156986.00,2016
+Tavistock Borough,Camden,0.49,0.13,0.38,0.89,1720000.00,2016
+Voorhees Township,Camden,0.26,0.56,0.17,0.97,256186.00,2016
+Waterford Township,Camden,0.23,0.50,0.27,0.88,172835.00,2016
+Winslow Township,Camden,0.27,0.55,0.18,0.89,175131.00,2016
+Woodlynne Borough,Camden,0.11,0.47,0.42,0.83,68668.00,2016
+Avalon Borough,Cape May,0.45,0.08,0.48,0.24,1328416.00,2016
+Cape May City,Cape May,0.30,0.29,0.41,0.25,640290.00,2016
+Cape May Point Borough,Cape May,0.44,0.04,0.52,0.25,687790.00,2016
+Dennis Township,Cape May,0.17,0.69,0.14,0.26,184056.00,2016
+Lower Township,Cape May,0.16,0.51,0.33,0.27,229504.00,2016
+Middle Township,Cape May,0.15,0.58,0.27,0.25,241790.00,2016
+North Wildwood City,Cape May,0.21,0.22,0.57,0.25,304515.00,2016
+Ocean City City,Cape May,0.26,0.24,0.50,0.24,594157.00,2016
+Sea Isle City,Cape May,0.38,0.06,0.56,0.25,659863.00,2016
+Stone Harbor Borough,Cape May,0.45,0.10,0.45,0.24,1443098.00,2016
+Upper Township,Cape May,0.16,0.75,0.10,0.28,266200.00,2016
+West Cape May Borough,Cape May,0.20,0.51,0.29,0.25,439581.00,2016
+West Wildwood Borough,Cape May,0.16,0.35,0.49,0.23,276478.00,2016
+Wildwood City,Cape May,0.11,0.33,0.56,0.26,204497.00,2016
+Wildwood Crest Borough,Cape May,0.20,0.25,0.55,0.24,382854.00,2016
+Woodbine Borough,Cape May,0.15,0.68,0.16,0.22,123598.00,2016
+Bridgeton City,Cumberland,0.25,0.17,0.58,1.10,69563.00,2016
+Commercial Township,Cumberland,0.41,0.32,0.27,0.88,113328.00,2016
+Deerfield Township,Cumberland,0.36,0.62,0.03,1.18,139622.00,2016
+Downe Township,Cumberland,0.48,0.39,0.13,1.02,152140.00,2016
+Fairfield Township,Cumberland,0.43,0.39,0.18,1.03,160534.00,2016
+Greenwich Township,Cumberland,0.34,0.54,0.12,1.37,149174.00,2016
+Hopewell Township,Cumberland,0.38,0.54,0.08,1.41,127371.00,2016
+Lawrence Township,Cumberland,0.41,0.41,0.18,1.00,169823.00,2016
+Maurice River Township,Cumberland,0.44,0.39,0.17,1.11,176087.00,2016
+Millville City,Cumberland,0.37,0.24,0.38,1.23,125623.00,2016
+Shiloh Borough,Cumberland,0.37,0.51,0.12,0.96,156592.00,2016
+Stow Creek Township,Cumberland,0.38,0.56,0.06,1.09,175450.00,2016
+Upper Deerfield Township,Cumberland,0.39,0.58,0.03,1.10,177125.00,2016
+Vineland City,Cumberland,0.44,0.23,0.33,1.14,159372.00,2016
+Belleville Township,Essex,0.14,0.38,0.48,0.54,237900.00,2016
+Bloomfield Township,Essex,0.14,0.47,0.39,0.55,270679.00,2016
+Caldwell Township,Essex,0.21,0.51,0.28,0.58,414918.00,2016
+Cedar Grove Township,Essex,0.25,0.54,0.21,0.55,464414.00,2016
+East Orange City,Essex,0.11,0.17,0.72,0.57,169364.00,2016
+Essex Fells Township,Essex,0.26,0.50,0.24,0.53,923039.00,2016
+Fairfield Township,Essex,0.27,0.47,0.26,0.60,445910.00,2016
+Glen Ridge Borough,Essex,0.17,0.60,0.23,0.59,543553.00,2016
+Irvington Township,Essex,0.11,0.19,0.70,0.58,131189.00,2016
+Livingston Township,Essex,0.22,0.59,0.19,0.55,605270.00,2016
+Maplewood Township,Essex,0.16,0.58,0.26,0.59,396992.00,2016
+Millburn Township,Essex,0.28,0.47,0.25,0.60,1082989.00,2016
+Montclair Township,Essex,0.17,0.56,0.27,0.62,503448.00,2016
+Newark City,Essex,0.17,0.29,0.54,0.58,174750.00,2016
+North Caldwell Borough,Essex,0.25,0.58,0.17,0.57,678814.00,2016
+Nutley Township,Essex,0.16,0.48,0.36,0.55,316418.00,2016
+Orange City,Essex,0.12,0.19,0.68,0.58,174710.00,2016
+Roseland Borough,Essex,0.25,0.47,0.28,0.56,464505.00,2016
+South Orange Village,Essex,0.16,0.57,0.27,0.61,459258.00,2016
+Verona Township,Essex,0.20,0.55,0.26,0.60,361734.00,2016
+West Caldwell Township,Essex,0.23,0.53,0.24,0.53,436500.00,2016
+West Orange Township,Essex,0.14,0.61,0.25,0.56,338049.00,2016
+Clayton Borough,Gloucester,0.19,0.54,0.27,0.72,153389.00,2016
+Deptford Township,Gloucester,0.22,0.50,0.28,0.64,179090.00,2016
+East Greenwich Township,Gloucester,0.24,0.64,0.12,0.76,268898.00,2016
+Elk Township,Gloucester,0.22,0.52,0.26,0.75,202057.00,2016
+Franklin Township,Gloucester,0.22,0.57,0.21,0.71,185409.00,2016
+Glassboro Borough,Gloucester,0.20,0.50,0.30,0.70,187534.00,2016
+Greenwich Township,Gloucester,0.25,0.42,0.33,0.76,161697.00,2016
+Harrison Township,Gloucester,0.26,0.56,0.18,0.76,316638.00,2016
+Logan Township,Gloucester,0.32,0.48,0.20,0.78,188258.00,2016
+Mantua Township,Gloucester,0.23,0.56,0.21,0.73,205171.00,2016
+Monroe Township,Gloucester,0.19,0.55,0.26,0.67,200504.00,2016
+National Park Borough,Gloucester,0.17,0.61,0.22,0.68,137273.00,2016
+Newfield Borough,Gloucester,0.20,0.55,0.25,0.67,176839.00,2016
+Paulsboro Borough,Gloucester,0.19,0.43,0.38,0.68,104314.00,2016
+Pitman Borough,Gloucester,0.17,0.58,0.25,0.71,168235.00,2016
+South Harrison Township,Gloucester,0.26,0.66,0.07,0.75,318965.00,2016
+Swedesboro Borough,Gloucester,0.19,0.58,0.24,0.75,171527.00,2016
+Washington Township,Gloucester,0.21,0.59,0.21,0.71,210282.00,2016
+Wenonah Borough,Gloucester,0.17,0.63,0.20,0.68,265467.00,2016
+West Deptford Township,Gloucester,0.22,0.47,0.31,0.67,200068.00,2016
+Westville Borough,Gloucester,0.16,0.54,0.30,0.71,125094.00,2016
+Woodbury City,Gloucester,0.16,0.51,0.34,0.70,140154.00,2016
+Woodbury Heights Borough,Gloucester,0.18,0.55,0.27,0.75,178054.00,2016
+Woolwich Township,Gloucester,0.21,0.64,0.15,0.77,285550.00,2016
+Bayonne City,Hudson,0.16,0.40,0.44,1.27,123807.00,2016
+East Newark Borough,Hudson,0.18,0.37,0.45,1.68,77070.00,2016
+Guttenberg Town,Hudson,0.17,0.39,0.45,0.61,250364.00,2016
+Harrison Town,Hudson,0.18,0.28,0.53,1.33,151397.00,2016
+Hoboken City,Hudson,0.41,0.24,0.35,0.64,519012.00,2016
+Jersey City City,Hudson,0.25,0.26,0.49,1.93,90361.00,2016
+Kearny Town,Hudson,0.17,0.45,0.38,1.83,95266.00,2016
+North Bergen Township,Hudson,0.20,0.34,0.46,1.07,135834.00,2016
+Secaucus Town,Hudson,0.25,0.37,0.39,0.92,180415.00,2016
+Union City City,Hudson,0.18,0.15,0.67,1.24,115515.00,2016
+Weehawken Township,Hudson,0.22,0.32,0.47,1.09,261410.00,2016
+West New York Town,Hudson,0.19,0.24,0.57,1.38,100360.00,2016
+Alexandria Township,Hunterdon,0.16,0.74,0.10,0.40,383727.00,2016
+Bethlehem Township,Hunterdon,0.14,0.73,0.14,0.39,353164.00,2016
+Bloomsbury Borough,Hunterdon,0.14,0.65,0.22,0.39,214387.00,2016
+Califon Borough,Hunterdon,0.11,0.70,0.19,0.35,328936.00,2016
+Clinton Town,Hunterdon,0.13,0.62,0.25,0.40,312346.00,2016
+Clinton Township,Hunterdon,0.15,0.72,0.13,0.38,397089.00,2016
+Delaware Township,Hunterdon,0.17,0.65,0.18,0.43,418262.00,2016
+East Amwell Township,Hunterdon,0.17,0.72,0.10,0.41,382993.00,2016
+Flemington Borough,Hunterdon,0.11,0.59,0.30,0.36,255901.00,2016
+Franklin Township,Hunterdon,0.16,0.70,0.14,0.38,426326.00,2016
+Frenchtown Borough,Hunterdon,0.13,0.61,0.26,0.43,261218.00,2016
+Glen Gardner Borough,Hunterdon,0.14,0.66,0.21,0.41,183821.00,2016
+Hampton Borough,Hunterdon,0.12,0.68,0.20,0.36,241805.00,2016
+High Bridge Borough,Hunterdon,0.11,0.63,0.27,0.40,228830.00,2016
+Holland Township,Hunterdon,0.15,0.78,0.07,0.39,289534.00,2016
+Kingwood Township,Hunterdon,0.17,0.71,0.12,0.36,366113.00,2016
+Lambertville City,Hunterdon,0.18,0.64,0.18,0.34,363678.00,2016
+Lebanon Borough,Hunterdon,0.16,0.67,0.17,0.37,270457.00,2016
+Lebanon Township,Hunterdon,0.16,0.73,0.10,0.45,305383.00,2016
+Milford Borough,Hunterdon,0.11,0.68,0.21,0.36,227362.00,2016
+Raritan Township,Hunterdon,0.16,0.71,0.13,0.37,398372.00,2016
+Readington Township,Hunterdon,0.16,0.65,0.20,0.44,360758.00,2016
+Stockton Borough,Hunterdon,0.18,0.62,0.20,0.37,367001.00,2016
+Tewksbury Township,Hunterdon,0.18,0.64,0.17,0.44,562734.00,2016
+Union Township,Hunterdon,0.17,0.73,0.10,0.43,308028.00,2016
+West Amwell Township,Hunterdon,0.16,0.69,0.15,0.37,418412.00,2016
+East Windsor Township,Mercer,0.21,0.65,0.14,0.66,258271.00,2016
+Ewing Township,Mercer,0.19,0.56,0.25,0.99,123631.00,2016
+Hamilton Township,Mercer,0.23,0.48,0.29,0.62,214142.00,2016
+Hightstown Borough,Mercer,0.17,0.54,0.29,0.71,212893.00,2016
+Hopewell Borough,Mercer,0.23,0.56,0.21,0.62,404561.00,2016
+Hopewell Township,Mercer,0.26,0.59,0.15,0.69,482182.00,2016
+Lawrence Township,Mercer,0.27,0.53,0.20,0.73,283906.00,2016
+Pennington Borough,Mercer,0.24,0.59,0.18,0.63,493650.00,2016
+Trenton City,Mercer,0.12,0.20,0.68,0.71,63411.00,2016
+Robbinsville Township,Mercer,0.24,0.56,0.20,0.70,369464.00,2016
+West Windsor Township,Mercer,0.28,0.57,0.16,0.73,524291.00,2016
+Princeton,Mercer,0.30,0.48,0.22,0.69,809991.00,2016
+Carteret Borough,Middlesex,0.14,0.44,0.42,0.45,206833.00,2016
+Cranbury Township,Middlesex,0.20,0.54,0.25,0.39,604397.00,2016
+Dunellen Borough,Middlesex,0.13,0.60,0.27,1.61,64288.00,2016
+East Brunswick Township,Middlesex,0.14,0.65,0.21,1.47,93598.00,2016
+Edison Township,Middlesex,0.17,0.58,0.25,0.85,177695.00,2016
+Helmetta Borough,Middlesex,0.15,0.60,0.25,0.43,205768.00,2016
+Highland Park Borough,Middlesex,0.12,0.62,0.27,0.91,141020.00,2016
+Jamesburg Borough,Middlesex,0.12,0.59,0.29,0.72,123968.00,2016
+Old Bridge Township,Middlesex,0.18,0.60,0.22,0.84,153443.00,2016
+Metuchen Borough,Middlesex,0.16,0.63,0.22,0.90,177399.00,2016
+Middlesex Borough,Middlesex,0.13,0.57,0.30,1.12,93109.00,2016
+Milltown Borough,Middlesex,0.14,0.63,0.23,0.75,163396.00,2016
+Monroe Township,Middlesex,0.18,0.60,0.22,0.43,307963.00,2016
+New Brunswick City,Middlesex,0.17,0.40,0.43,0.99,117136.00,2016
+North Brunswick Township,Middlesex,0.14,0.62,0.24,0.72,157120.00,2016
+Perth Amboy City,Middlesex,0.13,0.26,0.61,0.37,239615.00,2016
+Piscataway Township,Middlesex,0.16,0.55,0.28,0.43,276038.00,2016
+Plainsboro Township,Middlesex,0.16,0.67,0.17,0.34,451589.00,2016
+Sayreville Borough,Middlesex,0.16,0.56,0.28,0.78,144414.00,2016
+South Amboy City,Middlesex,0.14,0.40,0.45,0.37,270419.00,2016
+South Brunswick Township,Middlesex,0.19,0.61,0.19,0.94,188793.00,2016
+South Plainfield Borough,Middlesex,0.18,0.58,0.24,1.06,122039.00,2016
+South River Borough,Middlesex,0.17,0.54,0.29,1.28,81941.00,2016
+Spotswood Borough,Middlesex,0.13,0.56,0.30,0.41,254662.00,2016
+Woodbridge Township,Middlesex,0.14,0.56,0.30,1.43,76388.00,2016
+Allenhurst Borough,Monmouth,0.40,0.05,0.55,0.33,1574062.00,2016
+Allentown Borough,Monmouth,0.11,0.62,0.28,0.33,289157.00,2016
+Asbury Park City,Monmouth,0.15,0.25,0.60,0.31,240230.00,2016
+Atlantic Highlands Borough,Monmouth,0.14,0.53,0.33,0.37,338398.00,2016
+Avon-by-the-Sea Borough,Monmouth,0.27,0.36,0.38,0.31,845273.00,2016
+Belmar Borough,Monmouth,0.22,0.42,0.36,0.41,345527.00,2016
+Bradley Beach Borough,Monmouth,0.20,0.37,0.43,0.28,517540.00,2016
+Brielle Borough,Monmouth,0.17,0.56,0.27,0.29,663445.00,2016
+Colts Neck Township,Monmouth,0.17,0.68,0.15,0.30,841409.00,2016
+Deal Borough,Monmouth,0.44,0.14,0.42,0.31,2201920.00,2016
+Eatontown Borough,Monmouth,0.12,0.51,0.36,0.27,329527.00,2016
+Englishtown Borough,Monmouth,0.13,0.59,0.28,0.28,299707.00,2016
+Fair Haven Borough,Monmouth,0.15,0.64,0.21,0.30,739947.00,2016
+Farmingdale Borough,Monmouth,0.14,0.74,0.12,0.29,300473.00,2016
+Freehold Borough,Monmouth,0.10,0.53,0.37,0.26,247265.00,2016
+Freehold Township,Monmouth,0.14,0.69,0.16,0.32,380335.00,2016
+Highlands Borough,Monmouth,0.11,0.43,0.46,0.30,231939.00,2016
+Holmdel Township,Monmouth,0.15,0.66,0.19,0.31,658097.00,2016
+Howell Township,Monmouth,0.13,0.69,0.18,0.31,318404.00,2016
+Interlaken Borough,Monmouth,0.20,0.25,0.55,0.28,609738.00,2016
+Keansburg Borough,Monmouth,0.09,0.29,0.62,0.33,133051.00,2016
+Keyport Borough,Monmouth,0.11,0.53,0.36,0.28,248536.00,2016
+Little Silver Borough,Monmouth,0.15,0.63,0.22,0.30,647339.00,2016
+Loch Arbour Village,Monmouth,0.14,0.68,0.19,0.30,1040183.00,2016
+Long Branch City,Monmouth,0.14,0.43,0.43,0.28,412522.00,2016
+Manalapan Township,Monmouth,0.15,0.67,0.18,0.30,407337.00,2016
+Manasquan Borough,Monmouth,0.22,0.54,0.24,0.30,621031.00,2016
+Marlboro Township,Monmouth,0.14,0.68,0.17,0.31,494350.00,2016
+Matawan Borough,Monmouth,0.10,0.59,0.30,0.28,314531.00,2016
+Aberdeen Township,Monmouth,0.11,0.67,0.22,0.29,273265.00,2016
+Middletown Township,Monmouth,0.13,0.63,0.24,0.28,406386.00,2016
+Millstone Township,Monmouth,0.13,0.77,0.09,0.29,522400.00,2016
+Monmouth Beach Borough,Monmouth,0.23,0.51,0.26,0.30,618895.00,2016
+Neptune Township,Monmouth,0.14,0.48,0.38,0.29,286984.00,2016
+Neptune City Borough,Monmouth,0.12,0.50,0.38,0.29,246985.00,2016
+Tinton Falls Borough,Monmouth,0.15,0.59,0.25,0.31,326598.00,2016
+Ocean Township,Monmouth,0.14,0.64,0.22,0.33,397663.00,2016
+Oceanport Borough,Monmouth,0.16,0.58,0.26,0.34,447654.00,2016
+Hazlet Township,Monmouth,0.12,0.64,0.24,0.30,297326.00,2016
+Red Bank Borough,Monmouth,0.13,0.59,0.28,0.28,354006.00,2016
+Roosevelt Borough,Monmouth,0.10,0.64,0.25,0.29,257953.00,2016
+Rumson Borough,Monmouth,0.20,0.57,0.23,0.29,1336434.00,2016
+Sea Bright Borough,Monmouth,0.21,0.33,0.46,0.27,511023.00,2016
+Sea Girt Borough,Monmouth,0.42,0.27,0.31,0.30,1777545.00,2016
+Shrewsbury Borough,Monmouth,0.14,0.55,0.31,0.30,518603.00,2016
+Shrewsbury Township,Monmouth,0.10,0.41,0.49,0.29,158326.00,2016
+Lake Como Borough (South Belmar),Monmouth,0.18,0.41,0.41,0.31,365579.00,2016
+Spring Lake Borough,Monmouth,0.42,0.27,0.32,0.28,1737190.00,2016
+Spring Lake Heights Borough,Monmouth,0.21,0.51,0.28,0.29,476463.00,2016
+Union Beach Borough,Monmouth,0.11,0.44,0.45,0.32,211472.00,2016
+Upper Freehold Township,Monmouth,0.13,0.75,0.12,0.31,463817.00,2016
+Wall Township,Monmouth,0.16,0.60,0.25,0.28,481022.00,2016
+West Long Branch Borough,Monmouth,0.14,0.55,0.31,0.30,420597.00,2016
+Boonton Town,Morris,0.09,0.61,0.29,0.26,359321.00,2016
+Boonton Township,Morris,0.12,0.67,0.21,0.27,527476.00,2016
+Butler Borough,Morris,0.09,0.63,0.28,0.32,252369.00,2016
+Chatham Borough,Morris,0.15,0.63,0.22,0.30,667372.00,2016
+Chatham Township,Morris,0.16,0.67,0.17,0.28,782236.00,2016
+Chester Borough,Morris,0.10,0.55,0.35,0.25,489405.00,2016
+Chester Township,Morris,0.11,0.66,0.22,0.27,665750.00,2016
+Denville Township,Morris,0.12,0.68,0.20,0.27,403434.00,2016
+Dover Town,Morris,0.11,0.42,0.46,0.27,238511.00,2016
+East Hanover Township,Morris,0.16,0.55,0.29,0.34,361935.00,2016
+Florham Park Borough,Morris,0.17,0.55,0.28,0.24,649301.00,2016
+Hanover Township,Morris,0.16,0.58,0.25,0.28,417884.00,2016
+Harding Township,Morris,0.26,0.46,0.28,0.28,1242066.00,2016
+Jefferson Township,Morris,0.10,0.61,0.30,0.26,290756.00,2016
+Kinnelon Borough,Morris,0.10,0.69,0.20,0.34,439305.00,2016
+Lincoln Park Borough,Morris,0.10,0.52,0.38,0.25,319676.00,2016
+Madison Borough,Morris,0.15,0.62,0.22,0.28,673013.00,2016
+Mendham Borough,Morris,0.13,0.65,0.22,0.27,704326.00,2016
+Mendham Township,Morris,0.13,0.67,0.20,0.26,908246.00,2016
+Mine Hill Township,Morris,0.10,0.60,0.30,0.24,278890.00,2016
+Montville Township,Morris,0.12,0.67,0.21,0.27,528005.00,2016
+Morris Township,Morris,0.14,0.60,0.26,0.24,559740.00,2016
+Morris Plains Borough,Morris,0.13,0.52,0.36,0.27,437270.00,2016
+Morristown Town,Morris,0.12,0.50,0.38,0.32,350084.00,2016
+Mountain Lakes Borough,Morris,0.11,0.68,0.20,0.28,782636.00,2016
+Mount Arlington Borough,Morris,0.11,0.56,0.33,0.28,286203.00,2016
+Mount Olive Township,Morris,0.08,0.70,0.21,0.26,315519.00,2016
+Netcong Borough,Morris,0.08,0.61,0.31,0.20,287548.00,2016
+Parsippany-Troy Hills Township,Morris,0.11,0.65,0.24,0.30,309208.00,2016
+Long Hill Township,Morris,0.12,0.60,0.28,0.28,493040.00,2016
+Pequannock Township,Morris,0.13,0.63,0.24,0.27,372603.00,2016
+Randolph Township,Morris,0.10,0.69,0.20,0.38,336242.00,2016
+Riverdale Borough,Morris,0.14,0.49,0.37,0.27,283213.00,2016
+Rockaway Borough,Morris,0.10,0.62,0.29,0.28,300740.00,2016
+Rockaway Township,Morris,0.09,0.63,0.28,0.27,311537.00,2016
+Roxbury Township,Morris,0.10,0.63,0.27,0.41,208329.00,2016
+Victory Gardens Borough,Morris,0.10,0.51,0.38,0.26,171718.00,2016
+Washington Township,Morris,0.11,0.71,0.18,0.26,438024.00,2016
+Wharton Borough,Morris,0.09,0.69,0.22,0.26,255750.00,2016
+Barnegat Light Borough,Ocean,0.48,0.26,0.26,0.41,785009.00,2016
+Bay Head Borough,Ocean,0.50,0.25,0.25,0.41,1537733.00,2016
+Beach Haven Borough,Ocean,0.33,0.31,0.36,0.44,671342.00,2016
+Beachwood Borough,Ocean,0.19,0.44,0.37,0.43,203119.00,2016
+Berkeley Township,Ocean,0.20,0.49,0.30,0.42,199181.00,2016
+Brick Township,Ocean,0.20,0.47,0.33,0.43,293594.00,2016
+Toms River Township,Ocean,0.22,0.49,0.29,0.48,267527.00,2016
+Eagleswood Township,Ocean,0.18,0.65,0.17,0.42,252239.00,2016
+Harvey Cedars Borough,Ocean,0.42,0.33,0.25,0.42,1008759.00,2016
+Island Heights Borough,Ocean,0.23,0.49,0.28,0.42,383638.00,2016
+Jackson Township,Ocean,0.19,0.59,0.22,0.42,325749.00,2016
+Lacey Township,Ocean,0.21,0.62,0.17,0.42,274924.00,2016
+Lakehurst Borough,Ocean,0.16,0.29,0.56,0.48,159860.00,2016
+Lakewood Township,Ocean,0.19,0.51,0.30,0.55,230304.00,2016
+Lavallette Borough,Ocean,0.49,0.20,0.31,0.46,691647.00,2016
+Little Egg Harbor Township,Ocean,0.19,0.53,0.28,0.43,196052.00,2016
+Long Beach Township,Ocean,0.45,0.32,0.24,0.44,930246.00,2016
+Manchester Township,Ocean,0.19,0.55,0.26,0.48,157858.00,2016
+Mantoloking Borough,Ocean,0.62,0.01,0.36,0.43,2389293.00,2016
+Ocean Township,Ocean,0.23,0.44,0.33,0.44,267205.00,2016
+Ocean Gate Borough,Ocean,0.17,0.51,0.32,0.43,197949.00,2016
+Pine Beach Borough,Ocean,0.20,0.46,0.33,0.46,267212.00,2016
+Plumsted Township,Ocean,0.20,0.68,0.12,0.46,279626.00,2016
+Point Pleasant Borough,Ocean,0.22,0.55,0.23,0.43,381628.00,2016
+Point Pleasant Beach Borough,Ocean,0.29,0.43,0.27,0.44,543955.00,2016
+Seaside Heights Borough,Ocean,0.18,0.40,0.42,0.40,225840.00,2016
+Seaside Park Borough,Ocean,0.33,0.31,0.37,0.43,548478.00,2016
+Ship Bottom Borough,Ocean,0.40,0.24,0.36,0.45,542068.00,2016
+South Toms River Borough,Ocean,0.15,0.34,0.51,0.42,164792.00,2016
+Stafford Township,Ocean,0.19,0.42,0.38,0.45,257115.00,2016
+Surf City Borough,Ocean,0.43,0.30,0.27,0.43,691452.00,2016
+Tuckerton Borough,Ocean,0.17,0.54,0.29,0.40,213749.00,2016
+Barnegat Township,Ocean,0.16,0.52,0.33,0.41,237650.00,2016
+Bloomingdale Borough,Passaic,0.20,0.53,0.27,0.82,254833.00,2016
+Clifton City,Passaic,0.25,0.47,0.28,1.32,176993.00,2016
+Haledon Borough,Passaic,0.17,0.49,0.33,0.76,230772.00,2016
+Hawthorne Borough,Passaic,0.25,0.54,0.21,1.42,182168.00,2016
+Little Falls Township,Passaic,0.27,0.46,0.27,0.83,303719.00,2016
+North Haledon Borough,Passaic,0.29,0.39,0.32,0.82,377894.00,2016
+Passaic City,Passaic,0.23,0.16,0.61,0.77,274583.00,2016
+Paterson City,Passaic,0.19,0.16,0.65,0.81,192492.00,2016
+Pompton Lakes Borough,Passaic,0.20,0.56,0.24,1.36,143460.00,2016
+Prospect Park Borough,Passaic,0.16,0.52,0.33,0.78,211468.00,2016
+Ringwood Borough,Passaic,0.23,0.56,0.21,0.84,301751.00,2016
+Totowa Borough,Passaic,0.31,0.46,0.23,0.72,396090.00,2016
+Wanaque Borough,Passaic,0.23,0.53,0.25,0.83,230087.00,2016
+Wayne Township,Passaic,0.26,0.52,0.22,1.37,229046.00,2016
+West Milford Township,Passaic,0.22,0.53,0.25,0.83,244728.00,2016
+Woodland Park Borough,Passaic,0.26,0.48,0.26,0.79,343463.00,2016
+Alloway Township,Salem,0.39,0.52,0.09,1.11,194940.00,2016
+Elmer Borough,Salem,0.37,0.43,0.20,1.11,167531.00,2016
+Elsinboro Township,Salem,0.37,0.49,0.14,0.96,188862.00,2016
+Lower Alloways Creek Township,Salem,1.00,0.00,0.00,1.55,129878.00,2016
+Mannington Township,Salem,0.40,0.49,0.11,1.08,199986.00,2016
+Oldmans Township,Salem,0.43,0.49,0.07,1.05,193406.00,2016
+Penns Grove Borough,Salem,0.22,0.33,0.45,0.86,108463.00,2016
+Pennsville Township,Salem,0.28,0.53,0.19,1.02,156664.00,2016
+Pilesgrove Township,Salem,0.35,0.55,0.10,0.99,279582.00,2016
+Pittsgrove Township,Salem,0.36,0.54,0.10,1.14,187084.00,2016
+Quinton Township,Salem,0.41,0.49,0.10,1.13,163857.00,2016
+Salem City,Salem,0.19,0.29,0.52,0.74,95424.00,2016
+Carneys Point Township,Salem,0.33,0.50,0.17,0.93,161807.00,2016
+Upper Pittsgrove Township,Salem,0.42,0.51,0.07,1.01,244002.00,2016
+Woodstown Borough,Salem,0.31,0.49,0.20,1.04,213111.00,2016
+Bedminster Township,Somerset,0.26,0.50,0.23,0.35,451900.00,2016
+Bernards Township,Somerset,0.18,0.65,0.17,0.36,632501.00,2016
+Bernardsville Borough,Somerset,0.19,0.57,0.24,0.35,800102.00,2016
+Bound Brook Borough,Somerset,0.12,0.57,0.32,0.40,237798.00,2016
+Branchburg Township,Somerset,0.18,0.64,0.18,0.40,420920.00,2016
+Bridgewater Township,Somerset,0.20,0.67,0.12,0.41,424277.00,2016
+Far Hills Borough,Somerset,0.27,0.32,0.41,0.35,1157021.00,2016
+Franklin Township,Somerset,0.15,0.65,0.20,0.35,315056.00,2016
+Green Brook Township,Somerset,0.16,0.65,0.19,0.40,464403.00,2016
+Hillsborough Township,Somerset,0.17,0.68,0.15,0.41,373894.00,2016
+Manville Borough,Somerset,0.13,0.54,0.33,0.40,229566.00,2016
+Millstone Borough,Somerset,0.15,0.63,0.22,0.40,318768.00,2016
+Montgomery Township,Somerset,0.16,0.70,0.14,0.48,500136.00,2016
+North Plainfield Borough,Somerset,0.10,0.56,0.34,0.38,229364.00,2016
+Peapack-Gladstone Borough,Somerset,0.21,0.48,0.31,0.40,732581.00,2016
+Raritan Borough,Somerset,0.16,0.56,0.28,0.37,319706.00,2016
+Rocky Hill Borough,Somerset,0.19,0.62,0.19,0.41,441600.00,2016
+Somerville Borough,Somerset,0.12,0.58,0.30,0.42,270538.00,2016
+South Bound Brook Borough,Somerset,0.12,0.59,0.29,0.39,241506.00,2016
+Warren Township,Somerset,0.20,0.64,0.16,0.40,716875.00,2016
+Watchung Borough,Somerset,0.19,0.53,0.28,0.40,686102.00,2016
+Andover Borough,Sussex,0.20,0.64,0.17,0.56,236906.00,2016
+Andover Township,Sussex,0.17,0.55,0.28,0.57,260384.00,2016
+Branchville Borough,Sussex,0.23,0.68,0.08,0.49,253945.00,2016
+Byram Township,Sussex,0.17,0.56,0.27,0.58,255146.00,2016
+Frankford Township,Sussex,0.24,0.63,0.13,0.62,265696.00,2016
+Franklin Borough,Sussex,0.16,0.51,0.33,0.58,174704.00,2016
+Fredon Township,Sussex,0.19,0.67,0.14,0.54,337876.00,2016
+Green Township,Sussex,0.17,0.65,0.18,0.60,311486.00,2016
+Hamburg Borough,Sussex,0.16,0.61,0.23,0.61,151839.00,2016
+Hampton Township,Sussex,0.21,0.62,0.17,0.58,230992.00,2016
+Hardyston Township,Sussex,0.22,0.53,0.25,0.58,232615.00,2016
+Hopatcong Borough,Sussex,0.19,0.53,0.28,0.65,213866.00,2016
+Lafayette Township,Sussex,0.21,0.68,0.10,0.58,304217.00,2016
+Montague Township,Sussex,0.21,0.64,0.15,0.54,156184.00,2016
+Newton Town,Sussex,0.14,0.52,0.34,0.57,187639.00,2016
+Ogdensburg Borough,Sussex,0.15,0.53,0.32,0.54,221359.00,2016
+Sandyston Township,Sussex,0.24,0.65,0.11,0.60,216444.00,2016
+Sparta Township,Sussex,0.17,0.63,0.20,0.53,372372.00,2016
+Stanhope Borough,Sussex,0.15,0.57,0.28,0.61,191344.00,2016
+Stillwater Township,Sussex,0.20,0.63,0.17,0.60,209054.00,2016
+Sussex Borough,Sussex,0.18,0.59,0.24,0.56,179824.00,2016
+Vernon Township,Sussex,0.19,0.58,0.23,0.49,218621.00,2016
+Walpack Township,Sussex,0.26,0.74,0.00,0.61,77329.00,2016
+Wantage Township,Sussex,0.20,0.68,0.11,0.55,261220.00,2016
+Berkeley Heights Township,Union,0.25,0.56,0.19,0.98,310186.00,2016
+Clark Township,Union,0.22,0.51,0.27,1.82,121716.00,2016
+Cranford Township,Union,0.22,0.54,0.24,1.32,182059.00,2016
+Elizabeth City,Union,0.14,0.24,0.62,4.01,34690.00,2016
+Fanwood Borough,Union,0.20,0.60,0.20,2.71,84857.00,2016
+Garwood Borough,Union,0.20,0.45,0.35,1.84,102091.00,2016
+Hillside Township,Union,0.13,0.44,0.43,1.00,121359.00,2016
+Kenilworth Borough,Union,0.19,0.51,0.29,0.93,179369.00,2016
+Linden City,Union,0.16,0.50,0.34,1.06,133101.00,2016
+Mountainside Borough,Union,0.27,0.47,0.26,1.99,164831.00,2016
+New Providence Borough,Union,0.22,0.57,0.21,1.03,289683.00,2016
+Plainfield City,Union,0.15,0.26,0.59,1.21,108978.00,2016
+Rahway City,Union,0.15,0.46,0.39,0.94,131852.00,2016
+Roselle Borough,Union,0.11,0.38,0.51,0.93,117892.00,2016
+Roselle Park Borough,Union,0.14,0.53,0.32,0.55,253182.00,2016
+Scotch Plains Township,Union,0.21,0.64,0.16,2.19,122028.00,2016
+Springfield Township,Union,0.17,0.51,0.32,1.17,160276.00,2016
+Summit City,Union,0.29,0.50,0.21,1.25,408739.00,2016
+Union Township,Union,0.17,0.46,0.37,3.14,45850.00,2016
+Westfield Town,Union,0.24,0.58,0.18,2.19,180342.00,2016
+Winfield Township,Union,0.03,0.51,0.46,6.46,1540.00,2016
+Allamuchy Township,Warren,0.28,0.57,0.15,0.82,231293.00,2016
+Alpha Borough,Warren,0.23,0.48,0.29,0.71,182084.00,2016
+Belvidere Town,Warren,0.18,0.52,0.30,1.01,121228.00,2016
+Blairstown Township,Warren,0.33,0.66,0.01,0.77,300781.00,2016
+Franklin Township,Warren,0.24,0.66,0.09,0.71,305847.00,2016
+Frelinghuysen Township,Warren,0.31,0.59,0.10,0.72,325451.00,2016
+Greenwich Township,Warren,0.28,0.57,0.16,0.88,271671.00,2016
+Hackettstown Town,Warren,0.24,0.55,0.22,0.69,277708.00,2016
+Hardwick Township,Warren,0.29,0.56,0.15,0.89,253327.00,2016
+Harmony Township,Warren,0.35,0.52,0.13,0.86,209104.00,2016
+Hope Township,Warren,0.27,0.59,0.14,0.68,298459.00,2016
+Independence Township,Warren,0.27,0.57,0.17,0.86,227670.00,2016
+Knowlton Township,Warren,0.27,0.61,0.13,0.90,210444.00,2016
+Liberty Township,Warren,0.26,0.63,0.11,0.78,230884.00,2016
+Lopatcong Township,Warren,0.26,0.55,0.19,0.74,232824.00,2016
+Mansfield Township,Warren,0.25,0.56,0.19,0.81,232968.00,2016
+Oxford Township,Warren,0.21,0.65,0.14,0.84,165974.00,2016
+Phillipsburg Town,Warren,0.19,0.41,0.40,0.75,110280.00,2016
+Pohatcong Township,Warren,0.21,0.47,0.33,0.76,176255.00,2016
+Washington Borough,Warren,0.18,0.52,0.31,0.85,140924.00,2016
+Washington Township,Warren,0.23,0.59,0.18,0.81,245991.00,2016
+White Township,Warren,0.36,0.60,0.04,0.78,260216.00,2016
