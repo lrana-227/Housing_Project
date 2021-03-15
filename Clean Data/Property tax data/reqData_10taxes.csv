@@ -1,0 +1,567 @@
+Municipality,County,County Rate Share,School Rate Share,Municipal Rate Share,Total County Rate,Avg Property value(in $),Year
+Absecon City,Atlantic,0.28,0.99,0.69,1.96,251077.60,2010
+Atlantic City City,Atlantic,0.26,0.58,0.97,1.81,252444.93,2010
+Brigantine City,Atlantic,0.29,0.36,0.43,1.09,525667.73,2010
+Buena Borough,Atlantic,0.33,1.20,0.80,2.33,182750.18,2010
+Buena Vista Township,Atlantic,0.32,1.19,0.35,1.87,218248.74,2010
+Corbin City,Atlantic,0.55,2.40,0.26,3.22,126838.25,2010
+Egg Harbor City,Atlantic,0.33,1.18,1.20,2.72,189407.04,2010
+Egg Harbor Township,Atlantic,0.63,2.65,0.71,3.98,140463.72,2010
+Estell Manor City,Atlantic,0.58,2.03,0.28,2.89,136246.55,2010
+Folsom Borough,Atlantic,0.63,1.61,0.54,2.78,119394.09,2010
+Galloway Township,Atlantic,0.33,1.23,0.41,1.97,225439.56,2010
+Hamilton Township,Atlantic,0.64,2.20,1.31,4.15,104850.66,2010
+Hammonton Township,Atlantic,0.56,2.04,0.76,3.36,135160.62,2010
+Linwood City,Atlantic,0.47,2.22,0.96,3.65,249853.27,2010
+Longport Borough,Atlantic,0.46,0.06,0.35,0.87,963202.89,2010
+Margate City,Atlantic,0.35,0.34,0.59,1.28,505566.57,2010
+Mullica Township,Atlantic,0.70,2.17,1.08,3.95,115485.24,2010
+Northfield City,Atlantic,0.32,1.45,0.80,2.57,242894.87,2010
+Pleasantville City,Atlantic,0.38,0.74,1.67,2.78,125769.87,2010
+Port Republic City,Atlantic,0.62,1.97,0.59,3.19,156741.25,2010
+Somers Point City,Atlantic,0.67,2.23,1.25,4.15,126752.38,2010
+Ventnor City,Atlantic,0.33,0.70,0.69,1.73,395456.24,2010
+Weymouth Township,Atlantic,0.59,2.02,0.61,3.23,121889.26,2010
+Allendale Borough,Bergen,0.27,1.68,0.69,2.64,540912.08,2010
+Alpine Borough,Bergen,0.24,0.28,0.15,0.67,2633272.78,2010
+Bergenfield Borough,Bergen,0.22,1.65,1.00,2.87,317745.72,2010
+Bogota Borough,Bergen,0.21,1.62,0.71,2.55,340772.22,2010
+Carlstadt Borough,Bergen,0.55,1.73,1.73,4.00,158523.37,2010
+Cliffside Park Borough,Bergen,0.28,1.09,0.91,2.28,328362.54,2010
+Closter Borough,Bergen,0.21,1.31,0.50,2.01,664715.88,2010
+Cresskill Borough,Bergen,0.27,1.33,0.70,2.30,595769.53,2010
+Demarest Borough,Bergen,0.24,1.52,0.46,2.22,710460.54,2010
+Dumont Borough,Bergen,0.21,1.53,0.72,2.46,383920.27,2010
+Elmwood Park Borough,Bergen,0.24,1.40,0.80,2.42,335013.10,2010
+East Rutherford Borough,Bergen,0.22,0.91,0.42,1.55,317765.20,2010
+Edgewater Borough,Bergen,0.19,0.45,0.58,1.22,533528.34,2010
+Emerson Borough,Bergen,0.19,1.20,0.60,1.99,518831.92,2010
+Englewood City,Bergen,0.21,0.92,0.90,2.01,566695.12,2010
+Englewood Cliffs Borough,Bergen,0.20,0.29,0.31,0.79,1264275.36,2010
+Fair Lawn Borough,Bergen,0.20,1.43,0.66,2.28,411331.48,2010
+Fairview Borough,Bergen,0.46,1.92,1.86,4.24,188041.25,2010
+Fort Lee Borough,Bergen,0.21,0.80,0.93,1.95,468436.04,2010
+Franklin Lakes Borough,Bergen,0.19,0.85,0.21,1.25,1280957.08,2010
+Garfield City,Bergen,0.43,1.94,1.83,4.21,163305.25,2010
+Glen Rock Borough,Bergen,0.22,1.77,0.53,2.52,546294.66,2010
+Hackensack City,Bergen,0.20,1.04,1.09,2.33,328252.79,2010
+Harrington Park Borough,Bergen,0.20,1.36,0.42,1.98,652551.64,2010
+Hasbrouck Heights Borough,Bergen,0.20,1.22,0.75,2.17,440236.62,2010
+Haworth Borough,Bergen,0.26,1.50,0.69,2.45,602900.88,2010
+Hillsdale Borough,Bergen,0.20,1.41,0.42,2.04,551884.09,2010
+Ho-Ho-Kus Borough,Bergen,0.20,0.85,0.46,1.51,906178.26,2010
+Leonia Borough,Bergen,0.21,1.31,0.76,2.29,478463.30,2010
+Little Ferry Borough,Bergen,0.20,1.33,0.81,2.34,357895.89,2010
+Lodi Borough,Bergen,0.24,1.82,0.88,2.94,319299.32,2010
+Lyndhurst Township,Bergen,0.19,0.88,0.74,1.81,413467.01,2010
+Mahwah Township,Bergen,0.32,1.30,0.50,2.12,358999.81,2010
+Maywood Borough,Bergen,0.19,1.07,0.79,2.05,412109.39,2010
+Midland Park Borough,Bergen,0.30,2.00,0.76,3.06,316324.70,2010
+Montvale Borough,Bergen,0.18,1.01,0.43,1.63,652391.64,2010
+Moonachie Borough,Bergen,0.20,0.88,0.73,1.80,387786.44,2010
+New Milford Borough,Bergen,0.20,1.36,0.73,2.30,414637.04,2010
+North Arlington Borough,Bergen,0.42,2.59,1.73,4.74,179289.64,2010
+Northvale Borough,Bergen,0.20,1.26,0.51,1.97,477760.12,2010
+Norwood Borough,Bergen,0.20,1.06,0.46,1.72,713342.28,2010
+Oakland Borough,Bergen,0.21,1.34,0.55,2.10,485935.69,2010
+Old Tappan Borough,Bergen,0.29,1.55,0.34,2.17,624769.13,2010
+Oradell Borough,Bergen,0.22,1.45,0.57,2.24,531809.84,2010
+Palisades Park Borough,Bergen,0.23,0.86,0.60,1.70,472709.95,2010
+Paramus Borough,Bergen,0.23,0.86,0.55,1.64,535231.59,2010
+Park Ridge Borough,Bergen,0.22,1.30,0.47,1.99,516111.72,2010
+Ramsey Borough,Bergen,0.26,1.67,0.56,2.49,435172.02,2010
+Ridgefield Borough,Bergen,0.22,0.89,0.50,1.61,502809.84,2010
+Ridgefield Park Village,Bergen,0.17,1.38,0.95,2.51,362991.21,2010
+Ridgewood Village,Bergen,0.20,1.24,0.45,1.89,799516.21,2010
+River Edge Borough,Bergen,0.22,1.69,0.65,2.56,440588.42,2010
+River Vale Township,Bergen,0.20,1.37,0.43,2.00,597206.75,2010
+Rochelle Park Township,Bergen,0.21,0.93,0.81,1.95,334519.47,2010
+Rockleigh Borough,Bergen,0.16,0.29,0.49,0.94,1614672.60,2010
+Rutherford Borough,Bergen,0.21,1.26,0.74,2.21,448049.51,2010
+Saddle Brook Township,Bergen,0.21,1.15,0.66,2.02,358938.90,2010
+Saddle River Borough,Bergen,0.24,0.32,0.38,0.94,1683452.29,2010
+South Hackensack Township,Bergen,0.22,1.05,0.89,2.10,387339.38,2010
+Teaneck Township,Bergen,0.20,1.30,0.83,2.33,466129.15,2010
+Tenafly Borough,Bergen,0.27,1.78,0.70,2.75,635226.33,2010
+Teterboro Borough,Bergen,0.27,0.03,0.98,1.28,170000.00,2010
+Upper Saddle River Borough,Bergen,0.28,1.42,0.36,2.06,752436.87,2010
+Waldwick Borough,Bergen,0.21,1.56,0.55,2.32,416401.77,2010
+Wallington Borough,Bergen,0.19,1.02,0.63,1.84,411708.16,2010
+Washington Township,Bergen,0.20,1.14,0.48,1.81,549582.55,2010
+Westwood Borough,Bergen,0.23,1.31,0.68,2.23,398068.10,2010
+Woodcliff Lake Borough,Bergen,0.27,1.42,0.47,2.16,657553.15,2010
+Wood-Ridge Borough,Bergen,0.33,1.74,1.29,3.35,235114.28,2010
+Wyckoff Township,Bergen,0.19,1.04,0.24,1.47,807565.78,2010
+Bass River Township,Burlington,0.39,1.09,0.04,1.53,275795.99,2010
+Beverly City,Burlington,0.73,3.22,1.54,5.49,87490.59,2010
+Bordentown City,Burlington,0.37,1.35,0.76,2.48,246041.59,2010
+Bordentown Township,Burlington,0.35,1.33,0.39,2.08,302013.93,2010
+Burlington City,Burlington,0.69,2.20,1.40,4.28,95976.62,2010
+Burlington Township,Burlington,0.43,1.56,0.38,2.38,254668.32,2010
+Chesterfield Township,Burlington,0.36,1.43,0.04,1.83,449378.27,2010
+Cinnaminson Township,Burlington,0.39,1.49,0.41,2.29,294083.74,2010
+Delanco Township,Burlington,0.38,1.15,0.64,2.17,239642.19,2010
+Delran Township,Burlington,0.45,1.66,0.69,2.80,234711.97,2010
+Eastampton Township,Burlington,0.37,1.29,0.68,2.34,275415.41,2010
+Edgewater Park Township,Burlington,0.79,2.56,1.19,4.54,99843.89,2010
+Evesham Township,Burlington,0.41,1.62,0.40,2.43,277223.98,2010
+Fieldsboro Borough,Burlington,0.38,1.44,0.68,2.50,209006.97,2010
+Florence Township,Burlington,0.41,1.33,0.36,2.11,229542.39,2010
+Hainesport Township,Burlington,0.76,2.23,0.49,3.49,162942.60,2010
+Lumberton Township,Burlington,0.40,1.30,0.34,2.04,318803.67,2010
+Mansfield Township,Burlington,0.39,1.32,0.23,1.94,339108.25,2010
+Maple Shade Borough,Burlington,0.40,1.43,0.57,2.39,204947.17,2010
+Medford Township,Burlington,0.73,3.15,0.53,4.41,201817.49,2010
+Medford Lakes Borough,Burlington,0.41,1.76,0.59,2.76,289864.07,2010
+Moorestown Township,Burlington,0.34,1.25,0.34,1.92,537434.32,2010
+Mount Holly Township,Burlington,0.80,2.92,1.15,4.88,82626.19,2010
+Mount Laurel Township,Burlington,0.71,2.66,0.64,4.02,142161.69,2010
+New Hanover Township,Burlington,0.60,1.77,0.00,2.30,175514.62,2010
+North Hanover Township,Burlington,0.79,1.97,0.46,3.18,181032.18,2010
+Palmyra Borough,Burlington,0.72,2.60,1.64,4.97,97373.72,2010
+Pemberton Borough,Burlington,0.74,1.45,0.59,2.78,113957.14,2010
+Pemberton Township,Burlington,0.73,1.27,1.46,3.46,96209.20,2010
+Riverside Township,Burlington,0.46,1.60,0.81,2.87,154017.10,2010
+Riverton Borough,Burlington,0.40,1.57,0.60,2.57,289640.50,2010
+Shamong Township,Burlington,0.74,3.16,0.05,3.94,191610.63,2010
+Southampton Township,Burlington,0.67,2.30,0.39,3.37,148491.34,2010
+Springfield Township,Burlington,0.41,1.42,0.38,2.21,322020.06,2010
+Tabernacle Township,Burlington,0.42,1.59,0.24,2.24,299764.47,2010
+Washington Township,Burlington,0.35,0.73,0.00,1.09,305733.53,2010
+Westampton Township,Burlington,0.66,1.94,0.75,3.35,149936.24,2010
+Willingboro Township,Burlington,0.39,1.39,1.42,3.20,159640.39,2010
+Woodland Township,Burlington,0.37,1.30,0.06,1.72,285342.69,2010
+Wrightstown Borough,Burlington,0.62,1.80,0.89,3.21,104544.14,2010
+Audubon Borough,Camden,0.62,1.41,0.72,2.76,208893.69,2010
+Audubon Park Borough,Camden,0.66,1.05,2.17,3.88,46092.18,2010
+Barrington Borough,Camden,0.67,1.60,0.74,3.01,224878.86,2010
+Bellmawr Borough,Camden,0.66,1.38,0.93,2.98,170441.48,2010
+Berlin Borough,Camden,1.30,2.48,1.06,4.84,131705.97,2010
+Berlin Township,Camden,1.11,2.27,1.41,4.79,104660.95,2010
+Brooklawn Borough,Camden,1.23,1.50,1.95,4.69,77162.55,2010
+Camden City,Camden,1.15,0.90,2.55,4.59,26968.36,2010
+Cherry Hill Township,Camden,1.28,3.25,0.92,5.45,139168.07,2010
+Chesilhurst Borough,Camden,0.57,0.88,1.18,2.63,166316.96,2010
+Clementon Borough,Camden,1.12,2.33,1.72,5.17,83307.73,2010
+Collingswood Borough,Camden,0.65,1.36,0.85,2.85,232466.23,2010
+Gibbsboro Borough,Camden,1.02,2.30,0.93,4.25,161834.66,2010
+Gloucester City City,Camden,1.23,1.05,2.73,5.00,72547.66,2010
+Gloucester Township,Camden,0.68,1.42,0.89,2.99,198796.47,2010
+Haddon Township,Camden,1.37,3.09,1.08,5.54,119874.05,2010
+Haddonfield Borough,Camden,0.60,1.42,0.43,2.45,493209.45,2010
+Haddon Heights Borough,Camden,0.60,1.31,0.63,2.54,289494.12,2010
+Hi-nella Borough,Camden,1.01,2.19,1.72,4.83,93270.87,2010
+Laurel Springs Borough,Camden,1.21,3.24,2.01,6.46,109109.84,2010
+Lawnside Borough,Camden,1.06,2.85,1.19,5.10,103680.90,2010
+Lindenwold Borough,Camden,1.24,2.84,1.94,6.03,69614.91,2010
+Magnolia Borough,Camden,1.22,3.10,1.40,5.72,91303.21,2010
+Merchantville Borough,Camden,1.23,2.71,1.34,5.27,122263.99,2010
+Mount Ephraim Borough,Camden,1.19,3.13,1.73,6.05,92063.79,2010
+Oaklyn Borough,Camden,1.29,2.54,1.90,5.74,101111.36,2010
+Pennsauken Township,Camden,1.08,2.35,1.32,4.75,90234.99,2010
+Pine Hill Borough,Camden,0.67,1.91,0.78,3.36,155352.84,2010
+Pine Valley Borough,Camden,0.65,0.00,0.74,1.40,408713.04,2010
+Runnemede Borough,Camden,1.07,2.65,1.38,5.10,99101.81,2010
+Somerdale Borough,Camden,0.66,1.71,0.84,3.21,159554.16,2010
+Stratford Borough,Camden,1.11,3.18,1.18,5.47,105694.33,2010
+Tavistock Borough,Camden,0.66,0.09,0.61,1.36,1516666.67,2010
+Voorhees Township,Camden,0.65,1.50,0.44,2.59,338290.51,2010
+Waterford Township,Camden,1.20,2.55,1.36,5.11,115870.29,2010
+Winslow Township,Camden,1.30,2.77,0.85,4.91,106246.79,2010
+Woodlynne Borough,Camden,1.35,3.62,3.23,8.21,52016.32,2010
+Avalon Borough,Cape May,0.18,0.03,0.19,0.41,1599503.70,2010
+Cape May City,Cape May,0.21,0.25,0.28,0.74,628331.67,2010
+Cape May Point Borough,Cape May,0.20,0.01,0.25,0.46,792779.07,2010
+Dennis Township,Cape May,0.21,0.82,0.14,1.16,233264.55,2010
+Lower Township,Cape May,0.23,0.64,0.43,1.30,261325.09,2010
+Middle Township,Cape May,0.21,0.73,0.36,1.30,296977.23,2010
+North Wildwood City,Cape May,0.19,0.19,0.47,0.84,413613.39,2010
+Ocean City City,Cape May,0.19,0.19,0.36,0.73,682520.54,2010
+Sea Isle City,Cape May,0.21,0.07,0.29,0.57,739395.00,2010
+Stone Harbor Borough,Cape May,0.22,0.05,0.20,0.47,1440761.22,2010
+Upper Township,Cape May,0.21,1.00,0.00,1.20,340187.49,2010
+West Cape May Borough,Cape May,0.20,0.51,0.28,0.99,504055.81,2010
+West Wildwood Borough,Cape May,0.21,0.48,0.53,1.22,290783.48,2010
+Wildwood City,Cape May,0.22,0.53,1.09,1.83,255934.40,2010
+Wildwood Crest Borough,Cape May,0.22,0.26,0.56,1.04,383306.02,2010
+Woodbine Borough,Cape May,0.21,0.70,0.24,1.15,125025.89,2010
+Bridgeton City,Cumberland,1.51,1.08,2.68,5.27,54451.04,2010
+Commercial Township,Cumberland,0.83,0.61,0.59,2.03,113732.62,2010
+Deerfield Township,Cumberland,1.10,1.87,0.01,2.98,135856.11,2010
+Downe Township,Cumberland,0.88,0.67,0.00,1.55,160672.27,2010
+Fairfield Township,Cumberland,1.69,1.61,0.67,3.98,85911.53,2010
+Greenwich Township,Cumberland,1.05,1.85,0.44,3.34,146519.67,2010
+Hopewell Township,Cumberland,1.41,2.13,0.22,3.76,127129.52,2010
+Lawrence Township,Cumberland,0.89,0.83,0.31,2.04,171020.16,2010
+Maurice River Township,Cumberland,0.93,0.87,0.26,2.05,174590.01,2010
+Millville City,Cumberland,1.29,0.71,1.22,3.21,127408.22,2010
+Shiloh Borough,Cumberland,1.73,2.00,0.54,4.27,90309.55,2010
+Stow Creek Township,Cumberland,1.45,1.83,0.21,3.49,131605.09,2010
+Upper Deerfield Township,Cumberland,1.47,2.25,0.00,3.71,121087.44,2010
+Vineland City,Cumberland,1.70,1.02,1.28,3.99,95311.02,2010
+Belleville Township,Essex,0.44,1.00,1.26,2.71,299157.11,2010
+Bloomfield Township,Essex,0.48,1.42,1.17,3.08,296492.63,2010
+Caldwell Township,Essex,0.45,1.11,0.69,2.24,432562.29,2010
+Cedar Grove Township,Essex,0.46,1.03,0.36,1.84,484260.83,2010
+East Orange City,Essex,0.40,0.58,2.19,3.18,242611.92,2010
+Essex Fells Township,Essex,0.44,0.89,0.39,1.72,972225.63,2010
+Fairfield Township,Essex,0.41,0.75,0.40,1.56,529112.36,2010
+Glen Ridge Borough,Essex,0.44,1.81,0.65,2.91,581662.12,2010
+Irvington Township,Essex,0.40,0.60,2.29,3.28,256484.34,2010
+Livingston Township,Essex,0.43,1.24,0.40,2.06,607036.32,2010
+Maplewood Township,Essex,0.78,2.80,1.29,4.88,267044.91,2010
+Millburn Township,Essex,0.44,0.90,0.45,1.79,1084192.67,2010
+Montclair Township,Essex,0.41,1.44,0.67,2.52,651670.19,2010
+Newark City,Essex,0.70,1.00,1.49,3.18,180043.95,2010
+North Caldwell Borough,Essex,0.46,1.13,0.34,1.92,736786.15,2010
+Nutley Township,Essex,0.48,1.31,0.99,2.78,351926.58,2010
+Orange City,Essex,0.46,0.68,1.94,3.08,240229.38,2010
+Roseland Borough,Essex,0.44,0.84,0.56,1.83,480732.54,2010
+South Orange Village,Essex,0.40,1.49,0.74,2.63,580174.34,2010
+Verona Township,Essex,0.46,1.32,0.64,2.42,395324.30,2010
+West Caldwell Township,Essex,0.92,2.25,1.03,4.20,224944.89,2010
+West Orange Township,Essex,1.77,7.82,3.39,12.98,91639.02,2010
+Clayton Borough,Gloucester,1.08,2.71,1.36,5.14,97504.08,2010
+Deptford Township,Gloucester,0.95,1.99,1.12,4.06,113617.28,2010
+East Greenwich Township,Gloucester,1.13,2.70,0.39,4.22,169055.65,2010
+Elk Township,Gloucester,0.60,1.21,0.55,2.33,232672.95,2010
+Franklin Township,Gloucester,1.02,2.26,0.87,4.14,122471.81,2010
+Glassboro Borough,Gloucester,1.09,2.68,1.64,5.41,107782.09,2010
+Greenwich Township,Gloucester,1.05,1.56,1.28,3.88,101769.58,2010
+Harrison Township,Gloucester,0.67,1.51,0.33,2.51,313544.57,2010
+Logan Township,Gloucester,1.21,1.94,0.35,3.49,106744.97,2010
+Mantua Township,Gloucester,1.20,2.76,0.94,4.91,122098.56,2010
+Monroe Township,Gloucester,0.58,1.51,0.69,2.78,229050.94,2010
+National Park Borough,Gloucester,1.11,3.59,1.45,6.16,84730.78,2010
+Newfield Borough,Gloucester,0.59,1.33,0.53,2.45,205632.94,2010
+Paulsboro Borough,Gloucester,1.06,2.06,2.01,5.12,71636.46,2010
+Pitman Borough,Gloucester,1.07,3.05,1.27,5.40,109368.13,2010
+South Harrison Township,Gloucester,0.55,1.45,0.10,2.10,350062.00,2010
+Swedesboro Borough,Gloucester,1.25,3.70,1.56,6.51,96105.15,2010
+Washington Township,Gloucester,1.13,2.93,1.04,5.09,129125.58,2010
+Wenonah Borough,Gloucester,0.52,1.46,0.61,2.59,352239.32,2010
+West Deptford Township,Gloucester,0.98,2.00,1.42,4.40,117563.64,2010
+Westville Borough,Gloucester,1.02,2.97,1.54,5.52,87109.66,2010
+Woodbury City,Gloucester,1.02,3.05,2.32,6.39,91691.37,2010
+Woodbury Heights Borough,Gloucester,0.90,2.52,1.21,4.63,142910.87,2010
+Woolwich Township,Gloucester,1.15,3.15,0.71,5.00,179743.56,2010
+Bayonne City,Hudson,1.10,2.55,2.64,6.29,133970.75,2010
+East Newark Borough,Hudson,1.50,2.98,3.47,7.95,76446.85,2010
+Guttenberg Town,Hudson,1.14,2.31,2.70,6.02,133283.59,2010
+Harrison Town,Hudson,1.11,1.96,2.76,5.83,140584.97,2010
+Hoboken City,Hudson,1.50,1.20,2.04,4.74,158729.25,2010
+Jersey City City,Hudson,1.54,1.80,3.57,6.90,93495.11,2010
+Kearny Town,Hudson,1.52,4.26,3.39,9.17,94558.83,2010
+North Bergen Township,Hudson,0.95,1.60,2.14,4.57,136879.92,2010
+Secaucus Town,Hudson,0.82,1.27,1.36,3.45,177617.07,2010
+Union City City,Hudson,1.04,1.11,3.79,5.68,119250.48,2010
+Weehawken Township,Hudson,0.78,1.41,1.67,3.77,239614.56,2010
+West New York Town,Hudson,1.20,1.47,3.74,6.17,106628.86,2010
+Alexandria Township,Hunterdon,0.36,1.47,0.21,2.05,447392.27,2010
+Bethlehem Township,Hunterdon,0.43,2.07,0.35,2.85,353084.09,2010
+Bloomsbury Borough,Hunterdon,0.37,1.40,0.34,2.10,265962.03,2010
+Califon Borough,Hunterdon,0.32,1.70,0.40,2.42,369892.62,2010
+Clinton Town,Hunterdon,0.34,1.66,0.46,2.45,371904.08,2010
+Clinton Township,Hunterdon,0.34,1.52,0.22,2.08,470223.45,2010
+Delaware Township,Hunterdon,0.38,1.38,0.30,2.07,482729.54,2010
+East Amwell Township,Hunterdon,0.35,1.28,0.19,1.82,453554.58,2010
+Flemington Borough,Hunterdon,0.37,1.63,0.58,2.58,254584.92,2010
+Franklin Township,Hunterdon,0.37,1.54,0.31,2.22,442713.50,2010
+Frenchtown Borough,Hunterdon,0.41,1.64,0.60,2.65,260717.02,2010
+Glen Gardner Borough,Hunterdon,0.46,1.87,0.48,2.82,184063.64,2010
+Hampton Borough,Hunterdon,0.32,1.67,0.33,2.33,298086.27,2010
+High Bridge Borough,Hunterdon,0.39,1.98,0.78,3.15,263809.73,2010
+Holland Township,Hunterdon,0.37,1.58,0.00,1.95,354846.61,2010
+Kingwood Township,Hunterdon,0.39,1.40,0.22,2.01,365469.55,2010
+Lambertville City,Hunterdon,0.34,1.10,0.25,1.70,359016.50,2010
+Lebanon Borough,Hunterdon,0.34,1.14,0.19,1.67,359244.32,2010
+Lebanon Township,Hunterdon,0.47,2.09,0.10,2.66,312361.33,2010
+Milford Borough,Hunterdon,0.43,2.16,0.68,3.28,230425.42,2010
+Raritan Township,Hunterdon,0.38,1.59,0.29,2.26,397493.08,2010
+Readington Township,Hunterdon,0.44,1.72,0.45,2.60,394799.85,2010
+Stockton Borough,Hunterdon,0.34,1.18,0.34,1.86,376405.69,2010
+Tewksbury Township,Hunterdon,0.46,1.34,0.37,2.17,563926.48,2010
+Union Township,Hunterdon,0.46,2.10,0.21,2.77,308342.07,2010
+West Amwell Township,Hunterdon,0.36,1.30,0.28,1.94,450634.39,2010
+East Windsor Township,Mercer,0.60,1.76,0.38,2.74,264260.84,2010
+Ewing Township,Mercer,1.11,2.72,1.10,4.93,123508.23,2010
+Hamilton Township,Mercer,1.02,1.86,1.17,4.05,134138.28,2010
+Hightstown Borough,Mercer,0.57,1.71,0.88,3.16,269637.42,2010
+Hopewell Borough,Mercer,0.46,1.18,0.43,2.07,447316.01,2010
+Hopewell Township,Mercer,0.53,1.27,0.30,2.10,531322.93,2010
+Lawrence Township,Mercer,1.14,2.30,0.81,4.24,164346.55,2010
+Pennington Borough,Mercer,0.51,1.33,0.43,2.27,504888.79,2010
+Princeton Borough,Mercer,0.59,0.96,0.48,2.03,753125.61,2010
+Princeton Township,Mercer,0.55,0.90,0.49,1.94,837349.07,2010
+Trenton City,Mercer,0.79,1.16,3.53,5.48,62532.43,2010
+Robbinsville Township,Mercer,0.54,1.37,0.58,2.49,388613.55,2010
+West Windsor Township,Mercer,0.57,1.34,0.37,2.29,536665.30,2010
+Carteret Borough,Middlesex,0.81,2.32,2.02,5.15,120080.57,2010
+Cranbury Township,Middlesex,0.30,0.94,0.40,1.64,617397.19,2010
+Dunellen Borough,Middlesex,1.40,6.55,3.35,11.30,64513.71,2010
+East Brunswick Township,Middlesex,1.21,5.69,1.74,8.63,97115.11,2010
+Edison Township,Middlesex,0.65,2.49,1.10,4.24,176426.49,2010
+Helmetta Borough,Middlesex,0.30,1.28,0.45,2.03,273360.02,2010
+Highland Park Borough,Middlesex,0.84,4.14,1.67,6.64,139243.58,2010
+Jamesburg Borough,Middlesex,0.66,2.93,1.45,5.04,124140.08,2010
+Old Bridge Township,Middlesex,0.69,2.56,0.94,4.20,152901.09,2010
+Metuchen Borough,Middlesex,0.71,3.20,1.03,4.95,173677.45,2010
+Middlesex Borough,Middlesex,1.01,4.11,2.16,7.29,93176.98,2010
+Milltown Borough,Middlesex,0.66,2.81,1.00,4.48,166087.56,2010
+Monroe Township,Middlesex,0.61,2.21,0.68,3.51,175885.43,2010
+New Brunswick City,Middlesex,0.81,2.19,2.16,5.16,117866.17,2010
+North Brunswick Township,Middlesex,0.60,2.91,1.11,4.62,157799.93,2010
+Perth Amboy City,Middlesex,0.32,0.62,1.52,2.46,279432.10,2010
+Piscataway Township,Middlesex,0.90,3.58,1.50,5.98,111230.65,2010
+Plainsboro Township,Middlesex,0.31,1.55,0.35,2.21,391836.51,2010
+Sayreville Borough,Middlesex,0.70,2.41,1.14,4.25,143962.03,2010
+South Amboy City,Middlesex,0.34,0.94,0.88,2.17,280099.03,2010
+South Brunswick Township,Middlesex,0.64,2.68,0.76,4.08,195342.90,2010
+South Plainfield Borough,Middlesex,0.86,2.80,1.23,4.89,122398.84,2010
+South River Borough,Middlesex,1.13,3.28,1.99,6.40,83312.70,2010
+Spotswood Borough,Middlesex,0.37,1.53,0.81,2.71,254584.25,2010
+Woodbridge Township,Middlesex,1.35,4.89,2.11,8.36,75510.26,2010
+Allenhurst Borough,Monmouth,0.27,0.00,0.37,0.65,1819856.23,2010
+Allentown Borough,Monmouth,0.58,2.91,1.24,4.73,153377.99,2010
+Asbury Park City,Monmouth,0.82,1.50,2.90,5.22,80283.13,2010
+Atlantic Highlands Borough,Monmouth,0.36,1.30,0.66,2.32,338135.05,2010
+Avon-by-the-Sea Borough,Monmouth,0.28,0.32,0.36,0.96,940871.24,2010
+Belmar Borough,Monmouth,0.45,0.73,0.70,1.89,339075.17,2010
+Bradley Beach Borough,Monmouth,0.27,0.44,0.53,1.25,531676.52,2010
+Brielle Borough,Monmouth,0.25,0.71,0.34,1.30,781221.15,2010
+Colts Neck Township,Monmouth,0.29,1.05,0.20,1.54,871036.80,2010
+Deal Borough,Monmouth,0.29,0.07,0.17,0.53,2922579.37,2010
+Eatontown Borough,Monmouth,0.32,1.09,0.65,2.06,309297.74,2010
+Englishtown Borough,Monmouth,0.26,1.13,0.38,1.77,329794.01,2010
+Fair Haven Borough,Monmouth,0.37,1.46,0.46,2.29,548639.65,2010
+Farmingdale Borough,Monmouth,0.28,1.20,0.20,1.68,318429.66,2010
+Freehold Borough,Monmouth,0.28,1.17,0.79,2.25,259680.56,2010
+Freehold Township,Monmouth,0.29,1.33,0.28,1.89,400749.73,2010
+Highlands Borough,Monmouth,0.40,1.35,1.07,2.82,214173.91,2010
+Holmdel Township,Monmouth,0.31,1.31,0.32,1.95,615043.01,2010
+Howell Township,Monmouth,0.28,1.41,0.35,2.04,351774.39,2010
+Interlaken Borough,Monmouth,0.40,0.25,0.94,1.59,502288.83,2010
+Keansburg Borough,Monmouth,0.40,0.89,1.85,3.15,146156.12,2010
+Keyport Borough,Monmouth,0.26,1.13,0.76,2.14,274390.80,2010
+Little Silver Borough,Monmouth,0.36,1.39,0.51,2.26,503640.30,2010
+Loch Arbour Village,Monmouth,0.26,0.87,0.28,1.41,1413940.74,2010
+Long Branch City,Monmouth,0.32,0.76,0.80,1.88,388719.56,2010
+Manalapan Township,Monmouth,0.31,1.32,0.35,1.99,376956.80,2010
+Manasquan Borough,Monmouth,0.37,0.83,0.35,1.55,499991.18,2010
+Marlboro Township,Monmouth,0.30,1.37,0.31,1.98,482332.04,2010
+Matawan Borough,Monmouth,0.27,1.46,0.67,2.40,346201.45,2010
+Aberdeen Township,Monmouth,0.27,1.49,0.44,2.20,282427.65,2010
+Middletown Township,Monmouth,0.27,1.11,0.42,1.79,437201.53,2010
+Millstone Township,Monmouth,0.32,1.62,0.15,2.09,500654.84,2010
+Monmouth Beach Borough,Monmouth,0.30,0.62,0.32,1.24,607805.12,2010
+Neptune Township,Monmouth,0.35,1.19,0.79,2.33,240717.57,2010
+Neptune City Borough,Monmouth,0.36,1.26,0.96,2.57,210650.87,2010
+Tinton Falls Borough,Monmouth,0.28,0.99,0.42,1.69,337075.38,2010
+Ocean Township,Monmouth,0.35,1.26,0.43,2.04,406108.81,2010
+Oceanport Borough,Monmouth,0.34,1.12,0.52,1.98,449193.18,2010
+Hazlet Township,Monmouth,0.30,1.38,0.54,2.22,302260.06,2010
+Red Bank Borough,Monmouth,0.26,0.93,0.48,1.68,405522.51,2010
+Roosevelt Borough,Monmouth,0.31,1.71,0.75,2.77,251517.14,2010
+Rumson Borough,Monmouth,0.33,0.84,0.32,1.49,1154305.23,2010
+Sea Bright Borough,Monmouth,0.40,0.54,0.71,1.64,401710.73,2010
+Sea Girt Borough,Monmouth,0.28,0.21,0.26,0.75,1538083.27,2010
+Shrewsbury Borough,Monmouth,0.39,1.46,0.79,2.63,399462.31,2010
+Shrewsbury Township,Monmouth,0.28,0.98,1.02,2.28,204628.69,2010
+Lake Como Borough (South Belmar),Monmouth,0.28,0.75,0.61,1.63,387802.99,2010
+Spring Lake Borough,Monmouth,0.27,0.18,0.20,0.65,1669357.23,2010
+Spring Lake Heights Borough,Monmouth,0.27,0.62,0.32,1.21,456803.30,2010
+Union Beach Borough,Monmouth,0.42,1.42,1.30,3.14,181540.09,2010
+Upper Freehold Township,Monmouth,0.27,1.43,0.21,1.91,501969.60,2010
+Wall Township,Monmouth,0.46,1.51,0.63,2.60,310372.48,2010
+West Long Branch Borough,Monmouth,0.28,1.10,0.48,1.85,477179.01,2010
+Boonton Town,Morris,0.23,1.28,0.59,2.10,422587.21,2010
+Boonton Township,Morris,0.25,1.16,0.36,1.78,597692.45,2010
+Butler Borough,Morris,0.32,1.75,0.81,2.88,254795.76,2010
+Chatham Borough,Morris,0.26,1.06,0.36,1.68,658041.81,2010
+Chatham Township,Morris,0.25,1.02,0.33,1.60,741003.41,2010
+Chester Borough,Morris,0.28,1.28,0.81,2.36,463653.45,2010
+Chester Township,Morris,0.26,1.39,0.47,2.12,674536.64,2010
+Denville Township,Morris,0.34,1.79,0.55,2.68,311932.47,2010
+Dover Town,Morris,0.23,0.85,0.76,1.84,289226.54,2010
+East Hanover Township,Morris,0.38,1.13,0.56,2.07,360532.77,2010
+Florham Park Borough,Morris,0.23,0.68,0.35,1.25,665032.48,2010
+Hanover Township,Morris,0.47,1.56,0.73,2.76,238850.43,2010
+Harding Township,Morris,0.29,0.44,0.30,1.03,1262925.03,2010
+Jefferson Township,Morris,0.26,1.32,0.60,2.17,319955.50,2010
+Kinnelon Borough,Morris,0.33,1.97,0.51,2.81,450897.57,2010
+Lincoln Park Borough,Morris,0.23,1.11,0.78,2.12,364093.24,2010
+Madison Borough,Morris,0.40,1.62,0.63,2.64,411005.67,2010
+Mendham Borough,Morris,0.27,1.22,0.42,1.90,707336.78,2010
+Mendham Township,Morris,0.27,1.26,0.36,1.89,913353.83,2010
+Mine Hill Township,Morris,0.22,1.11,0.58,1.91,340810.10,2010
+Montville Township,Morris,0.44,2.16,0.69,3.29,335698.15,2010
+Morris Township,Morris,0.36,1.36,0.60,2.32,396676.52,2010
+Morris Plains Borough,Morris,0.24,0.93,0.63,1.80,441921.63,2010
+Morristown Town,Morris,0.33,1.22,1.04,2.58,357659.47,2010
+Mountain Lakes Borough,Morris,0.25,1.47,0.37,2.10,865037.23,2010
+Mount Arlington Borough,Morris,0.29,1.31,0.72,2.32,288399.06,2010
+Mount Olive Township,Morris,0.28,2.00,0.62,2.90,313612.95,2010
+Netcong Borough,Morris,0.22,1.27,0.68,2.16,293768.22,2010
+Parsippany-Troy Hills Township,Morris,0.30,1.56,0.58,2.44,309044.10,2010
+Long Hill Township,Morris,0.33,1.67,0.73,2.72,392397.90,2010
+Pequannock Township,Morris,0.23,1.09,0.40,1.71,472077.11,2010
+Randolph Township,Morris,0.37,2.22,0.63,3.22,337750.15,2010
+Riverdale Borough,Morris,0.24,0.71,0.51,1.47,338374.51,2010
+Rockaway Borough,Morris,0.28,1.47,0.61,2.36,299048.34,2010
+Rockaway Township,Morris,0.38,2.25,0.86,3.49,258528.64,2010
+Roxbury Township,Morris,0.42,2.37,1.01,3.80,208752.64,2010
+Victory Gardens Borough,Morris,0.29,1.17,0.77,2.23,184151.86,2010
+Washington Township,Morris,0.27,1.65,0.40,2.32,438606.15,2010
+Wharton Borough,Morris,0.26,1.63,0.46,2.34,288934.24,2010
+Barnegat Light Borough,Ocean,0.35,0.26,0.16,0.78,781144.11,2010
+Bay Head Borough,Ocean,0.32,0.18,0.17,0.67,1563027.26,2010
+Beach Haven Borough,Ocean,0.36,0.34,0.35,1.05,660363.89,2010
+Beachwood Borough,Ocean,0.33,0.72,0.58,1.63,260728.68,2010
+Berkeley Township,Ocean,0.39,0.92,0.51,1.82,201693.26,2010
+Brick Township,Ocean,0.39,0.91,0.52,1.82,304662.07,2010
+Toms River Township,Ocean,0.32,0.71,0.35,1.37,370196.85,2010
+Eagleswood Township,Ocean,0.32,1.10,0.29,1.71,298093.88,2010
+Harvey Cedars Borough,Ocean,0.37,0.26,0.22,0.86,1004566.02,2010
+Island Heights Borough,Ocean,0.41,0.78,0.45,1.63,388832.92,2010
+Jackson Township,Ocean,0.34,1.09,0.40,1.83,332843.95,2010
+Lacey Township,Ocean,0.32,0.93,0.18,1.43,318320.12,2010
+Lakehurst Borough,Ocean,0.35,0.60,0.98,1.92,222904.15,2010
+Lakewood Township,Ocean,0.41,1.16,0.69,2.25,232015.93,2010
+Lavallette Borough,Ocean,0.42,0.20,0.26,0.88,687498.31,2010
+Little Egg Harbor Township,Ocean,0.31,0.84,0.49,1.64,264128.66,2010
+Long Beach Township,Ocean,0.36,0.26,0.22,0.84,900752.13,2010
+Manchester Township,Ocean,0.36,0.94,0.45,1.76,194824.65,2010
+Mantoloking Borough,Ocean,0.30,0.01,0.16,0.46,3318790.82,2010
+Ocean Township,Ocean,0.36,0.73,0.45,1.55,292633.63,2010
+Ocean Gate Borough,Ocean,0.36,0.96,0.62,1.94,242300.96,2010
+Pine Beach Borough,Ocean,0.35,0.74,0.47,1.55,328793.22,2010
+Plumsted Township,Ocean,0.30,1.00,0.13,1.44,385639.99,2010
+Point Pleasant Borough,Ocean,0.37,0.91,0.37,1.64,385419.40,2010
+Point Pleasant Beach Borough,Ocean,0.31,0.45,0.24,1.00,697245.88,2010
+Seaside Heights Borough,Ocean,0.32,0.60,0.52,1.43,307227.80,2010
+Seaside Park Borough,Ocean,0.35,0.41,0.43,1.19,558611.09,2010
+Ship Bottom Borough,Ocean,0.39,0.26,0.32,0.96,526817.92,2010
+South Toms River Borough,Ocean,0.34,0.70,0.86,1.90,215238.18,2010
+Stafford Township,Ocean,0.38,0.79,0.68,1.85,301001.31,2010
+Surf City Borough,Ocean,0.37,0.31,0.23,0.91,674234.50,2010
+Tuckerton Borough,Ocean,0.39,1.15,0.57,2.11,224057.83,2010
+Barnegat Township,Ocean,0.29,1.00,0.60,1.89,297329.71,2010
+Bloomingdale Borough,Passaic,1.28,3.29,1.66,6.23,147820.05,2010
+Clifton City,Passaic,1.08,2.22,1.35,4.65,176999.68,2010
+Haledon Borough,Passaic,1.11,2.85,1.79,5.76,158093.06,2010
+Hawthorne Borough,Passaic,1.21,2.60,1.07,4.88,184348.13,2010
+Little Falls Township,Passaic,0.54,0.95,0.57,2.06,381089.00,2010
+North Haledon Borough,Passaic,1.79,2.74,1.99,6.53,142349.10,2010
+Passaic City,Passaic,1.51,1.20,4.13,6.85,130792.27,2010
+Paterson City,Passaic,0.51,0.42,1.19,2.13,354002.43,2010
+Pompton Lakes Borough,Passaic,1.24,3.50,1.39,6.13,146010.83,2010
+Prospect Park Borough,Passaic,1.17,3.02,1.92,6.12,148208.74,2010
+Ringwood Borough,Passaic,0.58,1.45,0.59,2.61,355776.62,2010
+Totowa Borough,Passaic,0.51,0.81,0.39,1.71,451120.21,2010
+Wanaque Borough,Passaic,1.28,3.37,1.46,6.11,132015.01,2010
+Wayne Township,Passaic,1.13,2.34,1.05,4.52,230667.52,2010
+West Milford Township,Passaic,1.31,3.33,1.48,6.12,134970.39,2010
+Woodland Park Borough,Passaic,1.11,2.22,1.25,4.59,191312.75,2010
+Alloway Township,Salem,1.06,1.24,0.20,2.50,195212.31,2010
+Elmer Borough,Salem,0.97,1.10,0.49,2.56,168462.08,2010
+Elsinboro Township,Salem,0.81,1.04,0.24,2.09,188378.82,2010
+Lower Alloways Creek Township,Salem,1.12,0.00,0.00,1.12,125779.45,2010
+Mannington Township,Salem,0.85,1.12,0.29,2.22,201077.59,2010
+Oldmans Township,Salem,0.83,1.26,0.14,2.23,187304.78,2010
+Penns Grove Borough,Salem,0.87,1.15,1.34,3.36,111237.21,2010
+Pennsville Township,Salem,1.07,1.51,0.46,3.04,159093.45,2010
+Pilesgrove Township,Salem,0.88,1.16,0.13,2.16,289993.03,2010
+Pittsgrove Township,Salem,1.03,1.49,0.25,2.77,186899.05,2010
+Quinton Township,Salem,0.94,1.17,0.17,2.28,160976.34,2010
+Salem City,Salem,0.93,1.05,1.61,3.59,100030.70,2010
+Carneys Point Township,Salem,0.82,1.06,0.36,2.23,169847.50,2010
+Upper Pittsgrove Township,Salem,0.91,1.12,0.10,2.13,249024.94,2010
+Woodstown Borough,Salem,0.87,1.17,0.51,2.56,221336.35,2010
+Bedminster Township,Somerset,0.35,0.63,0.29,1.27,416997.89,2010
+Bernards Township,Somerset,0.33,1.20,0.30,1.83,581801.95,2010
+Bernardsville Borough,Somerset,0.33,0.92,0.39,1.64,815674.12,2010
+Bound Brook Borough,Somerset,0.36,1.45,0.82,2.63,281606.83,2010
+Branchburg Township,Somerset,0.37,1.35,0.33,2.05,426040.15,2010
+Bridgewater Township,Somerset,0.40,1.22,0.22,1.84,424364.96,2010
+Far Hills Borough,Somerset,0.34,0.39,0.42,1.15,1127192.13,2010
+Franklin Township,Somerset,0.31,1.26,0.38,1.95,323881.89,2010
+Green Brook Township,Somerset,0.35,1.39,0.40,2.14,516597.62,2010
+Hillsborough Township,Somerset,0.55,2.05,0.47,3.07,262173.59,2010
+Manville Borough,Somerset,0.30,1.11,0.71,2.12,303647.71,2010
+Millstone Borough,Somerset,0.32,1.39,0.54,2.25,344990.26,2010
+Montgomery Township,Somerset,0.43,1.83,0.34,2.59,508520.86,2010
+North Plainfield Borough,Somerset,0.34,1.55,0.88,2.77,265146.55,2010
+Peapack-Gladstone Borough,Somerset,0.41,0.89,0.52,1.83,680049.28,2010
+Raritan Borough,Somerset,0.35,1.27,0.62,2.25,320305.91,2010
+Rocky Hill Borough,Somerset,0.72,2.11,0.74,3.57,215304.28,2010
+Somerville Borough,Somerset,0.63,3.20,1.65,5.48,149217.16,2010
+South Bound Brook Borough,Somerset,0.34,1.66,0.80,2.80,237342.38,2010
+Warren Township,Somerset,0.39,1.36,0.30,2.04,605498.46,2010
+Watchung Borough,Somerset,0.38,1.07,0.46,1.92,613720.93,2010
+Andover Borough,Sussex,0.77,2.25,0.62,3.63,153261.73,2010
+Andover Township,Sussex,0.58,1.80,0.84,3.21,249270.25,2010
+Branchville Borough,Sussex,0.40,1.42,0.00,1.82,295622.22,2010
+Byram Township,Sussex,0.42,1.45,0.68,2.55,304802.37,2010
+Frankford Township,Sussex,0.39,1.20,0.21,1.80,349235.63,2010
+Franklin Borough,Sussex,0.44,1.24,0.86,2.54,222601.17,2010
+Fredon Township,Sussex,0.38,1.29,0.27,1.94,430322.83,2010
+Green Township,Sussex,0.41,1.42,0.46,2.30,419511.22,2010
+Hamburg Borough,Sussex,0.69,2.47,0.89,4.05,134353.53,2010
+Hampton Township,Sussex,0.78,2.42,0.58,3.79,154560.12,2010
+Hardyston Township,Sussex,0.45,1.16,0.54,2.15,252173.02,2010
+Hopatcong Borough,Sussex,0.37,1.05,0.56,1.98,315006.77,2010
+Lafayette Township,Sussex,0.38,1.30,0.18,1.86,417266.74,2010
+Montague Township,Sussex,0.80,2.35,0.47,3.62,107049.32,2010
+Newton Town,Sussex,0.41,1.40,0.90,2.71,268955.27,2010
+Ogdensburg Borough,Sussex,0.41,1.23,0.87,2.51,267803.35,2010
+Sandyston Township,Sussex,0.41,1.26,0.19,1.86,259297.15,2010
+Sparta Township,Sussex,0.56,2.07,0.65,3.27,312078.34,2010
+Stanhope Borough,Sussex,0.48,1.67,0.87,3.03,231214.67,2010
+Stillwater Township,Sussex,0.94,2.78,0.83,4.54,128007.06,2010
+Sussex Borough,Sussex,0.82,2.61,0.91,4.35,116180.99,2010
+Vernon Township,Sussex,0.46,1.47,0.58,2.50,229259.31,2010
+Walpack Township,Sussex,0.45,0.00,0.00,0.45,88937.50,2010
+Wantage Township,Sussex,0.40,1.39,0.24,2.04,322500.41,2010
+Berkeley Heights Township,Union,0.72,1.99,0.60,3.32,307709.71,2010
+Clark Township,Union,1.40,3.81,1.94,7.15,120338.22,2010
+Cranford Township,Union,0.98,2.77,1.28,5.03,181742.51,2010
+Elizabeth City,Union,3.64,5.37,12.17,21.17,34335.83,2010
+Fanwood Borough,Union,2.05,7.57,2.54,12.16,84594.98,2010
+Garwood Borough,Union,1.45,3.67,2.82,7.94,102767.92,2010
+Hillside Township,Union,0.93,2.80,3.15,6.88,123614.55,2010
+Kenilworth Borough,Union,0.80,1.91,1.20,3.91,176238.57,2010
+Linden City,Union,0.85,2.72,1.74,5.31,140601.47,2010
+Mountainside Borough,Union,1.47,2.63,1.53,5.63,164727.66,2010
+New Providence Borough,Union,0.77,2.42,0.89,4.08,284646.07,2010
+Plainfield City,Union,1.05,1.73,3.97,6.75,112863.21,2010
+Rahway City,Union,0.91,2.33,1.88,5.13,134321.48,2010
+Roselle Borough,Union,0.89,3.00,3.43,7.31,119228.40,2010
+Roselle Park Borough,Union,1.71,6.23,3.68,11.63,70805.10,2010
+Scotch Plains Township,Union,1.60,5.86,1.54,9.00,122522.29,2010
+Springfield Township,Union,1.06,2.99,1.72,5.77,159959.40,2010
+Summit City,Union,0.89,1.97,0.88,3.74,406095.67,2010
+Union Township,Union,2.68,7.32,5.89,15.89,46074.30,2010
+Westfield Town,Union,1.54,4.40,1.33,7.27,185065.11,2010
+Winfield Township,Union,4.59,101.80,90.01,196.40,1555.88,2010
+Allamuchy Township,Warren,0.79,1.31,0.28,2.38,255516.52,2010
+Alpha Borough,Warren,0.62,1.32,0.89,2.83,182042.01,2010
+Belvidere Town,Warren,1.11,2.36,1.30,4.78,121566.75,2010
+Blairstown Township,Warren,0.62,1.11,0.04,1.77,380854.40,2010
+Franklin Township,Warren,0.69,1.82,0.24,2.75,312614.83,2010
+Frelinghuysen Township,Warren,0.68,1.26,0.16,2.10,326389.43,2010
+Greenwich Township,Warren,0.82,1.30,0.45,2.58,269639.48,2010
+Hackettstown Town,Warren,0.59,1.34,0.52,2.46,285850.13,2010
+Hardwick Township,Warren,0.90,1.65,0.25,2.80,251328.60,2010
+Harmony Township,Warren,0.84,1.23,0.23,2.30,205932.53,2010
+Hope Township,Warren,0.67,1.32,0.22,2.21,307427.18,2010
+Independence Township,Warren,0.62,1.10,0.26,1.99,319903.44,2010
+Knowlton Township,Warren,0.93,1.96,0.35,3.25,209906.61,2010
+Liberty Township,Warren,0.78,1.73,0.34,2.85,232149.86,2010
+Lopatcong Township,Warren,0.61,1.16,0.27,2.04,293717.13,2010
+Mansfield Township,Warren,0.84,1.67,0.52,3.03,242584.05,2010
+Oxford Township,Warren,0.70,1.73,0.27,2.70,217000.46,2010
+Phillipsburg Town,Warren,0.62,0.88,1.06,2.56,152515.65,2010
+Pohatcong Township,Warren,0.79,1.65,1.06,3.50,173745.01,2010
+Washington Borough,Warren,0.87,2.20,1.41,4.49,142490.84,2010
+Washington Township,Warren,0.83,1.76,0.49,3.08,245353.73,2010
+White Township,Warren,0.70,1.20,0.11,2.01,269342.37,2010
