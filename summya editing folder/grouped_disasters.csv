@@ -1,0 +1,337 @@
+State,Disaster Type,year start,Disaster Title,year end
+AK,Flood,2011,Ice Jam and Flooding,2011
+AK,Flood,2013,Flooding,2013
+AK,Storm,2011,Severe Winter Storms and Flooding,2011
+AK,Storm,2012,"Severe Storm, Straight-Line Winds, Flooding, and Landslides",2012
+AK,Storm,2013,"Severe Storms, Straight-Line Winds, and Flooding",2013
+AK,Storm,2015,Severe Storm,2015
+AL,Hurricane,2012,Hurricane Isaac,2012
+AL,Storm,2010,"Severe Storms, Tornadoes, Straight-Line Winds, and Flooding",2010
+AL,Storm,2011,"Severe Storms, Tornadoes, Straight-Line Winds, and Flooding",2011
+AL,Storm,2012,"Severe Storms, Tornadoes, Straight-Line Winds, and Flooding",2012
+AL,Storm,2014,"Severe Storms, Tornadoes, Straight-Line Winds, and Flooding",2014
+AL,Storm,2015,"Severe Storms, Tornadoes, Straight-Line Winds, and Flooding",2015
+AR,Ice,2012,Severe Winter Storm,2012
+AR,Ice,2013,Severe Winter Storm,2013
+AR,Storm,2011,"Severe Storms, Tornadoes, and Associated Flooding",2011
+AR,Storm,2013,"Severe Storms, Tornadoes, and Flooding",2013
+AR,Storm,2014,"Severe Storms,Tornadoes, and Flooding",2014
+AR,Storm,2015,"Severe Storms, Tornadoes, Straight-Line Winds, and Flooding",2015
+AR,Storm,2016,"Severe Storms, Tornadoes, Straight-Line Winds, and Flooding",2016
+AS,Storm,2014,"Severe Storms, Flooding, and Landslides",2014
+AZ,Flood,2014,Severe Storms and Flooding,2014
+AZ,Storm,2010,Severe Winter Storms and Flooding,2010
+AZ,Winter,2012,Severe Freeze,2013
+CA,Earthquake,2010,Earthquake,2010
+CA,Earthquake,2014,Earthquake,2014
+CA,Fire,2013,Wildfire,2013
+CA,Fire,2015,Valley Fire and Butte Fire,2015
+CA,Flood,2010,"Severe Winter Storms, Flooding, and Debris and Mud Flows",2011
+CA,Flood,2014,"Severe Storms, Flooding, and Mudslides",2014
+CA,Storm,2010,"Severe Winter Storms, Flooding, and Debris and Mud Flows",2010
+CA,Storm,2017,Severe Winter Storm,2017
+CA,Tsunami,2011,Tsunami Waves,2011
+CO,Fire,2012,High Park and Waldo Canyon Wildfires,2012
+CO,Fire,2013,Black Forest Wildfire,2013
+CO,Flood,2013,"Severe Storms, Flooding, Landslides, and Mudslides",2013
+CO,Flood,2015,"Severe Storms, Tornadoes, Flooding, Landslides, and Mudslides",2015
+CT,Hurricane,2011,Tropical Storm Irene,2011
+CT,Hurricane,2012,Hurricane Sandy,2012
+CT,Snow,2011,Snowstorm,2011
+CT,Storm,2010,Severe Storms and Flooding,2010
+CT,Storm,2011,Severe Storm,2011
+CT,Storm,2013,Severe Winter Storm and Snowstorm,2013
+CT,Storm,2015,Severe Winter Storm and Snowstorm,2015
+DC,Earthquake,2011,Earthquake,2011
+DC,Hurricane,2011,Hurricane Irene,2011
+DC,Hurricane,2012,Hurricane Sandy,2012
+DC,Snow,2016,Snowstorm,2016
+DC,Storm,2010,Severe Winter Storms and Snowstorms,2010
+DC,Storm,2012,Severe Storms ,2012
+DE,Hurricane,2011,Hurricane Irene,2011
+DE,Hurricane,2012,Hurricane Sandy,2012
+DE,Snow,2010,Severe Winter Storms and Snowstorms,2010
+DE,Snow,2016,Severe Winter Storm and Snowstorm,2016
+FL,Hurricane,2012,Hurricane Isaac,2012
+FL,Hurricane,2016,Hurricane Hermine,2016
+FL,Storm,2012,Tropical Storm Debby,2012
+FL,Storm,2013,Severe Storms and Flooding,2013
+FL,Storm,2014,"Severe Storms, Tornadoes, Straight-Line Winds, and Flooding",2014
+GA,Hurricane,2016,Hurricane Matthew,2016
+GA,Ice,2014,Severe Winter Storm,2014
+GA,Ice,2015,Severe Winter Storm ,2015
+GA,Storm,2011,"Severe Storms, Tornadoes, Straight-Line Winds, and Associated Flooding",2011
+GA,Storm,2015,Severe Storms and Flooding,2016
+GA,Storm,2017,"Severe Storms, Tornadoes, and Straight-Line Winds",2017
+GA,Tornado,2017,"Severe Storms, Tornadoes, Straight-Line Winds, and Flooding",2017
+GU,Storm,2014,Tropical Storm Halong,2014
+GU,Typhoon,2015,Typhoon Dolphin,2015
+HI,Mud/Landslide,2016,"Severe Storms, Flooding, Landslides, and Mudslides",2016
+HI,Storm,2012,"Severe Storms, Flooding, and Landslides",2012
+HI,Storm,2014,Tropical Storm Iselle,2014
+HI,Tsunami,2011,Tsunami Waves,2011
+HI,Volcano,2014,Pu'U O'O Volcanic Eruption and Lava Flow,2015
+IA,Flood,2011,Flooding,2011
+IA,Flood,2013,"Severe Storms, Straight-Line Winds, and Flooding",2013
+IA,Flood,2014,"Severe Storms, Tornadoes, Straight-Line Winds, and Flooding",2014
+IA,Flood,2016,"Severe Storms, Straight-Line Winds, and Flooding",2016
+IA,Storm,2010,Severe Winter Storm,2010
+IA,Storm,2011,"Severe Storms, Tornadoes, and Straight-Line Winds",2011
+IA,Storm,2013,Severe Winter Storm,2013
+IA,Storm,2014,"Severe Storms, Tornadoes, Straight-Line Winds, and Flooding",2014
+IA,Storm,2015,"Severe Storms, Tornadoes, Straight-Line Winds, and Flooding",2015
+ID,Flood,2011,"Flooding, Landslides, and Mudslides",2011
+ID,Storm,2010,Severe Storms and Flooding,2010
+ID,Storm,2015,Severe Storm and Straight-Line Wind,2015
+IL,Flood,2013,"Severe Storms, Straight-Line Winds, and Flooding",2013
+IL,Snow,2011,Severe Winter Storm and Snowstorm,2011
+IL,Storm,2010,Severe Storms and Flooding,2010
+IL,Storm,2011,Severe Storms and Flooding,2011
+IL,Tornado,2013,"Severe Storms, Straight-Line Winds, and Tornadoes",2013
+IN,Storm,2011,"Severe Storms, Tornadoes, Straight-Line Winds, and",2011
+IN,Storm,2012,"Severe Storms, Straight-Line Winds, and Tornadoes",2012
+IN,Storm,2014,Severe Winter Storm and Snowstorm,2014
+KS,Flood,2011,Flooding ,2011
+KS,Snow,2013,Snowstorm,2013
+KS,Storm,2010,"Severe Storms, Flooding, and Tornadoes",2010
+KS,Storm,2011,"Severe Storms, Straight-Line Winds, Tornadoes, and Flooding",2011
+KS,Storm,2012,"Severe Storms, Tornadoes, Straight-Line Winds, and Flooding",2012
+KS,Storm,2013,"Severe Storms, Straight-Line Winds, Tornadoes, and Flooding",2013
+KS,Storm,2015,"Severe Storms, Tornadoes, Straight-Line Winds, and Flooding",2015
+KS,Storm,2016,Severe Storms and Flooding,2016
+KY,Flood,2015,"Severe Storms, Tornadoes, Flooding, Landslides, and Mudslides",2015
+KY,Snow,2015,"Severe Winter Storms, Snowstorms, Flooding, Landslides, and Mudslides ",2015
+KY,Storm,2010,"Severe Storms, Flooding, Mudslides, and Tornadoes",2010
+KY,Storm,2011,"Severe Storms, Tornadoes, and Flooding",2011
+KY,Storm,2012,"Severe Storms, Tornadoes, Straight-Line Winds and Flooding",2012
+KY,Storm,2014,"Severe Storms, Flooding, Landslides, and Mudslides",2014
+KY,Storm,2015,"Severe Storms, Tornadoes, Straight-Line Winds, Flooding, Landslides, and Mudslide",2015
+KY,Storm,2016,"Severe Storm, Tornadoes, Flooding, Landslides, and Mudslides",2016
+LA,Flood,2011,Flooding,2011
+LA,Flood,2015,Severe Storms and Flooding,2015
+LA,Flood,2016,Severe Storms and Flooding,2016
+LA,Hurricane,2012,Hurricane Isaac,2012
+LA,Storm,2011,Tropical Storm Lee,2011
+LA,Storm,2013,Severe Storms and Flooding,2013
+LA,Tornado,2017,"Severe Storms, Tornadoes, and Straight-Line Winds",2017
+MA,Hurricane,2011,Tropical Storm Irene,2011
+MA,Hurricane,2012,Hurricane Sandy,2012
+MA,Snow,2011,Severe Winter Storm and Snowstorm,2011
+MA,Storm,2010,Severe Storms and  Flooding,2010
+MA,Storm,2011,Severe Storm and Snowstorm,2011
+MA,Storm,2013,"Severe Winter Storm, Snowstorm, and Flooding",2013
+MA,Storm,2015,"Severe Winter Storm, Snowstorm, and Flooding",2015
+MA,Tornado,2011,Severe Storms and Tornadoes,2011
+MD,Flood,2011,Remnants of Tropical Storm Lee,2011
+MD,Flood,2016,Severe Storm and Flooding,2016
+MD,Hurricane,2011,Hurricane Irene,2011
+MD,Hurricane,2012,Hurricane Sandy,2012
+MD,Snow,2010,Severe Winter Storms and Snowstorms,2010
+MD,Snow,2016,Severe Winter Storm and Snowstorm,2016
+MD,Storm,2012,Severe Storms and Straight-Line Winds,2012
+MD,Storm,2014,Snowstorm,2014
+ME,Hurricane,2011,Tropical Storm Irene,2011
+ME,Snow,2015,"Severe Winter Storm, Snowstorm, and Flooding",2015
+ME,Storm,2010,Severe Winter Storm,2010
+ME,Storm,2013,"Severe Winter Storm, Snowstorm, and Flooding",2013
+MI,Flood,2013,Flooding ,2013
+MI,Flood,2014,Severe Storms and Flooding,2014
+MN,Flood,2010,Flooding,2010
+MN,Flood,2011,Severe Storms and Flooding,2011
+MN,Flood,2014,"Severe Storms, Straight-Line Winds, Flooding, Landslides, and Mudslides",2014
+MN,Flood,2016,Severe Storms and Flooding,2016
+MN,Storm,2010,Severe Storms and Flooding,2010
+MN,Storm,2011,Severe Storms and Tornadoes,2011
+MN,Storm,2012,Severe Storms and Flooding,2012
+MN,Storm,2013,Severe Winter Storm,2013
+MN,Tornado,2010,"Severe Storms, Tornadoes, and Flooding",2010
+MO,Flood,2011,Flooding,2011
+MO,Flood,2015,"Severe Storms, Tornadoes, Straight-Line Winds, and Flooding",2016
+MO,Storm,2010,"Severe Storms, Flooding, and Tornadoes",2010
+MO,Storm,2011,Severe Winter Storm and Snowstorm,2011
+MO,Storm,2013,"Severe Storms, Straight-Line Winds, Tornadoes, and Flooding",2013
+MO,Storm,2014,"Severe Storms, Tornadoes, Straight-Line Winds, and Flooding",2014
+MO,Storm,2015,"Severe Storms, Tornadoes, Straight-Line Winds, and Flooding",2015
+MP,Typhoon,2015,Typhoon Soudelor,2015
+MS,Flood,2011,Flooding,2011
+MS,Flood,2016,Severe Storms and Flooding,2016
+MS,Hurricane,2012,Hurricane Isaac,2012
+MS,Storm,2010,"Severe Storms, Tornadoes, and Flooding",2010
+MS,Storm,2011,"Severe Storms, Tornadoes, Straight-Line Winds, and Associated Flooding",2011
+MS,Storm,2013,"Severe Storms, Tornadoes, and Flooding",2013
+MS,Storm,2014,"Severe Storms, Tornadoes, and Flooding",2014
+MS,Storm,2015,"Severe Storms, Tornadoes, Straight-Line Winds, and Flooding",2015
+MS,Tornado,2014,Severe Storms and Tornadoes,2014
+MS,Tornado,2017,"Severe Storms, Tornadoes, Straight-Line Winds, and Flooding",2017
+MT,Fire,2012,Wildfire,2012
+MT,Flood,2013,Flooding ,2013
+MT,Flood,2014,Ice Jams and Flooding,2014
+MT,Storm,2010,Severe Storms and Flooding,2010
+MT,Storm,2011,Severe Storms and Flooding,2011
+MT,Storm,2014,"Severe Storms, Straight-Line Winds, and Flooding",2014
+MT,Storm,2016,Severe Winter Storm and Straight-Line Winds,2016
+MT,Tornado,2016,Tornado,2016
+NC,Flood,2013,"Severe Storms, Flooding, Landslides, and Mudslides",2013
+NC,Hurricane,2011,Hurricane Irene,2011
+NC,Hurricane,2016,Hurricane Matthew,2016
+NC,Ice,2014,Severe Winter Storm,2014
+NC,Mud/Landslide,2013,"Severe Storms, Flooding, Landslides, and Mudslides",2013
+NC,Storm,2010,"Severe Storms, Flooding, and Straight-Line Winds ",2010
+NC,Storm,2011,"Severe Storms, Tornadoes, and Flooding",2011
+ND,Flood,2010,Flooding,2010
+ND,Flood,2011,Flooding,2011
+ND,Flood,2013,Flooding,2013
+ND,Flood,2014,Severe Storms and Flooding,2014
+ND,Storm,2010,Severe Winter Storm,2010
+ND,Storm,2011,Severe Winter Storm,2011
+ND,Storm,2013,Severe Storms and Flooding,2013
+NE,Flood,2010,"Severe Storms, Ice Jams, and Flooding",2010
+NE,Flood,2011,Flooding,2011
+NE,Storm,2010,Severe Storms and Flooding,2010
+NE,Storm,2011,"Severe Storms, Tornadoes, Straight Line Winds, and Flooding",2011
+NE,Storm,2013,"Severe Storms, Winter Storms, Tornadoes and Flooding",2013
+NE,Storm,2014,"Severe Storms, Tornadoes, Straight-Line Winds, and Flooding",2014
+NE,Storm,2015,"Severe Storms, Tornadoes, Straight-Line Winds, and Flooding",2015
+NE,Tornado,2014,"Severe Storms, Tornadoes, Straight-Line Winds, and Flooding",2014
+NH,Flood,2011,Severe Storms and Flooding,2011
+NH,Hurricane,2011,Tropical Storm Irene,2011
+NH,Hurricane,2012,Hurricane Sandy,2012
+NH,Storm,2010,Severe Winter Storm,2010
+NH,Storm,2011,Severe Storm and Snowstorm,2011
+NH,Storm,2012,Severe Storm and Flooding,2012
+NH,Storm,2013,Severe Winter Storm and Snowstorm,2013
+NH,Storm,2015,Severe Winter Storm and Snowstorm,2015
+NJ,Hurricane,2011,Hurricane Irene,2011
+NJ,Hurricane,2012,Hurricane Sandy,2012
+NJ,Snow,2010,Severe Winter Storm and Snowstorm,2010
+NJ,Storm,2010,Severe Storms and Flooding,2010
+NJ,Storm,2011,Severe Storms and Flooding,2011
+NJ,Storm,2012,Severe Storms and Straight-Line Winds,2012
+NJ,Storm,2015,Severe Storm,2015
+NJ,Storm,2016,Severe Winter Storm and Snowstorm,2016
+NM,Flood,2010,Severe Storms and Flooding,2010
+NM,Flood,2011,Flooding,2011
+NM,Flood,2012,Flooding,2012
+NM,Flood,2013,"Severe Storms, Flooding, and Mudslides",2013
+NM,Storm,2011,Severe Winter Storm and Extreme Cold Temperatures,2011
+NM,Storm,2013,Severe Storms and Flooding,2013
+NM,Storm,2014,Severe Storms and Flooding,2014
+NV,Flood,2014,Severe Storms and Flooding,2014
+NY,Flood,2011,"Severe Storms, Flooding, Tornadoes, and Straight-Line Winds",2011
+NY,Flood,2013,Severe Storms and Flooding,2013
+NY,Hurricane,2011,Hurricane Irene,2011
+NY,Hurricane,2012,Hurricane Sandy,2012
+NY,Snow,2014,"Severe Winter Storm, Snowstorm, and Flooding",2014
+NY,Storm,2010,Severe Storms and Flooding,2010
+NY,Storm,2011,Remnants of Tropical Storm Lee,2011
+NY,Storm,2013,Severe Winter Storm and Snowstorm,2013
+NY,Storm,2014,Severe Storms and Flooding,2014
+NY,Tornado,2010,"Severe Storms, Tornadoes, and Straight-Line Winds",2010
+OH,Hurricane,2012,Severe Storms and Flooding Due to the Remnants of Hurricane Sandy,2012
+OH,Storm,2011,Severe Storms and Flooding,2011
+OH,Storm,2012,Severe Storms and Straight-Line Winds,2012
+OK,Fire,2012,Freedom and Noble Wildfires,2012
+OK,Flood,2016,Severe Storms and Flooding,2016
+OK,Ice,2010,Severe Winter Storm,2010
+OK,Ice,2015,Severe Winter Storms and Flooding,2015
+OK,Storm,2010,"Severe Storms, Tornadoes, and Straight-Line Winds",2010
+OK,Storm,2011,"Severe Storms, Tornadoes, and Straight-Line Winds",2011
+OK,Storm,2012,"Severe Storms, Tornadoes, Straight-Line Winds, and Flooding",2012
+OK,Storm,2013,Severe Winter Storm and Snowstorm,2013
+OK,Storm,2015,"Severe Storms, Tornadoes, Straight-Line Winds, and Flooding",2015
+OK,Storm,2017,Severe Winter Storm,2017
+OK,Tornado,2013,"Severe Storms, Tornadoes, and Flooding",2013
+OR,Flood,2012,"Severe Winter Storm, Flooding, Landslides, and Mudslides",2012
+OR,Storm,2011,"Severe Winter Storm, Flooding, Mudslides, Landslides, and Debris Flows",2011
+OR,Storm,2014,Severe Winter Storm,2014
+OR,Storm,2015,"Severe Winter Storms, Straight-Line Winds, Flooding, Landslides, and Mudslides",2015
+OR,Storm,2016,Severe Winter Storm and Flooding,2016
+OR,Tsunami,2011,Tsunami Wave Surge,2011
+PA,Flood,2011,Tropical Storm Lee,2011
+PA,Flood,2016,Severe Storms and Flooding,2016
+PA,Hurricane,2011,Hurricane Irene,2011
+PA,Hurricane,2012,Hurricane Sandy,2012
+PA,Snow,2010,Severe Winter Storms and Snowstorms,2010
+PA,Snow,2016,Severe Winter Storm and Snowstorm,2016
+PA,Storm,2011,Severe Storms and Flooding,2011
+PA,Storm,2013,"Severe Storms, Tornadoes, and Flooding",2013
+PR,Hurricane,2011,Hurricane Irene,2011
+PR,Storm,2010,Severe Storms and Flooding,2010
+PR,Storm,2011,"Severe Storms, Flooding, Mudslides, and Landslides",2011
+RI,Hurricane,2011,Tropical Storm Irene,2011
+RI,Hurricane,2012,Hurricane Sandy,2012
+RI,Storm,2010,Severe Storms and  Flooding,2010
+RI,Storm,2013,Severe Winter Storm and Snowstorm,2013
+RI,Storm,2015,Severe Winter Storm and Snowstorm,2015
+SC,Flood,2015,Severe Storms and Flooding,2015
+SC,Hurricane,2016,Hurricane Matthew,2016
+SC,Ice,2014,Severe Winter Storm,2014
+SD,Flood,2010,Flooding ,2010
+SD,Flood,2011,Flooding,2011
+SD,Flood,2014,"Severe Storms, Tornadoes, and Flooding",2014
+SD,Storm,2010,Severe Winter Storm,2010
+SD,Storm,2013,Severe Winter Storm and Snowstorm,2013
+SD,Storm,2015,"Severe Storms, Tornadoes, Straight-Line Winds, and Flooding",2015
+SD,Storm,2016,Severe Winter Storm,2016
+TN,Fire,2016,Wildfires,2016
+TN,Ice,2014,Severe Winter Storm,2014
+TN,Ice,2015,Severe Winter Storm and Flooding,2015
+TN,Storm,2010,"Severe Storms, Flooding, Straight-Line Winds, and Tornadoes ",2010
+TN,Storm,2011,"Severe Storms, Tornadoes, and Flooding",2011
+TN,Storm,2012,"Severe Storms, Tornadoes, Straight-Line Winds and ",2012
+TN,Storm,2014,"Severe Storms, Tornadoes, Straight-Line Winds, and Flooding",2014
+TX,Fire,2011,Wildfires,2011
+TX,Flood,2016,"Severe Storms, Tornadoes, and Flooding",2016
+TX,Hurricane,2010,Hurricane Alex,2010
+TX,Other,2013,Explosion,2013
+TX,Storm,2013,Severe Storms and Flooding,2013
+TX,Storm,2015,"Severe Storms, Tornadoes, Straight-Line Winds and Flooding",2015
+TX,Storm,2016,"Severe Winter Storms, Tornadoes, Straight-Line Winds, and Flooding",2016
+UT,Flood,2010,Severe Winter Storm and Flooding,2010
+UT,Flood,2011,Flooding,2011
+UT,Flood,2012,Severe Storm and Flooding,2012
+UT,Storm,2011,Severe Storm,2011
+VA,Earthquake,2011,Earthquake,2011
+VA,Hurricane,2011,Hurricane Irene,2011
+VA,Hurricane,2012,Hurricane Sandy,2012
+VA,Hurricane,2016,Hurricane Matthew,2016
+VA,Snow,2010,Severe Winter Storms and Snowstorms,2010
+VA,Snow,2016,Severe Winter Storm and Snowstorm,2016
+VA,Storm,2011,The Remnants of Tropical Storm Lee,2011
+VA,Storm,2012,Severe Storms and Straight-Line Winds,2012
+VI,Hurricane,2010,Hurricane Earl,2010
+VI,Storm,2010,"Severe Storms, Flooding, Mudslides, and Landslides",2010
+VT,Flood,2013,Severe Storms and Flooding,2013
+VT,Flood,2014,Severe Storms and Flooding,2014
+VT,Hurricane,2011,Tropical Storm Irene,2011
+VT,Ice,2013,Severe Winter Storms,2013
+VT,Storm,2010,Severe Storm,2010
+VT,Storm,2011,Severe Storms and Flooding,2011
+VT,Storm,2012,"Severe Storm, Tornado, and Flooding",2012
+VT,Storm,2014,Severe Winter Storm,2014
+VT,Storm,2015,Severe Storm and Flooding,2015
+WA,Fire,2014,Wildfires,2014
+WA,Fire,2015,Wildfires and Mudslides,2015
+WA,Flood,2015,"Severe Winter Storm, Straight-Line Winds, Flooding, Landslides, Mudslides, and A T",2015
+WA,Mud/Landslide,2014,Flooding and Mudslides,2014
+WA,Storm,2011,"Severe Winter Storm, Flooding, Landslides, and Mudslides",2011
+WA,Storm,2012,"Severe Winter Storm, Flooding, Landslides, and Mudslides",2012
+WA,Storm,2015,Severe Windstorm,2015
+WI,Flood,2016,"Severe Storms, Flooding, and Mudslides",2016
+WI,Snow,2011,Severe Winter Storm and Snowstorm,2011
+WI,Storm,2010,"Severe Storms, Tornadoes, and Flooding",2010
+WI,Storm,2012,Severe Storms and Flooding,2012
+WI,Storm,2013,"Severe Storms, Flooding, and Mudslides",2013
+WI,Storm,2016,Severe Storms and Flooding,2016
+WV,Flood,2010,"Severe Storms, Flooding, Mudslides, and Landslides",2010
+WV,Flood,2013,Severe Storms and Flooding,2013
+WV,Flood,2015,"Severe Storms, Flooding, Landslides, and Mudslides",2015
+WV,Flood,2016,"Severe Storms, Flooding, Landslides, and Mudslides",2016
+WV,Hurricane,2012,Hurricane Sandy,2012
+WV,Snow,2010,Severe Winter Storms and Snowstorms,2010
+WV,Storm,2010,"Severe Storms, Flooding, Mudslides, and Landslides",2010
+WV,Storm,2012,"Severe Storms, Tornadoes, Flooding, Mudslides, and Landslides",2012
+WV,Storm,2015,"Severe Winter Storm, Flooding, Landslides, and Mudslides",2015
+WY,Flood,2010,Flooding,2010
+WY,Flood,2015,Severe Storms and Flooding,2015
+WY,Storm,2011,"Severe Storms, Flooding, and Landslides",2011
