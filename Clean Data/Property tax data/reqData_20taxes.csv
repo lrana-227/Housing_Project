@@ -1,566 +1,566 @@
 Municipality,County,County Rate Share,School Rate Share,Municipal Rate Share,Total County Rate,Avg Property value(in $),Year
-Absecon City,Atlantic,0.16,0.53,0.31,0.52,169013.00,2020
-Atlantic City City,Atlantic,0.13,0.43,0.44,0.49,124426.64,2020
-Brigantine City,Atlantic,0.32,0.30,0.38,0.55,370388.94,2020
-Buena Borough,Atlantic,0.15,0.53,0.32,0.49,172318.89,2020
-Buena Vista Township,Atlantic,0.19,0.64,0.17,0.49,215082.65,2020
-Corbin City,Atlantic,0.28,0.54,0.18,0.54,193292.41,2020
-Egg Harbor City,Atlantic,0.11,0.46,0.44,0.58,120580.45,2020
-Egg Harbor Township,Atlantic,0.17,0.64,0.18,0.57,206747.04,2020
-Estell Manor City,Atlantic,0.22,0.64,0.13,0.58,180612.32,2020
-Folsom Borough,Atlantic,0.26,0.55,0.19,0.54,197988.32,2020
-Galloway Township,Atlantic,0.18,0.62,0.20,0.56,167209.06,2020
-Hamilton Township,Atlantic,0.18,0.54,0.27,0.59,162895.47,2020
-Hammonton Township,Atlantic,0.21,0.53,0.26,0.57,216211.51,2020
-Linwood City,Atlantic,0.14,0.59,0.27,0.48,294324.40,2020
-Longport Borough,Atlantic,0.55,0.09,0.37,0.54,1133612.48,2020
-Margate City,Atlantic,0.37,0.21,0.42,0.57,539377.56,2020
-Mullica Township,Atlantic,0.17,0.55,0.28,0.56,182773.70,2020
-Northfield City,Atlantic,0.14,0.57,0.29,0.50,218278.85,2020
-Pleasantville City,Atlantic,0.11,0.27,0.62,0.52,101057.91,2020
-Port Republic City,Atlantic,0.22,0.59,0.19,0.61,231447.75,2020
-Somers Point City,Atlantic,0.17,0.52,0.31,0.54,210019.99,2020
-Ventnor City,Atlantic,0.22,0.35,0.44,0.56,302910.19,2020
-Weymouth Township,Atlantic,0.23,0.59,0.18,0.60,192639.13,2020
-Allendale Borough,Bergen,0.11,0.64,0.25,0.26,663956.97,2020
-Alpine Borough,Bergen,0.32,0.45,0.23,0.24,2774600.91,2020
-Bergenfield Borough,Bergen,0.09,0.56,0.35,0.30,328566.39,2020
-Bogota Borough,Bergen,0.08,0.61,0.31,0.32,263188.16,2020
-Carlstadt Borough,Bergen,0.14,0.43,0.44,0.24,392354.21,2020
-Cliffside Park Borough,Bergen,0.12,0.49,0.39,0.30,362685.40,2020
-Closter Borough,Bergen,0.11,0.64,0.25,0.25,726667.07,2020
-Cresskill Borough,Bergen,0.11,0.58,0.32,0.26,708860.42,2020
-Demarest Borough,Bergen,0.11,0.67,0.22,0.30,790656.36,2020
-Dumont Borough,Bergen,0.08,0.60,0.31,0.32,307575.58,2020
-Elmwood Park Borough,Bergen,0.09,0.59,0.31,0.28,331733.51,2020
-East Rutherford Borough,Bergen,0.14,0.57,0.29,0.26,388474.53,2020
-Edgewater Borough,Bergen,0.17,0.41,0.42,0.34,476411.15,2020
-Emerson Borough,Bergen,0.09,0.62,0.28,0.27,442013.51,2020
-Englewood City,Bergen,0.10,0.45,0.45,0.29,466249.82,2020
-Englewood Cliffs Borough,Bergen,0.22,0.36,0.42,0.26,1317637.85,2020
-Fair Lawn Borough,Bergen,0.09,0.65,0.26,0.31,332371.44,2020
-Fairview Borough,Bergen,0.10,0.45,0.45,0.25,390007.00,2020
-Fort Lee Borough,Bergen,0.11,0.44,0.44,0.28,469283.18,2020
-Franklin Lakes Borough,Bergen,0.15,0.67,0.18,0.25,1063493.97,2020
-Garfield City,Bergen,0.11,0.48,0.41,0.31,284095.52,2020
-Glen Rock Borough,Bergen,0.09,0.70,0.21,0.28,569893.39,2020
-Hackensack City,Bergen,0.07,0.46,0.47,0.25,255831.94,2020
-Harrington Park Borough,Bergen,0.10,0.69,0.21,0.28,540922.84,2020
-Hasbrouck Heights Borough,Bergen,0.09,0.60,0.31,0.26,401627.25,2020
-Haworth Borough,Bergen,0.10,0.63,0.27,0.29,625957.67,2020
-Hillsdale Borough,Bergen,0.09,0.70,0.20,0.27,472530.24,2020
-Ho-Ho-Kus Borough,Bergen,0.13,0.58,0.29,0.28,767820.43,2020
-Leonia Borough,Bergen,0.10,0.60,0.31,0.30,436790.08,2020
-Little Ferry Borough,Bergen,0.08,0.57,0.36,0.26,295019.49,2020
-Lodi Borough,Bergen,0.10,0.60,0.30,0.33,318320.98,2020
-Lyndhurst Township,Bergen,0.10,0.50,0.41,0.29,314388.46,2020
-Mahwah Township,Bergen,0.14,0.60,0.26,0.27,478198.98,2020
-Maywood Borough,Bergen,0.10,0.55,0.35,0.32,321251.46,2020
-Midland Park Borough,Bergen,0.10,0.65,0.25,0.30,397200.00,2020
-Montvale Borough,Bergen,0.12,0.63,0.25,0.29,524916.74,2020
-Moonachie Borough,Bergen,0.11,0.44,0.44,0.26,351567.62,2020
-New Milford Borough,Bergen,0.09,0.61,0.30,0.31,329088.03,2020
-North Arlington Borough,Bergen,0.09,0.53,0.38,0.24,351649.73,2020
-Northvale Borough,Bergen,0.10,0.62,0.29,0.29,399255.16,2020
-Norwood Borough,Bergen,0.10,0.61,0.29,0.26,551535.62,2020
-Oakland Borough,Bergen,0.10,0.66,0.24,0.30,414224.65,2020
-Old Tappan Borough,Bergen,0.12,0.72,0.16,0.25,820594.38,2020
-Oradell Borough,Bergen,0.09,0.61,0.30,0.25,561154.32,2020
-Palisades Park Borough,Bergen,0.16,0.49,0.36,0.24,648690.66,2020
-Paramus Borough,Bergen,0.16,0.51,0.33,0.26,626092.46,2020
-Park Ridge Borough,Bergen,0.10,0.66,0.24,0.29,475651.65,2020
-Ramsey Borough,Bergen,0.10,0.69,0.21,0.26,526149.51,2020
-Ridgefield Borough,Bergen,0.12,0.58,0.29,0.31,391296.32,2020
-Ridgefield Park Village,Bergen,0.08,0.56,0.36,0.26,325392.78,2020
-Ridgewood Village,Bergen,0.11,0.65,0.24,0.29,701977.09,2020
-River Edge Borough,Bergen,0.09,0.64,0.26,0.33,394207.36,2020
-River Vale Township,Bergen,0.10,0.68,0.23,0.25,593981.11,2020
-Rochelle Park Township,Bergen,0.11,0.50,0.39,0.27,331582.92,2020
-Rockleigh Borough,Bergen,0.29,0.34,0.37,0.25,1624130.68,2020
-Rutherford Borough,Bergen,0.10,0.59,0.31,0.28,431380.59,2020
-Saddle Brook Township,Bergen,0.10,0.57,0.33,0.26,353112.48,2020
-Saddle River Borough,Bergen,0.25,0.37,0.38,0.24,1900758.53,2020
-South Hackensack Township,Bergen,0.09,0.47,0.44,0.24,361422.39,2020
-Teaneck Township,Bergen,0.09,0.57,0.34,0.30,386230.70,2020
-Tenafly Borough,Bergen,0.11,0.65,0.24,0.29,823459.08,2020
-Teterboro Borough,Bergen,0.23,0.04,0.73,0.26,188557.14,2020
-Upper Saddle River Borough,Bergen,0.12,0.69,0.19,0.30,776082.77,2020
-Waldwick Borough,Bergen,0.10,0.70,0.20,0.26,420085.25,2020
-Wallington Borough,Bergen,0.10,0.56,0.34,0.30,313758.82,2020
-Washington Township,Bergen,0.11,0.64,0.25,0.28,465620.76,2020
-Westwood Borough,Bergen,0.10,0.59,0.31,0.25,433369.71,2020
-Woodcliff Lake Borough,Bergen,0.12,0.65,0.24,0.24,765785.30,2020
-Wood-Ridge Borough,Bergen,0.10,0.51,0.39,0.29,359120.91,2020
-Wyckoff Township,Bergen,0.14,0.71,0.16,0.25,794025.85,2020
-Bass River Township,Burlington,0.18,0.65,0.17,0.40,218993.40,2020
-Beverly City,Burlington,0.09,0.56,0.35,0.41,126107.84,2020
-Bordentown City,Burlington,0.12,0.57,0.31,0.43,203406.32,2020
-Bordentown Township,Burlington,0.16,0.66,0.18,0.53,242267.64,2020
-Burlington City,Burlington,0.11,0.55,0.35,0.43,138504.59,2020
-Burlington Township,Burlington,0.16,0.66,0.18,0.46,234925.00,2020
-Chesterfield Township,Burlington,0.14,0.74,0.12,0.41,390611.76,2020
-Cinnaminson Township,Burlington,0.13,0.68,0.19,0.45,233980.32,2020
-Delanco Township,Burlington,0.13,0.54,0.33,0.43,189782.57,2020
-Delran Township,Burlington,0.12,0.66,0.22,0.46,211839.07,2020
-Eastampton Township,Burlington,0.14,0.57,0.29,0.44,221591.77,2020
-Edgewater Park Township,Burlington,0.12,0.59,0.29,0.38,180559.20,2020
-Evesham Township,Burlington,0.15,0.69,0.16,0.42,271619.17,2020
-Fieldsboro Borough,Burlington,0.15,0.65,0.20,0.44,199286.38,2020
-Florence Township,Burlington,0.17,0.64,0.19,0.40,219931.91,2020
-Hainesport Township,Burlington,0.18,0.68,0.14,0.44,280202.70,2020
-Lumberton Township,Burlington,0.17,0.67,0.17,0.40,301054.99,2020
-Mansfield Township,Burlington,0.15,0.70,0.15,0.49,251398.20,2020
-Maple Shade Township,Burlington,0.12,0.63,0.25,0.42,159561.38,2020
-Medford Township,Burlington,0.14,0.73,0.13,0.44,326375.18,2020
-Medford Lakes Borough,Burlington,0.13,0.67,0.20,0.43,287180.16,2020
-Moorestown Township,Burlington,0.17,0.66,0.16,0.45,456606.50,2020
-Mount Holly Township,Burlington,0.14,0.59,0.28,0.40,171792.98,2020
-Mount Laurel Township,Burlington,0.15,0.68,0.17,0.40,237495.53,2020
-New Hanover Township,Burlington,0.22,0.74,0.04,0.55,182334.38,2020
-North Hanover Township,Burlington,0.18,0.66,0.16,0.41,318094.69,2020
-Palmyra Borough,Burlington,0.10,0.57,0.32,0.42,147782.85,2020
-Pemberton Borough,Burlington,0.19,0.50,0.30,0.43,184273.86,2020
-Pemberton Township,Burlington,0.16,0.42,0.42,0.40,164670.09,2020
-Riverside Township,Burlington,0.11,0.57,0.32,0.40,151829.20,2020
-Riverton Borough,Burlington,0.13,0.64,0.23,0.47,246622.40,2020
-Shamong Township,Burlington,0.15,0.81,0.04,0.43,308811.52,2020
-Southampton Township,Burlington,0.16,0.69,0.15,0.48,192285.83,2020
-Springfield Township,Burlington,0.15,0.62,0.23,0.45,275606.16,2020
-Tabernacle Township,Burlington,0.14,0.70,0.15,0.44,265356.93,2020
-Washington Township,Burlington,0.33,0.67,0.00,0.42,236640.06,2020
-Westampton Township,Burlington,0.17,0.55,0.28,0.41,241259.47,2020
-Willingboro Township,Burlington,0.09,0.46,0.45,0.37,157669.05,2020
-Woodland Township,Burlington,0.15,0.73,0.12,0.37,255934.82,2020
-Wrightstown Borough,Burlington,0.15,0.50,0.34,0.45,154715.75,2020
-Audubon Borough,Camden,0.23,0.51,0.26,0.83,202481.81,2020
-Audubon Park Borough,Camden,0.14,0.27,0.59,0.86,41483.00,2020
-Barrington Borough,Camden,0.20,0.51,0.29,0.89,192615.84,2020
-Bellmawr Borough,Camden,0.22,0.47,0.31,0.84,167198.79,2020
-Berlin Borough,Camden,0.24,0.51,0.25,0.79,233724.22,2020
-Berlin Township,Camden,0.25,0.40,0.35,0.92,184221.23,2020
-Brooklawn Borough,Camden,0.22,0.33,0.45,0.89,109009.46,2020
-Camden City,Camden,0.30,0.18,0.52,0.94,56961.10,2020
-Cherry Hill Township,Camden,0.24,0.61,0.16,0.90,225125.81,2020
-Chesilhurst Borough,Camden,0.23,0.25,0.51,0.81,164074.73,2020
-Clementon Borough,Camden,0.20,0.41,0.38,0.88,119111.88,2020
-Collingswood Borough,Camden,0.23,0.47,0.30,0.82,230150.82,2020
-Gibbsboro Borough,Camden,0.24,0.51,0.25,0.97,222652.51,2020
-Gloucester City City,Camden,0.19,0.28,0.54,0.84,107496.15,2020
-Gloucester Township,Camden,0.23,0.46,0.31,0.88,188092.07,2020
-Haddon Township,Camden,0.26,0.55,0.20,0.97,228189.09,2020
-Haddonfield Borough,Camden,0.27,0.56,0.17,0.84,505774.92,2020
-Haddon Heights Borough,Camden,0.24,0.53,0.23,0.81,288174.93,2020
-Hi-nella Borough,Camden,0.16,0.56,0.28,0.84,149670.63,2020
-Laurel Springs Borough,Camden,0.18,0.48,0.34,0.91,162745.51,2020
-Lawnside Borough,Camden,0.21,0.57,0.22,0.88,135851.48,2020
-Lindenwold Borough,Camden,0.17,0.48,0.35,0.85,95673.94,2020
-Magnolia Borough,Camden,0.20,0.54,0.25,0.90,147756.96,2020
-Merchantville Borough,Camden,0.19,0.52,0.29,0.89,186568.58,2020
-Mount Ephraim Borough,Camden,0.18,0.52,0.30,0.87,145243.70,2020
-Oaklyn Borough,Camden,0.21,0.47,0.33,0.96,163004.29,2020
-Pennsauken Township,Camden,0.23,0.49,0.27,0.83,140397.36,2020
-Pine Hill Borough,Camden,0.18,0.57,0.25,0.89,114652.50,2020
-Pine Valley Borough,Camden,0.40,0.00,0.60,0.85,554960.87,2020
-Runnemede Borough,Camden,0.21,0.51,0.28,0.85,147985.34,2020
-Somerdale Borough,Camden,0.22,0.52,0.26,0.94,141543.18,2020
-Stratford Borough,Camden,0.20,0.58,0.23,0.87,157633.36,2020
-Tavistock Borough,Camden,0.48,0.09,0.42,0.85,1720000.00,2020
-Voorhees Township,Camden,0.25,0.53,0.22,1.01,259439.32,2020
-Waterford Township,Camden,0.22,0.50,0.28,0.88,174383.83,2020
-Winslow Township,Camden,0.26,0.56,0.18,0.89,175484.03,2020
-Woodlynne Borough,Camden,0.12,0.47,0.41,0.95,67979.82,2020
-Avalon Borough,Cape May,0.49,0.06,0.45,0.26,1622032.15,2020
-Cape May City,Cape May,0.30,0.32,0.37,0.29,654179.42,2020
-Cape May Point Borough,Cape May,0.49,0.04,0.48,0.30,706442.11,2020
-Dennis Township,Cape May,0.16,0.71,0.13,0.28,186190.18,2020
-Lower Township,Cape May,0.18,0.50,0.33,0.31,232160.58,2020
-Middle Township,Cape May,0.15,0.58,0.27,0.28,245424.05,2020
-North Wildwood City,Cape May,0.22,0.21,0.57,0.29,307217.72,2020
-Ocean City City,Cape May,0.27,0.22,0.51,0.26,609890.23,2020
-Sea Isle City,Cape May,0.43,0.05,0.52,0.31,674918.13,2020
-Stone Harbor Borough,Cape May,0.47,0.09,0.44,0.29,1586890.98,2020
-Upper Township,Cape May,0.15,0.74,0.11,0.29,282638.48,2020
-West Cape May Borough,Cape May,0.24,0.48,0.28,0.31,466017.06,2020
-West Wildwood Borough,Cape May,0.17,0.22,0.61,0.31,245960.80,2020
-Wildwood City,Cape May,0.11,0.32,0.57,0.29,205142.06,2020
-Wildwood Crest Borough,Cape May,0.21,0.26,0.53,0.27,384442.04,2020
-Woodbine Borough,Cape May,0.15,0.71,0.14,0.24,121801.55,2020
-Bridgeton City,Cumberland,0.28,0.15,0.56,1.40,71203.40,2020
-Commercial Township,Cumberland,0.44,0.33,0.23,1.08,110283.14,2020
-Deerfield Township,Cumberland,0.35,0.62,0.02,1.32,140868.05,2020
-Downe Township,Cumberland,0.45,0.41,0.14,1.00,149429.09,2020
-Fairfield Township,Cumberland,0.44,0.40,0.17,1.13,161114.94,2020
-Greenwich Township,Cumberland,0.34,0.54,0.12,1.21,182531.46,2020
-Hopewell Township,Cumberland,0.40,0.51,0.09,1.35,158387.80,2020
-Lawrence Township,Cumberland,0.42,0.39,0.18,1.21,169487.69,2020
-Maurice River Township,Cumberland,0.44,0.40,0.16,1.18,174171.21,2020
-Millville City,Cumberland,0.37,0.25,0.38,1.34,125302.99,2020
-Shiloh Borough,Cumberland,0.41,0.49,0.10,1.25,154316.92,2020
-Stow Creek Township,Cumberland,0.41,0.53,0.06,1.32,175356.78,2020
-Upper Deerfield Township,Cumberland,0.38,0.57,0.05,1.21,176459.31,2020
-Vineland City,Cumberland,0.42,0.23,0.35,1.23,159845.13,2020
-Belleville Township,Essex,0.13,0.38,0.49,0.50,276473.94,2020
-Bloomfield Township,Essex,0.15,0.47,0.38,0.46,351899.69,2020
-Caldwell Township,Essex,0.19,0.52,0.29,0.55,421758.45,2020
-Cedar Grove Township,Essex,0.21,0.57,0.21,0.52,469887.47,2020
-East Orange City,Essex,0.12,0.18,0.70,0.64,166127.04,2020
-Essex Fells Township,Essex,0.24,0.52,0.24,0.49,1001800.90,2020
-Fairfield Township,Essex,0.26,0.48,0.26,0.50,528944.54,2020
-Glen Ridge Borough,Essex,0.17,0.61,0.23,0.53,665784.29,2020
-Irvington Township,Essex,0.09,0.19,0.72,0.55,138497.68,2020
-Livingston Township,Essex,0.21,0.60,0.19,0.48,704753.51,2020
-Maplewood Township,Essex,0.16,0.57,0.26,0.54,500720.94,2020
-Millburn Township,Essex,0.26,0.49,0.25,0.50,1265921.98,2020
-Montclair Township,Essex,0.17,0.57,0.26,0.54,627995.22,2020
-Newark City,Essex,0.15,0.31,0.54,0.59,178726.14,2020
-North Caldwell Borough,Essex,0.23,0.60,0.17,0.55,687136.92,2020
-Nutley Township,Essex,0.16,0.49,0.35,0.58,320248.24,2020
-Orange City,Essex,0.10,0.18,0.73,0.53,177573.78,2020
-Roseland Borough,Essex,0.22,0.49,0.29,0.52,466907.18,2020
-South Orange Village,Essex,0.16,0.57,0.27,0.54,583868.90,2020
-Verona Township,Essex,0.18,0.56,0.26,0.52,430361.02,2020
-West Caldwell Township,Essex,0.21,0.55,0.24,0.54,441354.67,2020
-West Orange Township,Essex,0.13,0.61,0.26,0.57,338105.70,2020
-Clayton Borough,Gloucester,0.20,0.55,0.25,0.77,153590.19,2020
-Deptford Township,Gloucester,0.22,0.50,0.27,0.71,181106.42,2020
-East Greenwich Township,Gloucester,0.25,0.64,0.11,0.75,299101.59,2020
-Elk Township,Gloucester,0.21,0.54,0.25,0.78,208146.08,2020
-Franklin Township,Gloucester,0.22,0.57,0.20,0.75,185874.50,2020
-Glassboro Borough,Gloucester,0.23,0.48,0.29,0.80,188593.45,2020
-Greenwich Township,Gloucester,0.11,0.44,0.45,0.36,162287.82,2020
-Harrison Township,Gloucester,0.26,0.56,0.19,0.76,343695.93,2020
-Logan Township,Gloucester,0.35,0.43,0.22,0.76,212278.52,2020
-Mantua Township,Gloucester,0.24,0.55,0.22,0.80,207743.69,2020
-Monroe Township,Gloucester,0.19,0.56,0.25,0.70,203528.06,2020
-National Park Borough,Gloucester,0.17,0.62,0.21,0.77,138039.05,2020
-Newfield Borough,Gloucester,0.21,0.58,0.22,0.77,182289.67,2020
-Paulsboro Borough,Gloucester,0.17,0.46,0.37,0.70,104142.67,2020
-Pitman Borough,Gloucester,0.17,0.59,0.24,0.76,169008.03,2020
-South Harrison Township,Gloucester,0.27,0.64,0.09,0.78,324719.50,2020
-Swedesboro Borough,Gloucester,0.19,0.54,0.26,0.78,171875.38,2020
-Washington Township,Gloucester,0.22,0.58,0.20,0.72,231718.97,2020
-Wenonah Borough,Gloucester,0.17,0.67,0.17,0.71,258862.79,2020
-West Deptford Township,Gloucester,0.22,0.47,0.31,0.76,199779.27,2020
-Westville Borough,Gloucester,0.15,0.54,0.30,0.72,125322.33,2020
-Woodbury City,Gloucester,0.16,0.50,0.34,0.77,139164.93,2020
-Woodbury Heights Borough,Gloucester,0.17,0.56,0.27,0.80,177831.00,2020
-Woolwich Township,Gloucester,0.22,0.62,0.16,0.74,319353.87,2020
-Bayonne City,Hudson,0.15,0.41,0.44,0.38,400644.06,2020
-East Newark Borough,Hudson,0.19,0.35,0.45,0.51,265838.26,2020
-Guttenberg Town,Hudson,0.15,0.37,0.48,0.58,249661.77,2020
-Harrison Town,Hudson,0.17,0.33,0.50,0.39,447558.25,2020
-Hoboken City,Hudson,0.36,0.27,0.37,0.59,524986.01,2020
-Jersey City City,Hudson,0.27,0.27,0.46,0.44,452097.88,2020
-Kearny Town,Hudson,0.15,0.48,0.37,1.56,96384.24,2020
-North Bergen Township,Hudson,0.18,0.36,0.47,1.01,137583.61,2020
-Secaucus Town,Hudson,0.20,0.36,0.44,0.75,175621.26,2020
-Union City City,Hudson,0.16,0.14,0.71,1.14,118034.72,2020
-Weehawken Township,Hudson,0.22,0.34,0.44,0.39,778202.82,2020
-West New York Town,Hudson,0.18,0.26,0.55,1.39,96481.05,2020
-Alexandria Township,Hunterdon,0.15,0.73,0.12,0.41,386425.35,2020
-Bethlehem Township,Hunterdon,0.14,0.73,0.14,0.40,353382.43,2020
-Bloomsbury Borough,Hunterdon,0.13,0.66,0.21,0.41,214612.26,2020
-Califon Borough,Hunterdon,0.11,0.70,0.19,0.39,330791.00,2020
-Clinton Town,Hunterdon,0.12,0.61,0.26,0.40,334455.13,2020
-Clinton Township,Hunterdon,0.15,0.69,0.16,0.40,396696.64,2020
-Delaware Township,Hunterdon,0.16,0.65,0.19,0.41,420523.55,2020
-East Amwell Township,Hunterdon,0.17,0.73,0.10,0.43,386125.66,2020
-Flemington Borough,Hunterdon,0.11,0.57,0.32,0.35,272413.00,2020
-Franklin Township,Hunterdon,0.15,0.70,0.15,0.39,426166.35,2020
-Frenchtown Borough,Hunterdon,0.12,0.62,0.26,0.43,263098.83,2020
-Glen Gardner Borough,Hunterdon,0.13,0.67,0.19,0.46,184526.43,2020
-Hampton Borough,Hunterdon,0.10,0.71,0.19,0.39,240173.89,2020
-High Bridge Borough,Hunterdon,0.10,0.65,0.26,0.40,228268.96,2020
-Holland Township,Hunterdon,0.14,0.79,0.07,0.42,290224.48,2020
-Kingwood Township,Hunterdon,0.16,0.69,0.14,0.38,367526.61,2020
-Lambertville City,Hunterdon,0.17,0.63,0.20,0.35,389509.54,2020
-Lebanon Borough,Hunterdon,0.15,0.66,0.19,0.38,270504.70,2020
-Lebanon Township,Hunterdon,0.16,0.72,0.13,0.37,383345.74,2020
-Milford Borough,Hunterdon,0.11,0.68,0.22,0.38,226601.58,2020
-Raritan Township,Hunterdon,0.15,0.72,0.12,0.39,404202.47,2020
-Readington Township,Hunterdon,0.15,0.64,0.20,0.47,364143.17,2020
-Stockton Borough,Hunterdon,0.18,0.59,0.22,0.38,364724.17,2020
-Tewksbury Township,Hunterdon,0.17,0.63,0.19,0.39,658338.55,2020
-Union Township,Hunterdon,0.16,0.73,0.11,0.46,307294.90,2020
-West Amwell Township,Hunterdon,0.16,0.68,0.17,0.36,443246.06,2020
-East Windsor Township,Mercer,0.22,0.65,0.13,0.71,259287.71,2020
-Ewing Township,Mercer,0.19,0.54,0.27,0.66,199267.38,2020
-Hamilton Township,Mercer,0.22,0.48,0.30,0.64,215482.95,2020
-Hightstown Borough,Mercer,0.18,0.52,0.31,0.78,213511.88,2020
-Hopewell Borough,Mercer,0.21,0.57,0.22,0.64,407529.24,2020
-Hopewell Township,Mercer,0.24,0.60,0.15,0.70,480700.86,2020
-Lawrence Township,Mercer,0.24,0.54,0.22,0.70,283183.87,2020
-Pennington Borough,Mercer,0.22,0.59,0.19,0.61,489692.65,2020
-Trenton City,Mercer,0.12,0.20,0.69,0.64,61848.44,2020
-Robbinsville Township,Mercer,0.24,0.56,0.20,0.71,377703.65,2020
-West Windsor Township,Mercer,0.27,0.58,0.16,0.74,522592.16,2020
-Princeton,Mercer,0.30,0.49,0.21,0.73,841063.74,2020
-Carteret Borough,Middlesex,0.15,0.40,0.45,0.44,241799.46,2020
-Cranbury Township,Middlesex,0.23,0.55,0.22,0.40,609830.63,2020
-Dunellen Borough,Middlesex,0.12,0.61,0.27,0.39,288285.28,2020
-East Brunswick Township,Middlesex,0.14,0.65,0.21,1.56,94419.36,2020
-Edison Township,Middlesex,0.18,0.56,0.25,1.03,180391.93,2020
-Helmetta Borough,Middlesex,0.15,0.61,0.24,0.46,206199.54,2020
-Highland Park Borough,Middlesex,0.11,0.61,0.27,0.94,144712.08,2020
-Jamesburg Borough,Middlesex,0.12,0.58,0.31,0.72,123214.81,2020
-Old Bridge Township,Middlesex,0.19,0.60,0.21,0.93,154389.96,2020
-Metuchen Borough,Middlesex,0.15,0.62,0.24,0.90,185684.72,2020
-Middlesex Borough,Middlesex,0.13,0.57,0.30,1.22,93338.84,2020
-Milltown Borough,Middlesex,0.13,0.62,0.25,0.85,163206.79,2020
-Monroe Township,Middlesex,0.19,0.59,0.22,0.48,318630.44,2020
-New Brunswick City,Middlesex,0.16,0.39,0.44,0.40,270903.94,2020
-North Brunswick Township,Middlesex,0.13,0.62,0.25,0.75,159778.34,2020
-Perth Amboy City,Middlesex,0.14,0.27,0.60,0.41,241265.39,2020
-Piscataway Township,Middlesex,0.18,0.54,0.28,0.40,342249.56,2020
-Plainsboro Township,Middlesex,0.17,0.66,0.17,0.40,450150.59,2020
-Sayreville Borough,Middlesex,0.16,0.55,0.29,0.85,145024.28,2020
-South Amboy City,Middlesex,0.15,0.41,0.44,0.41,273106.44,2020
-South Brunswick Township,Middlesex,0.20,0.60,0.21,0.99,192637.81,2020
-South Plainfield Borough,Middlesex,0.19,0.58,0.24,1.18,122974.09,2020
-South River Borough,Middlesex,0.16,0.53,0.31,0.37,291122.15,2020
-Spotswood Borough,Middlesex,0.13,0.56,0.31,0.45,255913.86,2020
-Woodbridge Township,Middlesex,0.14,0.56,0.31,1.45,77981.54,2020
-Allenhurst Borough,Monmouth,0.41,0.04,0.54,0.33,2071294.98,2020
-Allentown Borough,Monmouth,0.10,0.61,0.29,0.29,291559.19,2020
-Asbury Park City,Monmouth,0.16,0.30,0.53,0.26,375102.97,2020
-Atlantic Highlands Borough,Monmouth,0.15,0.55,0.31,0.29,488466.30,2020
-Avon-by-the-Sea Borough,Monmouth,0.27,0.38,0.36,0.32,865811.36,2020
-Belmar Borough,Monmouth,0.22,0.40,0.38,0.29,569780.59,2020
-Bradley Beach Borough,Monmouth,0.22,0.36,0.42,0.26,663412.61,2020
-Brielle Borough,Monmouth,0.17,0.56,0.27,0.28,722250.33,2020
-Colts Neck Township,Monmouth,0.16,0.68,0.15,0.29,844059.38,2020
-Deal Borough,Monmouth,0.45,0.12,0.43,0.32,2679542.41,2020
-Eatontown Borough,Monmouth,0.13,0.52,0.35,0.29,359687.20,2020
-Englishtown Borough,Monmouth,0.13,0.59,0.28,0.29,329076.60,2020
-Fair Haven Borough,Monmouth,0.15,0.64,0.21,0.28,862353.42,2020
-Farmingdale Borough,Monmouth,0.13,0.74,0.14,0.29,322402.39,2020
-Freehold Borough,Monmouth,0.10,0.50,0.40,0.27,266803.68,2020
-Freehold Township,Monmouth,0.13,0.70,0.17,0.28,426146.94,2020
-Highlands Borough,Monmouth,0.11,0.43,0.46,0.28,281019.68,2020
-Holmdel Township,Monmouth,0.14,0.68,0.18,0.29,686370.21,2020
-Howell Township,Monmouth,0.13,0.68,0.19,0.30,365747.48,2020
-Interlaken Borough,Monmouth,0.25,0.18,0.58,0.30,732295.96,2020
-Keansburg Borough,Monmouth,0.09,0.28,0.63,0.36,135950.69,2020
-Keyport Borough,Monmouth,0.10,0.53,0.37,0.27,282525.62,2020
-Little Silver Borough,Monmouth,0.14,0.63,0.23,0.29,682950.62,2020
-Loch Arbour Village,Monmouth,0.29,0.31,0.40,0.20,1624632.82,2020
-Long Branch City,Monmouth,0.13,0.46,0.41,0.27,472929.91,2020
-Manalapan Township,Monmouth,0.15,0.68,0.18,0.29,453480.26,2020
-Manasquan Borough,Monmouth,0.21,0.55,0.24,0.34,633719.33,2020
-Marlboro Township,Monmouth,0.14,0.68,0.18,0.32,494858.46,2020
-Matawan Borough,Monmouth,0.10,0.60,0.30,0.27,356287.16,2020
-Aberdeen Township,Monmouth,0.11,0.67,0.22,0.28,312721.87,2020
-Middletown Township,Monmouth,0.12,0.62,0.25,0.27,447629.15,2020
-Millstone Township,Monmouth,0.13,0.76,0.10,0.30,527987.75,2020
-Monmouth Beach Borough,Monmouth,0.23,0.51,0.26,0.29,769767.17,2020
-Neptune Township,Monmouth,0.13,0.48,0.38,0.27,346529.76,2020
-Neptune City Borough,Monmouth,0.13,0.50,0.37,0.30,296581.05,2020
-Tinton Falls Borough,Monmouth,0.15,0.60,0.25,0.29,367073.82,2020
-Ocean Township,Monmouth,0.14,0.64,0.21,0.28,529666.98,2020
-Oceanport Borough,Monmouth,0.16,0.57,0.28,0.28,570099.43,2020
-Hazlet Township,Monmouth,0.11,0.66,0.23,0.28,341361.19,2020
-Red Bank Borough,Monmouth,0.12,0.59,0.29,0.28,383981.00,2020
-Roosevelt Borough,Monmouth,0.10,0.66,0.25,0.30,265034.50,2020
-Rumson Borough,Monmouth,0.20,0.58,0.23,0.28,1476547.91,2020
-Sea Bright Borough,Monmouth,0.24,0.32,0.44,0.30,631491.08,2020
-Sea Girt Borough,Monmouth,0.44,0.27,0.29,0.29,2028640.57,2020
-Shrewsbury Borough,Monmouth,0.13,0.58,0.29,0.28,569057.06,2020
-Shrewsbury Township,Monmouth,0.10,0.38,0.53,0.24,172526.23,2020
-Lake Como Borough (South Belmar),Monmouth,0.19,0.41,0.40,0.27,441617.90,2020
-Spring Lake Borough,Monmouth,0.44,0.25,0.31,0.27,2111484.33,2020
-Spring Lake Heights Borough,Monmouth,0.20,0.51,0.29,0.28,526529.58,2020
-Union Beach Borough,Monmouth,0.11,0.42,0.47,0.28,276126.49,2020
-Upper Freehold Township,Monmouth,0.12,0.75,0.12,0.30,493045.40,2020
-Wall Township,Monmouth,0.16,0.60,0.24,0.31,482259.52,2020
-West Long Branch Borough,Monmouth,0.14,0.53,0.33,0.30,495027.54,2020
-Boonton Town,Morris,0.10,0.61,0.29,0.29,360680.25,2020
-Boonton Township,Morris,0.12,0.66,0.21,0.29,531730.78,2020
-Butler Borough,Morris,0.09,0.63,0.27,0.35,251169.79,2020
-Chatham Borough,Morris,0.15,0.64,0.21,0.32,681853.41,2020
-Chatham Township,Morris,0.16,0.66,0.18,0.29,822407.50,2020
-Chester Borough,Morris,0.09,0.55,0.35,0.25,495842.27,2020
-Chester Township,Morris,0.11,0.66,0.22,0.27,663283.45,2020
-Denville Township,Morris,0.11,0.69,0.20,0.28,406176.75,2020
-Dover Town,Morris,0.10,0.43,0.47,0.29,238652.39,2020
-East Hanover Township,Morris,0.14,0.55,0.31,0.33,365998.84,2020
-Florham Park Borough,Morris,0.17,0.55,0.27,0.27,662604.25,2020
-Hanover Township,Morris,0.15,0.59,0.26,0.28,424516.40,2020
-Harding Township,Morris,0.25,0.46,0.29,0.28,1296847.64,2020
-Jefferson Township,Morris,0.10,0.62,0.29,0.26,321151.78,2020
-Kinnelon Borough,Morris,0.10,0.70,0.21,0.26,576995.73,2020
-Lincoln Park Borough,Morris,0.10,0.53,0.38,0.28,321401.13,2020
-Madison Borough,Morris,0.16,0.62,0.22,0.32,687319.65,2020
-Mendham Borough,Morris,0.12,0.66,0.22,0.28,697824.01,2020
-Mendham Township,Morris,0.12,0.68,0.20,0.26,900451.30,2020
-Mine Hill Township,Morris,0.10,0.61,0.28,0.28,279535.86,2020
-Montville Township,Morris,0.12,0.67,0.21,0.29,529699.35,2020
-Morris Township,Morris,0.15,0.61,0.25,0.28,564134.17,2020
-Morris Plains Borough,Morris,0.12,0.53,0.35,0.29,440043.24,2020
-Morristown Town,Morris,0.12,0.51,0.37,0.35,355164.49,2020
-Mountain Lakes Borough,Morris,0.10,0.70,0.20,0.28,771969.23,2020
-Mount Arlington Borough,Morris,0.11,0.57,0.31,0.31,290810.30,2020
-Mount Olive Township,Morris,0.09,0.71,0.21,0.28,320944.86,2020
-Netcong Borough,Morris,0.08,0.63,0.29,0.25,282340.53,2020
-Parsippany-Troy Hills Township,Morris,0.10,0.66,0.24,0.31,311373.95,2020
-Long Hill Township,Morris,0.11,0.62,0.27,0.27,506268.44,2020
-Pequannock Township,Morris,0.13,0.64,0.23,0.31,377099.77,2020
-Randolph Township,Morris,0.10,0.70,0.19,0.28,488202.37,2020
-Riverdale Borough,Morris,0.14,0.50,0.35,0.27,321713.14,2020
-Rockaway Borough,Morris,0.09,0.63,0.28,0.27,301424.80,2020
-Rockaway Township,Morris,0.10,0.64,0.26,0.28,349075.86,2020
-Roxbury Township,Morris,0.10,0.65,0.26,0.26,342972.02,2020
-Victory Gardens Borough,Morris,0.11,0.53,0.36,0.31,171480.68,2020
-Washington Township,Morris,0.10,0.72,0.18,0.27,439260.87,2020
-Wharton Borough,Morris,0.09,0.71,0.20,0.27,284075.92,2020
-Barnegat Light Borough,Ocean,0.44,0.29,0.27,0.40,793607.58,2020
-Bay Head Borough,Ocean,0.49,0.25,0.26,0.43,1578046.15,2020
-Beach Haven Borough,Ocean,0.34,0.29,0.37,0.38,833628.30,2020
-Beachwood Borough,Ocean,0.18,0.44,0.38,0.46,204584.87,2020
-Berkeley Township,Ocean,0.20,0.49,0.31,0.45,202820.92,2020
-Brick Township,Ocean,0.19,0.48,0.32,0.44,297078.40,2020
-Toms River Township,Ocean,0.21,0.51,0.29,0.50,275180.44,2020
-Eagleswood Township,Ocean,0.15,0.69,0.16,0.41,250384.53,2020
-Harvey Cedars Borough,Ocean,0.41,0.29,0.30,0.38,1047503.44,2020
-Island Heights Borough,Ocean,0.20,0.52,0.27,0.41,408451.10,2020
-Jackson Township,Ocean,0.20,0.59,0.22,0.47,328520.17,2020
-Lacey Township,Ocean,0.19,0.63,0.19,0.40,279530.26,2020
-Lakehurst Borough,Ocean,0.14,0.29,0.57,0.46,159348.35,2020
-Lakewood Township,Ocean,0.21,0.47,0.31,0.47,337298.34,2020
-Lavallette Borough,Ocean,0.49,0.20,0.31,0.40,876244.13,2020
-Little Egg Harbor Township,Ocean,0.16,0.52,0.31,0.42,201395.65,2020
-Long Beach Township,Ocean,0.44,0.30,0.26,0.44,956197.09,2020
-Manchester Township,Ocean,0.19,0.56,0.25,0.40,198302.95,2020
-Mantoloking Borough,Ocean,0.60,0.01,0.39,0.43,2713900.00,2020
-Ocean Township,Ocean,0.21,0.44,0.35,0.45,270315.51,2020
-Ocean Gate Borough,Ocean,0.17,0.51,0.32,0.46,204023.50,2020
-Pine Beach Borough,Ocean,0.19,0.46,0.34,0.48,270084.75,2020
-Plumsted Township,Ocean,0.20,0.68,0.13,0.47,281703.25,2020
-Point Pleasant Borough,Ocean,0.21,0.57,0.22,0.44,389590.41,2020
-Point Pleasant Beach Borough,Ocean,0.28,0.44,0.28,0.44,561350.69,2020
-Seaside Heights Borough,Ocean,0.18,0.40,0.42,0.44,229216.20,2020
-Seaside Park Borough,Ocean,0.28,0.36,0.37,0.42,562520.15,2020
-Ship Bottom Borough,Ocean,0.40,0.26,0.34,0.42,647387.75,2020
-South Toms River Borough,Ocean,0.14,0.34,0.52,0.42,166166.43,2020
-Stafford Township,Ocean,0.20,0.41,0.39,0.45,283392.50,2020
-Surf City Borough,Ocean,0.43,0.30,0.27,0.38,860455.06,2020
-Tuckerton Borough,Ocean,0.16,0.55,0.29,0.41,215468.74,2020
-Barnegat Township,Ocean,0.15,0.51,0.34,0.43,241195.14,2020
-Bloomingdale Borough,Passaic,0.18,0.55,0.26,0.79,255574.85,2020
-Clifton City,Passaic,0.24,0.46,0.29,1.34,178612.87,2020
-Haledon Borough,Passaic,0.17,0.49,0.34,0.83,230939.48,2020
-Hawthorne Borough,Passaic,0.24,0.55,0.21,0.68,380589.04,2020
-Little Falls Township,Passaic,0.24,0.48,0.29,0.75,310234.13,2020
-North Haledon Borough,Passaic,0.28,0.40,0.32,0.80,379764.97,2020
-Passaic City,Passaic,0.24,0.15,0.60,0.91,272760.64,2020
-Paterson City,Passaic,0.19,0.19,0.62,0.79,197502.43,2020
-Pompton Lakes Borough,Passaic,0.19,0.57,0.24,0.72,278506.01,2020
-Prospect Park Borough,Passaic,0.17,0.49,0.35,0.88,212098.61,2020
-Ringwood Borough,Passaic,0.21,0.57,0.21,0.81,303069.29,2020
-Totowa Borough,Passaic,0.28,0.48,0.24,0.69,399164.94,2020
-Wanaque Borough,Passaic,0.21,0.55,0.25,0.83,229682.74,2020
-Wayne Township,Passaic,0.25,0.53,0.22,1.40,229702.28,2020
-West Milford Township,Passaic,0.21,0.56,0.23,0.77,244277.21,2020
-Woodland Park Borough,Passaic,0.24,0.49,0.27,0.76,345623.83,2020
-Alloway Township,Salem,0.41,0.50,0.09,1.27,196495.97,2020
-Elmer Borough,Salem,0.35,0.47,0.17,1.33,166297.71,2020
-Elsinboro Township,Salem,0.38,0.48,0.14,1.08,184354.40,2020
-Lower Alloways Creek Township,Salem,1.00,0.00,0.00,1.51,132372.27,2020
-Mannington Township,Salem,0.38,0.52,0.09,1.22,198527.18,2020
-Oldmans Township,Salem,0.47,0.46,0.07,1.28,196174.22,2020
-Penns Grove Borough,Salem,0.23,0.31,0.46,1.17,87056.34,2020
-Pennsville Township,Salem,0.28,0.52,0.20,1.27,154040.91,2020
-Pilesgrove Township,Salem,0.37,0.54,0.10,1.19,275163.72,2020
-Pittsgrove Township,Salem,0.37,0.54,0.10,1.33,187041.95,2020
-Quinton Township,Salem,0.39,0.49,0.12,1.20,153435.65,2020
-Salem City,Salem,0.19,0.29,0.52,1.37,45783.86,2020
-Carneys Point Township,Salem,0.35,0.46,0.19,1.19,144956.95,2020
-Upper Pittsgrove Township,Salem,0.44,0.48,0.08,1.20,243139.75,2020
-Woodstown Borough,Salem,0.32,0.47,0.20,1.20,205038.09,2020
-Bedminster Township,Somerset,0.25,0.51,0.23,0.35,457585.90,2020
-Bernards Township,Somerset,0.17,0.66,0.16,0.36,612732.26,2020
-Bernardsville Borough,Somerset,0.17,0.58,0.25,0.35,752246.39,2020
-Bound Brook Borough,Somerset,0.13,0.53,0.34,0.40,268068.64,2020
-Branchburg Township,Somerset,0.19,0.63,0.18,0.41,455086.22,2020
-Bridgewater Township,Somerset,0.19,0.69,0.11,0.40,449004.46,2020
-Far Hills Borough,Somerset,0.26,0.34,0.41,0.35,1080566.57,2020
-Franklin Township,Somerset,0.16,0.65,0.19,0.35,345106.88,2020
-Green Brook Township,Somerset,0.15,0.67,0.17,0.40,468680.75,2020
-Hillsborough Township,Somerset,0.17,0.68,0.15,0.41,415490.77,2020
-Manville Borough,Somerset,0.13,0.54,0.33,0.40,243551.66,2020
-Millstone Borough,Somerset,0.16,0.60,0.23,0.43,331290.20,2020
-Montgomery Township,Somerset,0.16,0.69,0.15,0.49,502155.95,2020
-North Plainfield Borough,Somerset,0.12,0.54,0.35,0.45,223554.89,2020
-Peapack-Gladstone Borough,Somerset,0.21,0.48,0.31,0.40,740467.25,2020
-Raritan Borough,Somerset,0.15,0.60,0.25,0.37,320545.41,2020
-Rocky Hill Borough,Somerset,0.17,0.65,0.19,0.40,447887.30,2020
-Somerville Borough,Somerset,0.12,0.58,0.30,0.45,273017.85,2020
-South Bound Brook Borough,Somerset,0.14,0.57,0.30,0.45,241312.26,2020
-Warren Township,Somerset,0.19,0.65,0.16,0.40,736369.89,2020
-Watchung Borough,Somerset,0.18,0.51,0.30,0.39,719701.93,2020
-Andover Borough,Sussex,0.20,0.62,0.18,0.60,237646.49,2020
-Andover Township,Sussex,0.17,0.54,0.28,0.64,258565.78,2020
-Branchville Borough,Sussex,0.26,0.68,0.06,0.59,255053.41,2020
-Byram Township,Sussex,0.18,0.56,0.26,0.63,255700.71,2020
-Frankford Township,Sussex,0.24,0.61,0.14,0.65,268744.92,2020
-Franklin Borough,Sussex,0.16,0.53,0.31,0.62,174995.23,2020
-Fredon Township,Sussex,0.19,0.66,0.14,0.58,336768.08,2020
-Green Township,Sussex,0.18,0.64,0.18,0.64,313099.13,2020
-Hamburg Borough,Sussex,0.15,0.62,0.23,0.65,154521.65,2020
-Hampton Township,Sussex,0.22,0.61,0.17,0.66,231769.37,2020
-Hardyston Township,Sussex,0.22,0.54,0.24,0.63,233423.15,2020
-Hopatcong Borough,Sussex,0.21,0.51,0.28,0.69,215769.02,2020
-Lafayette Township,Sussex,0.22,0.67,0.10,0.64,305315.91,2020
-Montague Township,Sussex,0.22,0.64,0.14,0.63,155879.48,2020
-Newton Town,Sussex,0.15,0.51,0.34,0.68,185150.20,2020
-Ogdensburg Borough,Sussex,0.16,0.52,0.32,0.60,220870.47,2020
-Sandyston Township,Sussex,0.24,0.66,0.10,0.65,217920.04,2020
-Sparta Township,Sussex,0.18,0.64,0.19,0.60,371045.26,2020
-Stanhope Borough,Sussex,0.16,0.56,0.28,0.66,192166.18,2020
-Stillwater Township,Sussex,0.21,0.63,0.16,0.67,210792.91,2020
-Sussex Borough,Sussex,0.19,0.56,0.25,0.62,179974.06,2020
-Vernon Township,Sussex,0.19,0.57,0.24,0.60,200298.14,2020
-Walpack Township,Sussex,1.00,0.00,0.00,0.75,68422.73,2020
-Wantage Township,Sussex,0.22,0.67,0.11,0.61,260716.27,2020
-Berkeley Heights Township,Union,0.23,0.58,0.19,0.96,313366.54,2020
-Clark Township,Union,0.21,0.51,0.28,1.88,123871.99,2020
-Cranford Township,Union,0.22,0.55,0.23,1.44,184240.33,2020
-Elizabeth City,Union,0.16,0.22,0.61,4.78,34576.42,2020
-Fanwood Borough,Union,0.19,0.62,0.20,0.51,464633.87,2020
-Garwood Borough,Union,0.20,0.45,0.35,0.50,400890.29,2020
-Hillside Township,Union,0.15,0.44,0.42,1.14,121895.90,2020
-Kenilworth Borough,Union,0.19,0.50,0.30,0.99,182834.97,2020
-Linden City,Union,0.17,0.50,0.33,1.16,131845.52,2020
-Mountainside Borough,Union,0.25,0.49,0.26,1.86,164175.54,2020
-New Providence Borough,Union,0.22,0.57,0.22,1.05,299356.55,2020
-Plainfield City,Union,0.14,0.27,0.59,1.16,107683.71,2020
-Rahway City,Union,0.15,0.46,0.39,1.05,133444.36,2020
-Roselle Borough,Union,0.12,0.38,0.50,1.01,119896.43,2020
-Roselle Park Borough,Union,0.15,0.53,0.33,0.60,252482.07,2020
-Scotch Plains Township,Union,0.20,0.65,0.15,2.24,123556.29,2020
-Springfield Township,Union,0.18,0.51,0.32,1.31,162400.42,2020
-Summit City,Union,0.27,0.50,0.23,1.19,420114.88,2020
-Union Township,Union,0.17,0.46,0.37,3.37,46235.27,2020
-Westfield Town,Union,0.23,0.60,0.18,0.49,795665.14,2020
-Winfield Township,Union,0.02,0.50,0.48,0.50,18418.48,2020
-Allamuchy Township,Warren,0.28,0.57,0.15,0.82,235299.20,2020
-Alpha Borough,Warren,0.21,0.52,0.27,0.67,183277.99,2020
-Belvidere Town,Warren,0.19,0.53,0.28,1.07,121015.87,2020
-Blairstown Township,Warren,0.29,0.67,0.03,0.72,298542.28,2020
-Franklin Township,Warren,0.23,0.67,0.10,0.69,305880.97,2020
-Frelinghuysen Township,Warren,0.28,0.60,0.13,0.69,324281.65,2020
-Greenwich Township,Warren,0.25,0.57,0.18,0.83,271715.23,2020
-Hackettstown Town,Warren,0.21,0.57,0.22,0.66,276293.85,2020
-Hardwick Township,Warren,0.27,0.57,0.16,0.89,252886.40,2020
-Harmony Township,Warren,0.33,0.53,0.14,0.80,209423.08,2020
-Hope Township,Warren,0.26,0.61,0.13,0.78,257658.40,2020
-Independence Township,Warren,0.25,0.58,0.17,0.83,228784.00,2020
-Knowlton Township,Warren,0.25,0.63,0.12,0.90,210419.19,2020
-Liberty Township,Warren,0.25,0.64,0.11,0.78,230294.79,2020
-Lopatcong Township,Warren,0.24,0.56,0.21,0.70,232469.52,2020
-Mansfield Township,Warren,0.22,0.59,0.18,0.78,233507.29,2020
-Oxford Township,Warren,0.19,0.65,0.15,0.80,166257.00,2020
-Phillipsburg Town,Warren,0.17,0.44,0.39,0.69,110574.63,2020
-Pohatcong Township,Warren,0.19,0.46,0.35,0.75,176038.09,2020
-Washington Borough,Warren,0.15,0.55,0.30,0.80,143257.20,2020
-Washington Township,Warren,0.20,0.59,0.21,0.74,245647.75,2020
-White Township,Warren,0.33,0.62,0.05,0.72,258831.33,2020
+Absecon City,Atlantic,0.52,1.74,1.04,3.30,169013.00,2020
+Atlantic City City,Atlantic,0.49,1.70,1.74,3.93,124426.64,2020
+Brigantine City,Atlantic,0.55,0.51,0.64,1.69,370388.94,2020
+Buena Borough,Atlantic,0.49,1.67,1.01,3.16,172318.89,2020
+Buena Vista Township,Atlantic,0.49,1.67,0.44,2.61,215082.65,2020
+Corbin City,Atlantic,0.54,1.02,0.34,1.90,193292.41,2020
+Egg Harbor City,Atlantic,0.58,2.40,2.30,5.28,120580.45,2020
+Egg Harbor Township,Atlantic,0.57,2.12,0.61,3.30,206747.04,2020
+Estell Manor City,Atlantic,0.58,1.66,0.34,2.59,180612.32,2020
+Folsom Borough,Atlantic,0.54,1.14,0.40,2.09,197988.32,2020
+Galloway Township,Atlantic,0.56,1.92,0.62,3.10,167209.06,2020
+Hamilton Township,Atlantic,0.59,1.75,0.88,3.22,162895.47,2020
+Hammonton Township,Atlantic,0.57,1.44,0.71,2.72,216211.51,2020
+Linwood City,Atlantic,0.48,2.11,0.96,3.56,294324.40,2020
+Longport Borough,Atlantic,0.54,0.09,0.36,0.99,1133612.48,2020
+Margate City,Atlantic,0.57,0.32,0.66,1.55,539377.56,2020
+Mullica Township,Atlantic,0.56,1.75,0.88,3.19,182773.70,2020
+Northfield City,Atlantic,0.50,1.96,1.00,3.47,218278.85,2020
+Pleasantville City,Atlantic,0.52,1.27,2.98,4.77,101057.91,2020
+Port Republic City,Atlantic,0.61,1.64,0.53,2.77,231447.75,2020
+Somers Point City,Atlantic,0.54,1.68,1.01,3.22,210019.99,2020
+Ventnor City,Atlantic,0.56,0.89,1.14,2.59,302910.19,2020
+Weymouth Township,Atlantic,0.60,1.51,0.47,2.57,192639.13,2020
+Allendale Borough,Bergen,0.26,1.55,0.60,2.41,663956.97,2020
+Alpine Borough,Bergen,0.24,0.34,0.18,0.76,2774600.91,2020
+Bergenfield Borough,Bergen,0.30,1.86,1.14,3.30,328566.39,2020
+Bogota Borough,Bergen,0.32,2.47,1.28,4.07,263188.16,2020
+Carlstadt Borough,Bergen,0.24,0.76,0.78,1.77,392354.21,2020
+Cliffside Park Borough,Bergen,0.30,1.23,0.96,2.49,362685.40,2020
+Closter Borough,Bergen,0.25,1.43,0.56,2.24,726667.07,2020
+Cresskill Borough,Bergen,0.26,1.40,0.77,2.43,708860.42,2020
+Demarest Borough,Bergen,0.30,1.81,0.59,2.70,790656.36,2020
+Dumont Borough,Bergen,0.32,2.27,1.17,3.76,307575.58,2020
+Elmwood Park Borough,Bergen,0.28,1.78,0.94,3.00,331733.51,2020
+East Rutherford Borough,Bergen,0.26,1.04,0.52,1.82,388474.53,2020
+Edgewater Borough,Bergen,0.34,0.79,0.82,1.94,476411.15,2020
+Emerson Borough,Bergen,0.27,1.81,0.82,2.91,442013.51,2020
+Englewood City,Bergen,0.29,1.26,1.27,2.81,466249.82,2020
+Englewood Cliffs Borough,Bergen,0.26,0.42,0.48,1.15,1317637.85,2020
+Fair Lawn Borough,Bergen,0.31,2.22,0.90,3.43,332371.44,2020
+Fairview Borough,Bergen,0.25,1.18,1.16,2.59,390007.00,2020
+Fort Lee Borough,Bergen,0.28,1.07,1.06,2.41,469283.18,2020
+Franklin Lakes Borough,Bergen,0.25,1.10,0.29,1.65,1063493.97,2020
+Garfield City,Bergen,0.31,1.42,1.22,2.96,284095.52,2020
+Glen Rock Borough,Bergen,0.28,2.13,0.64,3.05,569893.39,2020
+Hackensack City,Bergen,0.25,1.51,1.55,3.31,255831.94,2020
+Harrington Park Borough,Bergen,0.28,2.04,0.62,2.95,540922.84,2020
+Hasbrouck Heights Borough,Bergen,0.26,1.72,0.90,2.88,401627.25,2020
+Haworth Borough,Bergen,0.29,1.84,0.79,2.92,625957.67,2020
+Hillsdale Borough,Bergen,0.27,2.04,0.59,2.91,472530.24,2020
+Ho-Ho-Kus Borough,Bergen,0.28,1.28,0.64,2.20,767820.43,2020
+Leonia Borough,Bergen,0.30,1.84,0.95,3.09,436790.08,2020
+Little Ferry Borough,Bergen,0.26,1.83,1.15,3.24,295019.49,2020
+Lodi Borough,Bergen,0.33,1.98,0.97,3.28,318320.98,2020
+Lyndhurst Township,Bergen,0.29,1.48,1.21,2.97,314388.46,2020
+Mahwah Township,Bergen,0.27,1.14,0.49,1.90,478198.98,2020
+Maywood Borough,Bergen,0.32,1.74,1.10,3.16,321251.46,2020
+Midland Park Borough,Bergen,0.30,2.04,0.78,3.12,397200.00,2020
+Montvale Borough,Bergen,0.29,1.54,0.60,2.43,524916.74,2020
+Moonachie Borough,Bergen,0.26,1.02,1.03,2.31,351567.62,2020
+New Milford Borough,Bergen,0.31,2.21,1.08,3.60,329088.03,2020
+North Arlington Borough,Bergen,0.24,1.47,1.04,2.75,351649.73,2020
+Northvale Borough,Bergen,0.29,1.88,0.86,3.03,399255.16,2020
+Norwood Borough,Bergen,0.26,1.53,0.72,2.52,551535.62,2020
+Oakland Borough,Bergen,0.30,1.97,0.73,3.00,414224.65,2020
+Old Tappan Borough,Bergen,0.25,1.50,0.34,2.09,820594.38,2020
+Oradell Borough,Bergen,0.25,1.69,0.82,2.76,561154.32,2020
+Palisades Park Borough,Bergen,0.24,0.75,0.55,1.54,648690.66,2020
+Paramus Borough,Bergen,0.26,0.81,0.53,1.59,626092.46,2020
+Park Ridge Borough,Bergen,0.29,1.92,0.72,2.93,475651.65,2020
+Ramsey Borough,Bergen,0.26,1.77,0.54,2.57,526149.51,2020
+Ridgefield Borough,Bergen,0.31,1.48,0.75,2.54,391296.32,2020
+Ridgefield Park Village,Bergen,0.26,1.81,1.18,3.25,325392.78,2020
+Ridgewood Village,Bergen,0.29,1.72,0.63,2.64,701977.09,2020
+River Edge Borough,Bergen,0.33,2.30,0.94,3.57,394207.36,2020
+River Vale Township,Bergen,0.25,1.76,0.60,2.61,593981.11,2020
+Rochelle Park Township,Bergen,0.27,1.30,1.01,2.58,331582.92,2020
+Rockleigh Borough,Bergen,0.25,0.30,0.32,0.87,1624130.68,2020
+Rutherford Borough,Bergen,0.28,1.67,0.90,2.85,431380.59,2020
+Saddle Brook Township,Bergen,0.26,1.47,0.85,2.57,353112.48,2020
+Saddle River Borough,Bergen,0.24,0.36,0.36,0.96,1900758.53,2020
+South Hackensack Township,Bergen,0.24,1.27,1.18,2.68,361422.39,2020
+Teaneck Township,Bergen,0.30,1.83,1.10,3.23,386230.70,2020
+Tenafly Borough,Bergen,0.29,1.70,0.62,2.62,823459.08,2020
+Teterboro Borough,Bergen,0.26,0.04,0.80,1.10,188557.14,2020
+Upper Saddle River Borough,Bergen,0.30,1.68,0.45,2.43,776082.77,2020
+Waldwick Borough,Bergen,0.26,1.95,0.56,2.77,420085.25,2020
+Wallington Borough,Bergen,0.30,1.74,1.04,3.08,313758.82,2020
+Washington Township,Bergen,0.28,1.59,0.62,2.48,465620.76,2020
+Westwood Borough,Bergen,0.25,1.50,0.78,2.53,433369.71,2020
+Woodcliff Lake Borough,Bergen,0.24,1.36,0.49,2.10,765785.30,2020
+Wood-Ridge Borough,Bergen,0.29,1.44,1.09,2.82,359120.91,2020
+Wyckoff Township,Bergen,0.25,1.30,0.29,1.83,794025.85,2020
+Bass River Township,Burlington,0.40,1.47,0.37,2.25,218993.40,2020
+Beverly City,Burlington,0.41,2.62,1.61,4.64,126107.84,2020
+Bordentown City,Burlington,0.43,1.98,1.06,3.48,203406.32,2020
+Bordentown Township,Burlington,0.53,2.18,0.59,3.30,242267.64,2020
+Burlington City,Burlington,0.43,2.19,1.38,4.00,138504.59,2020
+Burlington Township,Burlington,0.46,1.92,0.53,2.91,234925.00,2020
+Chesterfield Township,Burlington,0.41,2.19,0.34,2.94,390611.76,2020
+Cinnaminson Township,Burlington,0.45,2.29,0.63,3.37,233980.32,2020
+Delanco Township,Burlington,0.43,1.75,1.08,3.26,189782.57,2020
+Delran Township,Burlington,0.46,2.45,0.81,3.72,211839.07,2020
+Eastampton Township,Burlington,0.44,1.77,0.91,3.13,221591.77,2020
+Edgewater Park Township,Burlington,0.38,1.87,0.93,3.18,180559.20,2020
+Evesham Township,Burlington,0.42,1.92,0.45,2.79,271619.17,2020
+Fieldsboro Borough,Burlington,0.44,1.88,0.57,2.88,199286.38,2020
+Florence Township,Burlington,0.40,1.54,0.45,2.40,219931.91,2020
+Hainesport Township,Burlington,0.44,1.69,0.35,2.48,280202.70,2020
+Lumberton Township,Burlington,0.40,1.61,0.40,2.42,301054.99,2020
+Mansfield Township,Burlington,0.49,2.33,0.51,3.33,251398.20,2020
+Maple Shade Township,Burlington,0.42,2.27,0.91,3.60,159561.38,2020
+Medford Township,Burlington,0.44,2.34,0.43,3.21,326375.18,2020
+Medford Lakes Borough,Burlington,0.43,2.23,0.67,3.33,287180.16,2020
+Moorestown Township,Burlington,0.45,1.73,0.42,2.61,456606.50,2020
+Mount Holly Township,Burlington,0.40,1.74,0.82,2.96,171792.98,2020
+Mount Laurel Township,Burlington,0.40,1.86,0.47,2.73,237495.53,2020
+New Hanover Township,Burlington,0.55,1.85,0.10,2.50,182334.38,2020
+North Hanover Township,Burlington,0.41,1.48,0.35,2.24,318094.69,2020
+Palmyra Borough,Burlington,0.42,2.29,1.30,4.00,147782.85,2020
+Pemberton Borough,Burlington,0.43,1.12,0.67,2.22,184273.86,2020
+Pemberton Township,Burlington,0.40,1.02,1.03,2.46,164670.09,2020
+Riverside Township,Burlington,0.40,2.12,1.18,3.70,151829.20,2020
+Riverton Borough,Burlington,0.47,2.33,0.85,3.65,246622.40,2020
+Shamong Township,Burlington,0.43,2.26,0.12,2.81,308811.52,2020
+Southampton Township,Burlington,0.48,2.02,0.43,2.93,192285.83,2020
+Springfield Township,Burlington,0.45,1.84,0.69,2.98,275606.16,2020
+Tabernacle Township,Burlington,0.44,2.13,0.46,3.03,265356.93,2020
+Washington Township,Burlington,0.42,0.85,0.00,1.27,236640.06,2020
+Westampton Township,Burlington,0.41,1.36,0.69,2.46,241259.47,2020
+Willingboro Township,Burlington,0.37,1.83,1.82,4.01,157669.05,2020
+Woodland Township,Burlington,0.37,1.86,0.30,2.53,255934.82,2020
+Wrightstown Borough,Burlington,0.45,1.49,1.01,2.94,154715.75,2020
+Audubon Borough,Camden,0.83,1.85,0.93,3.61,202481.81,2020
+Audubon Park Borough,Camden,0.86,1.74,3.73,6.32,41483.00,2020
+Barrington Borough,Camden,0.89,2.23,1.27,4.40,192615.84,2020
+Bellmawr Borough,Camden,0.84,1.82,1.18,3.84,167198.79,2020
+Berlin Borough,Camden,0.79,1.67,0.83,3.29,233724.22,2020
+Berlin Township,Camden,0.92,1.48,1.28,3.68,184221.23,2020
+Brooklawn Borough,Camden,0.89,1.34,1.82,4.04,109009.46,2020
+Camden City,Camden,0.94,0.58,1.65,3.18,56961.10,2020
+Cherry Hill Township,Camden,0.90,2.27,0.58,3.75,225125.81,2020
+Chesilhurst Borough,Camden,0.81,0.88,1.78,3.48,164074.73,2020
+Clementon Borough,Camden,0.88,1.77,1.65,4.30,119111.88,2020
+Collingswood Borough,Camden,0.82,1.69,1.08,3.59,230150.82,2020
+Gibbsboro Borough,Camden,0.97,2.06,0.99,4.01,222652.51,2020
+Gloucester City City,Camden,0.84,1.24,2.42,4.50,107496.15,2020
+Gloucester Township,Camden,0.88,1.80,1.20,3.89,188092.07,2020
+Haddon Township,Camden,0.97,2.08,0.75,3.79,228189.09,2020
+Haddonfield Borough,Camden,0.84,1.75,0.53,3.12,505774.92,2020
+Haddon Heights Borough,Camden,0.81,1.76,0.77,3.33,288174.93,2020
+Hi-nella Borough,Camden,0.84,2.93,1.46,5.23,149670.63,2020
+Laurel Springs Borough,Camden,0.91,2.51,1.77,5.19,162745.51,2020
+Lawnside Borough,Camden,0.88,2.40,0.95,4.24,135851.48,2020
+Lindenwold Borough,Camden,0.85,2.33,1.70,4.88,95673.94,2020
+Magnolia Borough,Camden,0.90,2.40,1.13,4.43,147756.96,2020
+Merchantville Borough,Camden,0.89,2.48,1.36,4.73,186568.58,2020
+Mount Ephraim Borough,Camden,0.87,2.47,1.41,4.74,145243.70,2020
+Oaklyn Borough,Camden,0.96,2.19,1.52,4.67,163004.29,2020
+Pennsauken Township,Camden,0.83,1.76,0.96,3.55,140397.36,2020
+Pine Hill Borough,Camden,0.89,2.87,1.25,5.00,114652.50,2020
+Pine Valley Borough,Camden,0.85,0.00,1.28,2.13,554960.87,2020
+Runnemede Borough,Camden,0.85,2.10,1.14,4.09,147985.34,2020
+Somerdale Borough,Camden,0.94,2.22,1.11,4.28,141543.18,2020
+Stratford Borough,Camden,0.87,2.56,1.00,4.43,157633.36,2020
+Tavistock Borough,Camden,0.85,0.16,0.75,1.76,1720000.00,2020
+Voorhees Township,Camden,1.01,2.17,0.91,4.09,259439.32,2020
+Waterford Township,Camden,0.88,2.04,1.14,4.07,174383.83,2020
+Winslow Township,Camden,0.89,1.92,0.63,3.44,175484.03,2020
+Woodlynne Borough,Camden,0.95,3.65,3.22,7.82,67979.82,2020
+Avalon Borough,Cape May,0.26,0.03,0.23,0.52,1622032.15,2020
+Cape May City,Cape May,0.29,0.31,0.36,0.97,654179.42,2020
+Cape May Point Borough,Cape May,0.30,0.02,0.29,0.62,706442.11,2020
+Dennis Township,Cape May,0.28,1.23,0.23,1.74,186190.18,2020
+Lower Township,Cape May,0.31,0.88,0.58,1.78,232160.58,2020
+Middle Township,Cape May,0.28,1.06,0.48,1.82,245424.05,2020
+North Wildwood City,Cape May,0.29,0.28,0.77,1.35,307217.72,2020
+Ocean City City,Cape May,0.26,0.21,0.50,0.97,609890.23,2020
+Sea Isle City,Cape May,0.31,0.04,0.38,0.73,674918.13,2020
+Stone Harbor Borough,Cape May,0.29,0.05,0.27,0.61,1586890.98,2020
+Upper Township,Cape May,0.29,1.37,0.20,1.85,282638.48,2020
+West Cape May Borough,Cape May,0.31,0.63,0.37,1.31,466017.06,2020
+West Wildwood Borough,Cape May,0.31,0.40,1.08,1.79,245960.80,2020
+Wildwood City,Cape May,0.29,0.86,1.54,2.69,205142.06,2020
+Wildwood Crest Borough,Cape May,0.27,0.34,0.68,1.29,384442.04,2020
+Woodbine Borough,Cape May,0.24,1.16,0.23,1.63,121801.55,2020
+Bridgeton City,Cumberland,1.40,0.77,2.81,4.98,71203.40,2020
+Commercial Township,Cumberland,1.08,0.81,0.57,2.46,110283.14,2020
+Deerfield Township,Cumberland,1.32,2.32,0.09,3.73,140868.05,2020
+Downe Township,Cumberland,1.00,0.92,0.30,2.22,149429.09,2020
+Fairfield Township,Cumberland,1.13,1.03,0.44,2.60,161114.94,2020
+Greenwich Township,Cumberland,1.21,1.94,0.44,3.58,182531.46,2020
+Hopewell Township,Cumberland,1.35,1.75,0.30,3.40,158387.80,2020
+Lawrence Township,Cumberland,1.21,1.14,0.53,2.88,169487.69,2020
+Maurice River Township,Cumberland,1.18,1.07,0.44,2.70,174171.21,2020
+Millville City,Cumberland,1.34,0.90,1.37,3.61,125302.99,2020
+Shiloh Borough,Cumberland,1.25,1.52,0.32,3.09,154316.92,2020
+Stow Creek Township,Cumberland,1.32,1.69,0.21,3.22,175356.78,2020
+Upper Deerfield Township,Cumberland,1.21,1.84,0.17,3.22,176459.31,2020
+Vineland City,Cumberland,1.23,0.67,1.02,2.92,159845.13,2020
+Belleville Township,Essex,0.50,1.43,1.82,3.74,276473.94,2020
+Bloomfield Township,Essex,0.46,1.45,1.18,3.09,351899.69,2020
+Caldwell Township,Essex,0.55,1.45,0.80,2.80,421758.45,2020
+Cedar Grove Township,Essex,0.52,1.39,0.52,2.42,469887.47,2020
+East Orange City,Essex,0.64,1.00,3.83,5.47,166127.04,2020
+Essex Fells Township,Essex,0.49,1.05,0.50,2.04,1001800.90,2020
+Fairfield Township,Essex,0.50,0.94,0.50,1.93,528944.54,2020
+Glen Ridge Borough,Essex,0.53,1.94,0.72,3.19,665784.29,2020
+Irvington Township,Essex,0.55,1.13,4.29,5.98,138497.68,2020
+Livingston Township,Essex,0.48,1.37,0.43,2.27,704753.51,2020
+Maplewood Township,Essex,0.54,1.91,0.87,3.32,500720.94,2020
+Millburn Township,Essex,0.50,0.95,0.48,1.93,1265921.98,2020
+Montclair Township,Essex,0.54,1.81,0.82,3.18,627995.22,2020
+Newark City,Essex,0.59,1.17,2.04,3.80,178726.14,2020
+North Caldwell Borough,Essex,0.55,1.41,0.41,2.37,687136.92,2020
+Nutley Township,Essex,0.58,1.81,1.29,3.68,320248.24,2020
+Orange City,Essex,0.53,1.00,4.07,5.61,177573.78,2020
+Roseland Borough,Essex,0.52,1.12,0.65,2.29,466907.18,2020
+South Orange Village,Essex,0.54,1.86,0.88,3.28,583868.90,2020
+Verona Township,Essex,0.52,1.61,0.74,2.86,430361.02,2020
+West Caldwell Township,Essex,0.54,1.44,0.63,2.61,441354.67,2020
+West Orange Township,Essex,0.57,2.60,1.11,4.28,338105.70,2020
+Clayton Borough,Gloucester,0.77,2.19,1.00,3.96,153590.19,2020
+Deptford Township,Gloucester,0.71,1.60,0.87,3.18,181106.42,2020
+East Greenwich Township,Gloucester,0.75,1.93,0.34,3.02,299101.59,2020
+Elk Township,Gloucester,0.78,1.99,0.91,3.68,208146.08,2020
+Franklin Township,Gloucester,0.75,1.94,0.69,3.38,185874.50,2020
+Glassboro Borough,Gloucester,0.80,1.70,1.04,3.54,188593.45,2020
+Greenwich Township,Gloucester,0.36,1.43,1.49,3.27,162287.82,2020
+Harrison Township,Gloucester,0.76,1.66,0.56,2.99,343695.93,2020
+Logan Township,Gloucester,0.76,0.94,0.47,2.17,212278.52,2020
+Mantua Township,Gloucester,0.80,1.86,0.74,3.40,207743.69,2020
+Monroe Township,Gloucester,0.70,2.04,0.90,3.64,203528.06,2020
+National Park Borough,Gloucester,0.77,2.80,0.93,4.50,138039.05,2020
+Newfield Borough,Gloucester,0.77,2.14,0.82,3.72,182289.67,2020
+Paulsboro Borough,Gloucester,0.70,1.95,1.56,4.21,104142.67,2020
+Pitman Borough,Gloucester,0.76,2.62,1.05,4.43,169008.03,2020
+South Harrison Township,Gloucester,0.78,1.87,0.26,2.91,324719.50,2020
+Swedesboro Borough,Gloucester,0.78,2.21,1.07,4.06,171875.38,2020
+Washington Township,Gloucester,0.72,1.89,0.63,3.24,231718.97,2020
+Wenonah Borough,Gloucester,0.71,2.81,0.70,4.21,258862.79,2020
+West Deptford Township,Gloucester,0.76,1.61,1.04,3.41,199779.27,2020
+Westville Borough,Gloucester,0.72,2.54,1.41,4.66,125322.33,2020
+Woodbury City,Gloucester,0.77,2.48,1.68,4.94,139164.93,2020
+Woodbury Heights Borough,Gloucester,0.80,2.56,1.23,4.59,177831.00,2020
+Woolwich Township,Gloucester,0.74,2.13,0.56,3.43,319353.87,2020
+Bayonne City,Hudson,0.38,1.06,1.13,2.57,400644.06,2020
+East Newark Borough,Hudson,0.51,0.92,1.18,2.61,265838.26,2020
+Guttenberg Town,Hudson,0.58,1.44,1.83,3.86,249661.77,2020
+Harrison Town,Hudson,0.39,0.75,1.13,2.28,447558.25,2020
+Hoboken City,Hudson,0.59,0.43,0.59,1.61,524986.01,2020
+Jersey City City,Hudson,0.44,0.43,0.74,1.61,452097.88,2020
+Kearny Town,Hudson,1.56,5.05,3.88,10.49,96384.24,2020
+North Bergen Township,Hudson,1.01,2.04,2.68,5.73,137583.61,2020
+Secaucus Town,Hudson,0.75,1.35,1.64,3.74,175621.26,2020
+Union City City,Hudson,1.14,1.01,4.90,7.05,118034.72,2020
+Weehawken Township,Hudson,0.39,0.59,0.57,1.54,778202.82,2020
+West New York Town,Hudson,1.39,2.01,4.23,7.63,96481.05,2020
+Alexandria Township,Hunterdon,0.41,1.95,0.31,2.67,386425.35,2020
+Bethlehem Township,Hunterdon,0.40,2.18,0.41,2.99,353382.43,2020
+Bloomsbury Borough,Hunterdon,0.41,2.07,0.65,3.13,214612.26,2020
+Califon Borough,Hunterdon,0.39,2.46,0.65,3.50,330791.00,2020
+Clinton Town,Hunterdon,0.40,1.98,0.85,3.23,334455.13,2020
+Clinton Township,Hunterdon,0.40,1.86,0.43,2.69,396696.64,2020
+Delaware Township,Hunterdon,0.41,1.69,0.49,2.58,420523.55,2020
+East Amwell Township,Hunterdon,0.43,1.83,0.24,2.50,386125.66,2020
+Flemington Borough,Hunterdon,0.35,1.82,1.01,3.18,272413.00,2020
+Franklin Township,Hunterdon,0.39,1.87,0.40,2.67,426166.35,2020
+Frenchtown Borough,Hunterdon,0.43,2.20,0.94,3.58,263098.83,2020
+Glen Gardner Borough,Hunterdon,0.46,2.31,0.66,3.43,184526.43,2020
+Hampton Borough,Hunterdon,0.39,2.71,0.74,3.84,240173.89,2020
+High Bridge Borough,Hunterdon,0.40,2.65,1.05,4.10,228268.96,2020
+Holland Township,Hunterdon,0.42,2.26,0.19,2.86,290224.48,2020
+Kingwood Township,Hunterdon,0.38,1.63,0.34,2.35,367526.61,2020
+Lambertville City,Hunterdon,0.35,1.31,0.40,2.07,389509.54,2020
+Lebanon Borough,Hunterdon,0.38,1.65,0.47,2.50,270504.70,2020
+Lebanon Township,Hunterdon,0.37,1.71,0.30,2.38,383345.74,2020
+Milford Borough,Hunterdon,0.38,2.38,0.76,3.52,226601.58,2020
+Raritan Township,Hunterdon,0.39,1.86,0.31,2.57,404202.47,2020
+Readington Township,Hunterdon,0.47,1.95,0.62,3.04,364143.17,2020
+Stockton Borough,Hunterdon,0.38,1.23,0.47,2.08,364724.17,2020
+Tewksbury Township,Hunterdon,0.39,1.40,0.43,2.22,658338.55,2020
+Union Township,Hunterdon,0.46,2.14,0.33,2.93,307294.90,2020
+West Amwell Township,Hunterdon,0.36,1.54,0.38,2.27,443246.06,2020
+East Windsor Township,Mercer,0.71,2.14,0.43,3.29,259287.71,2020
+Ewing Township,Mercer,0.66,1.86,0.94,3.46,199267.38,2020
+Hamilton Township,Mercer,0.64,1.41,0.86,2.90,215482.95,2020
+Hightstown Borough,Mercer,0.78,2.28,1.35,4.41,213511.88,2020
+Hopewell Borough,Mercer,0.64,1.71,0.67,3.03,407529.24,2020
+Hopewell Township,Mercer,0.70,1.74,0.44,2.88,480700.86,2020
+Lawrence Township,Mercer,0.70,1.57,0.63,2.90,283183.87,2020
+Pennington Borough,Mercer,0.61,1.62,0.51,2.75,489692.65,2020
+Trenton City,Mercer,0.64,1.08,3.81,5.53,61848.44,2020
+Robbinsville Township,Mercer,0.71,1.66,0.58,2.96,377703.65,2020
+West Windsor Township,Mercer,0.74,1.62,0.44,2.80,522592.16,2020
+Princeton,Mercer,0.73,1.18,0.51,2.42,841063.74,2020
+Carteret Borough,Middlesex,0.44,1.14,1.29,2.88,241799.46,2020
+Cranbury Township,Middlesex,0.40,0.97,0.40,1.78,609830.63,2020
+Dunellen Borough,Middlesex,0.39,1.99,0.87,3.25,288285.28,2020
+East Brunswick Township,Middlesex,1.56,7.25,2.33,11.13,94419.36,2020
+Edison Township,Middlesex,1.03,3.17,1.43,5.63,180391.93,2020
+Helmetta Borough,Middlesex,0.46,1.88,0.72,3.06,206199.54,2020
+Highland Park Borough,Middlesex,0.94,5.16,2.31,8.41,144712.08,2020
+Jamesburg Borough,Middlesex,0.72,3.57,1.89,6.19,123214.81,2020
+Old Bridge Township,Middlesex,0.93,3.02,1.07,5.03,154389.96,2020
+Metuchen Borough,Middlesex,0.90,3.80,1.45,6.14,185684.72,2020
+Middlesex Borough,Middlesex,1.22,5.37,2.83,9.42,93338.84,2020
+Milltown Borough,Middlesex,0.85,3.88,1.58,6.31,163206.79,2020
+Monroe Township,Middlesex,0.48,1.49,0.55,2.51,318630.44,2020
+New Brunswick City,Middlesex,0.40,0.97,1.09,2.47,270903.94,2020
+North Brunswick Township,Middlesex,0.75,3.61,1.43,5.79,159778.34,2020
+Perth Amboy City,Middlesex,0.41,0.79,1.77,2.98,241265.39,2020
+Piscataway Township,Middlesex,0.40,1.23,0.64,2.27,342249.56,2020
+Plainsboro Township,Middlesex,0.40,1.55,0.41,2.35,450150.59,2020
+Sayreville Borough,Middlesex,0.85,2.95,1.54,5.34,145024.28,2020
+South Amboy City,Middlesex,0.41,1.16,1.24,2.82,273106.44,2020
+South Brunswick Township,Middlesex,0.99,3.01,1.03,5.04,192637.81,2020
+South Plainfield Borough,Middlesex,1.18,3.66,1.50,6.35,122974.09,2020
+South River Borough,Middlesex,0.37,1.20,0.71,2.29,291122.15,2020
+Spotswood Borough,Middlesex,0.45,1.91,1.04,3.40,255913.86,2020
+Woodbridge Township,Middlesex,1.45,5.96,3.26,10.67,77981.54,2020
+Allenhurst Borough,Monmouth,0.33,0.03,0.43,0.79,2071294.98,2020
+Allentown Borough,Monmouth,0.29,1.79,0.86,2.95,291559.19,2020
+Asbury Park City,Monmouth,0.26,0.48,0.84,1.57,375102.97,2020
+Atlantic Highlands Borough,Monmouth,0.29,1.08,0.61,1.99,488466.30,2020
+Avon-by-the-Sea Borough,Monmouth,0.32,0.45,0.43,1.20,865811.36,2020
+Belmar Borough,Monmouth,0.29,0.54,0.52,1.34,569780.59,2020
+Bradley Beach Borough,Monmouth,0.26,0.45,0.51,1.22,663412.61,2020
+Brielle Borough,Monmouth,0.28,0.91,0.44,1.64,722250.33,2020
+Colts Neck Township,Monmouth,0.29,1.21,0.27,1.76,844059.38,2020
+Deal Borough,Monmouth,0.32,0.08,0.31,0.71,2679542.41,2020
+Eatontown Borough,Monmouth,0.29,1.18,0.80,2.28,359687.20,2020
+Englishtown Borough,Monmouth,0.29,1.31,0.63,2.23,329076.60,2020
+Fair Haven Borough,Monmouth,0.28,1.17,0.40,1.84,862353.42,2020
+Farmingdale Borough,Monmouth,0.29,1.67,0.31,2.27,322402.39,2020
+Freehold Borough,Monmouth,0.27,1.34,1.05,2.66,266803.68,2020
+Freehold Township,Monmouth,0.28,1.48,0.37,2.13,426146.94,2020
+Highlands Borough,Monmouth,0.28,1.06,1.15,2.48,281019.68,2020
+Holmdel Township,Monmouth,0.29,1.38,0.36,2.04,686370.21,2020
+Howell Township,Monmouth,0.30,1.53,0.42,2.24,365747.48,2020
+Interlaken Borough,Monmouth,0.30,0.21,0.70,1.21,732295.96,2020
+Keansburg Borough,Monmouth,0.36,1.11,2.53,4.01,135950.69,2020
+Keyport Borough,Monmouth,0.27,1.34,0.94,2.54,282525.62,2020
+Little Silver Borough,Monmouth,0.29,1.28,0.46,2.03,682950.62,2020
+Loch Arbour Village,Monmouth,0.20,0.22,0.28,0.70,1624632.82,2020
+Long Branch City,Monmouth,0.27,0.96,0.85,2.09,472929.91,2020
+Manalapan Township,Monmouth,0.29,1.36,0.35,2.01,453480.26,2020
+Manasquan Borough,Monmouth,0.34,0.87,0.37,1.58,633719.33,2020
+Marlboro Township,Monmouth,0.32,1.54,0.40,2.26,494858.46,2020
+Matawan Borough,Monmouth,0.27,1.65,0.82,2.74,356287.16,2020
+Aberdeen Township,Monmouth,0.28,1.70,0.56,2.54,312721.87,2020
+Middletown Township,Monmouth,0.27,1.33,0.54,2.14,447629.15,2020
+Millstone Township,Monmouth,0.30,1.74,0.24,2.28,527987.75,2020
+Monmouth Beach Borough,Monmouth,0.29,0.62,0.32,1.23,769767.17,2020
+Neptune Township,Monmouth,0.27,0.97,0.78,2.02,346529.76,2020
+Neptune City Borough,Monmouth,0.30,1.14,0.85,2.29,296581.05,2020
+Tinton Falls Borough,Monmouth,0.29,1.16,0.49,1.94,367073.82,2020
+Ocean Township,Monmouth,0.28,1.25,0.41,1.94,529666.98,2020
+Oceanport Borough,Monmouth,0.28,1.04,0.50,1.83,570099.43,2020
+Hazlet Township,Monmouth,0.28,1.65,0.57,2.50,341361.19,2020
+Red Bank Borough,Monmouth,0.28,1.34,0.65,2.27,383981.00,2020
+Roosevelt Borough,Monmouth,0.30,2.02,0.75,3.07,265034.50,2020
+Rumson Borough,Monmouth,0.28,0.83,0.32,1.43,1476547.91,2020
+Sea Bright Borough,Monmouth,0.30,0.41,0.57,1.28,631491.08,2020
+Sea Girt Borough,Monmouth,0.29,0.18,0.19,0.66,2028640.57,2020
+Shrewsbury Borough,Monmouth,0.28,1.23,0.62,2.12,569057.06,2020
+Shrewsbury Township,Monmouth,0.24,0.93,1.30,2.46,172526.23,2020
+Lake Como Borough (South Belmar),Monmouth,0.27,0.59,0.56,1.43,441617.90,2020
+Spring Lake Borough,Monmouth,0.27,0.16,0.19,0.62,2111484.33,2020
+Spring Lake Heights Borough,Monmouth,0.28,0.69,0.39,1.36,526529.58,2020
+Union Beach Borough,Monmouth,0.28,1.06,1.17,2.52,276126.49,2020
+Upper Freehold Township,Monmouth,0.30,1.82,0.30,2.41,493045.40,2020
+Wall Township,Monmouth,0.31,1.15,0.46,1.92,482259.52,2020
+West Long Branch Borough,Monmouth,0.30,1.09,0.67,2.05,495027.54,2020
+Boonton Town,Morris,0.29,1.83,0.87,2.99,360680.25,2020
+Boonton Township,Morris,0.29,1.56,0.50,2.35,531730.78,2020
+Butler Borough,Morris,0.35,2.36,1.02,3.74,251169.79,2020
+Chatham Borough,Morris,0.32,1.35,0.44,2.12,681853.41,2020
+Chatham Township,Morris,0.29,1.25,0.35,1.89,822407.50,2020
+Chester Borough,Morris,0.25,1.49,0.96,2.70,495842.27,2020
+Chester Township,Morris,0.27,1.57,0.53,2.37,663283.45,2020
+Denville Township,Morris,0.28,1.73,0.50,2.51,406176.75,2020
+Dover Town,Morris,0.29,1.21,1.34,2.84,238652.39,2020
+East Hanover Township,Morris,0.33,1.32,0.74,2.39,365998.84,2020
+Florham Park Borough,Morris,0.27,0.87,0.43,1.57,662604.25,2020
+Hanover Township,Morris,0.28,1.06,0.47,1.81,424516.40,2020
+Harding Township,Morris,0.28,0.50,0.32,1.09,1296847.64,2020
+Jefferson Township,Morris,0.26,1.64,0.77,2.66,321151.78,2020
+Kinnelon Borough,Morris,0.26,1.84,0.54,2.65,576995.73,2020
+Lincoln Park Borough,Morris,0.28,1.49,1.06,2.82,321401.13,2020
+Madison Borough,Morris,0.32,1.24,0.44,2.00,687319.65,2020
+Mendham Borough,Morris,0.28,1.52,0.50,2.30,697824.01,2020
+Mendham Township,Morris,0.26,1.49,0.45,2.20,900451.30,2020
+Mine Hill Township,Morris,0.28,1.64,0.75,2.67,279535.86,2020
+Montville Township,Morris,0.29,1.64,0.51,2.43,529699.35,2020
+Morris Township,Morris,0.28,1.13,0.46,1.86,564134.17,2020
+Morris Plains Borough,Morris,0.29,1.27,0.83,2.39,440043.24,2020
+Morristown Town,Morris,0.35,1.46,1.07,2.88,355164.49,2020
+Mountain Lakes Borough,Morris,0.28,1.95,0.57,2.80,771969.23,2020
+Mount Arlington Borough,Morris,0.31,1.54,0.84,2.69,290810.30,2020
+Mount Olive Township,Morris,0.28,2.28,0.66,3.21,320944.86,2020
+Netcong Borough,Morris,0.25,1.95,0.88,3.08,282340.53,2020
+Parsippany-Troy Hills Township,Morris,0.31,1.99,0.73,3.03,311373.95,2020
+Long Hill Township,Morris,0.27,1.50,0.65,2.42,506268.44,2020
+Pequannock Township,Morris,0.31,1.57,0.58,2.46,377099.77,2020
+Randolph Township,Morris,0.28,1.84,0.51,2.62,488202.37,2020
+Riverdale Borough,Morris,0.27,0.96,0.67,1.91,321713.14,2020
+Rockaway Borough,Morris,0.27,1.99,0.88,3.15,301424.80,2020
+Rockaway Township,Morris,0.28,1.83,0.73,2.84,349075.86,2020
+Roxbury Township,Morris,0.26,1.70,0.67,2.63,342972.02,2020
+Victory Gardens Borough,Morris,0.31,1.51,1.03,2.85,171480.68,2020
+Washington Township,Morris,0.27,1.90,0.47,2.64,439260.87,2020
+Wharton Borough,Morris,0.27,2.08,0.60,2.95,284075.92,2020
+Barnegat Light Borough,Ocean,0.40,0.26,0.24,0.90,793607.58,2020
+Bay Head Borough,Ocean,0.43,0.21,0.23,0.88,1578046.15,2020
+Beach Haven Borough,Ocean,0.38,0.33,0.41,1.12,833628.30,2020
+Beachwood Borough,Ocean,0.46,1.11,0.96,2.53,204584.87,2020
+Berkeley Township,Ocean,0.45,1.08,0.70,2.23,202820.92,2020
+Brick Township,Ocean,0.44,1.11,0.74,2.30,297078.40,2020
+Toms River Township,Ocean,0.50,1.23,0.69,2.43,275180.44,2020
+Eagleswood Township,Ocean,0.41,1.87,0.42,2.71,250384.53,2020
+Harvey Cedars Borough,Ocean,0.38,0.27,0.28,0.93,1047503.44,2020
+Island Heights Borough,Ocean,0.41,1.05,0.55,2.01,408451.10,2020
+Jackson Township,Ocean,0.47,1.39,0.51,2.37,328520.17,2020
+Lacey Township,Ocean,0.40,1.35,0.40,2.15,279530.26,2020
+Lakehurst Borough,Ocean,0.46,0.92,1.80,3.18,159348.35,2020
+Lakewood Township,Ocean,0.47,1.04,0.69,2.20,337298.34,2020
+Lavallette Borough,Ocean,0.40,0.17,0.25,0.82,876244.13,2020
+Little Egg Harbor Township,Ocean,0.42,1.35,0.81,2.58,201395.65,2020
+Long Beach Township,Ocean,0.44,0.30,0.25,0.99,956197.09,2020
+Manchester Township,Ocean,0.40,1.18,0.53,2.11,198302.95,2020
+Mantoloking Borough,Ocean,0.43,0.01,0.28,0.71,2713900.00,2020
+Ocean Township,Ocean,0.45,0.93,0.73,2.11,270315.51,2020
+Ocean Gate Borough,Ocean,0.46,1.37,0.85,2.68,204023.50,2020
+Pine Beach Borough,Ocean,0.48,1.16,0.86,2.50,270084.75,2020
+Plumsted Township,Ocean,0.47,1.61,0.30,2.38,281703.25,2020
+Point Pleasant Borough,Ocean,0.44,1.18,0.46,2.09,389590.41,2020
+Point Pleasant Beach Borough,Ocean,0.44,0.70,0.44,1.58,561350.69,2020
+Seaside Heights Borough,Ocean,0.44,0.96,1.03,2.43,229216.20,2020
+Seaside Park Borough,Ocean,0.42,0.53,0.55,1.50,562520.15,2020
+Ship Bottom Borough,Ocean,0.42,0.27,0.36,1.06,647387.75,2020
+South Toms River Borough,Ocean,0.42,1.01,1.56,2.98,166166.43,2020
+Stafford Township,Ocean,0.45,0.96,0.91,2.32,283392.50,2020
+Surf City Borough,Ocean,0.38,0.26,0.24,0.87,860455.06,2020
+Tuckerton Borough,Ocean,0.41,1.45,0.76,2.62,215468.74,2020
+Barnegat Township,Ocean,0.43,1.42,0.94,2.79,241195.14,2020
+Bloomingdale Borough,Passaic,0.79,2.42,1.15,4.36,255574.85,2020
+Clifton City,Passaic,1.34,2.54,1.62,5.49,178612.87,2020
+Haledon Borough,Passaic,0.83,2.35,1.66,4.83,230939.48,2020
+Hawthorne Borough,Passaic,0.68,1.56,0.61,2.85,380589.04,2020
+Little Falls Township,Passaic,0.75,1.52,0.91,3.18,310234.13,2020
+North Haledon Borough,Passaic,0.80,1.15,0.94,2.89,379764.97,2020
+Passaic City,Passaic,0.91,0.57,2.25,3.73,272760.64,2020
+Paterson City,Passaic,0.79,0.80,2.59,4.17,197502.43,2020
+Pompton Lakes Borough,Passaic,0.72,2.14,0.90,3.76,278506.01,2020
+Prospect Park Borough,Passaic,0.88,2.54,1.81,5.23,212098.61,2020
+Ringwood Borough,Passaic,0.81,2.22,0.83,3.87,303069.29,2020
+Totowa Borough,Passaic,0.69,1.16,0.57,2.42,399164.94,2020
+Wanaque Borough,Passaic,0.83,2.19,0.98,4.00,229682.74,2020
+Wayne Township,Passaic,1.40,2.99,1.23,5.62,229702.28,2020
+West Milford Township,Passaic,0.77,2.11,0.86,3.74,244277.21,2020
+Woodland Park Borough,Passaic,0.76,1.56,0.87,3.19,345623.83,2020
+Alloway Township,Salem,1.27,1.54,0.29,3.10,196495.97,2020
+Elmer Borough,Salem,1.33,1.79,0.66,3.78,166297.71,2020
+Elsinboro Township,Salem,1.08,1.34,0.39,2.82,184354.40,2020
+Lower Alloways Creek Township,Salem,1.51,0.00,0.00,1.51,132372.27,2020
+Mannington Township,Salem,1.22,1.66,0.26,3.14,198527.18,2020
+Oldmans Township,Salem,1.28,1.24,0.19,2.71,196174.22,2020
+Penns Grove Borough,Salem,1.17,1.55,2.29,5.01,87056.34,2020
+Pennsville Township,Salem,1.27,2.32,0.89,4.48,154040.91,2020
+Pilesgrove Township,Salem,1.19,1.74,0.32,3.25,275163.72,2020
+Pittsgrove Township,Salem,1.33,1.96,0.35,3.63,187041.95,2020
+Quinton Township,Salem,1.20,1.52,0.37,3.09,153435.65,2020
+Salem City,Salem,1.37,2.06,3.69,7.11,45783.86,2020
+Carneys Point Township,Salem,1.19,1.53,0.63,3.35,144956.95,2020
+Upper Pittsgrove Township,Salem,1.20,1.31,0.21,2.72,243139.75,2020
+Woodstown Borough,Salem,1.20,1.77,0.77,3.74,205038.09,2020
+Bedminster Township,Somerset,0.35,0.71,0.32,1.38,457585.90,2020
+Bernards Township,Somerset,0.36,1.39,0.34,2.09,612732.26,2020
+Bernardsville Borough,Somerset,0.35,1.23,0.52,2.10,752246.39,2020
+Bound Brook Borough,Somerset,0.40,1.64,1.05,3.09,268068.64,2020
+Branchburg Township,Somerset,0.41,1.35,0.39,2.14,455086.22,2020
+Bridgewater Township,Somerset,0.40,1.43,0.24,2.07,449004.46,2020
+Far Hills Borough,Somerset,0.35,0.45,0.55,1.36,1080566.57,2020
+Franklin Township,Somerset,0.35,1.43,0.42,2.20,345106.88,2020
+Green Brook Township,Somerset,0.40,1.76,0.46,2.62,468680.75,2020
+Hillsborough Township,Somerset,0.41,1.59,0.34,2.34,415490.77,2020
+Manville Borough,Somerset,0.40,1.70,1.04,3.15,243551.66,2020
+Millstone Borough,Somerset,0.43,1.56,0.59,2.58,331290.20,2020
+Montgomery Township,Somerset,0.49,2.16,0.46,3.12,502155.95,2020
+North Plainfield Borough,Somerset,0.45,2.09,1.36,3.91,223554.89,2020
+Peapack-Gladstone Borough,Somerset,0.40,0.90,0.58,1.88,740467.25,2020
+Raritan Borough,Somerset,0.37,1.53,0.65,2.56,320545.41,2020
+Rocky Hill Borough,Somerset,0.40,1.54,0.44,2.38,447887.30,2020
+Somerville Borough,Somerset,0.45,2.11,1.10,3.66,273017.85,2020
+South Bound Brook Borough,Somerset,0.45,1.88,0.99,3.32,241312.26,2020
+Warren Township,Somerset,0.40,1.35,0.32,2.07,736369.89,2020
+Watchung Borough,Somerset,0.39,1.09,0.64,2.13,719701.93,2020
+Andover Borough,Sussex,0.60,1.87,0.54,3.01,237646.49,2020
+Andover Township,Sussex,0.64,2.03,1.06,3.74,258565.78,2020
+Branchville Borough,Sussex,0.59,1.55,0.14,2.29,255053.41,2020
+Byram Township,Sussex,0.63,2.00,0.94,3.57,255700.71,2020
+Frankford Township,Sussex,0.65,1.62,0.38,2.65,268744.92,2020
+Franklin Borough,Sussex,0.62,2.12,1.23,3.97,174995.23,2020
+Fredon Township,Sussex,0.58,1.97,0.42,2.97,336768.08,2020
+Green Township,Sussex,0.64,2.26,0.64,3.54,313099.13,2020
+Hamburg Borough,Sussex,0.65,2.64,1.00,4.28,154521.65,2020
+Hampton Township,Sussex,0.66,1.83,0.50,2.99,231769.37,2020
+Hardyston Township,Sussex,0.63,1.57,0.70,2.89,233423.15,2020
+Hopatcong Borough,Sussex,0.69,1.70,0.94,3.34,215769.02,2020
+Lafayette Township,Sussex,0.64,1.93,0.29,2.86,305315.91,2020
+Montague Township,Sussex,0.63,1.87,0.41,2.92,155879.48,2020
+Newton Town,Sussex,0.68,2.25,1.49,4.42,185150.20,2020
+Ogdensburg Borough,Sussex,0.60,1.94,1.18,3.71,220870.47,2020
+Sandyston Township,Sussex,0.65,1.79,0.27,2.72,217920.04,2020
+Sparta Township,Sussex,0.60,2.16,0.64,3.40,371045.26,2020
+Stanhope Borough,Sussex,0.66,2.39,1.19,4.24,192166.18,2020
+Stillwater Township,Sussex,0.67,2.03,0.51,3.21,210792.91,2020
+Sussex Borough,Sussex,0.62,1.84,0.80,3.26,179974.06,2020
+Vernon Township,Sussex,0.60,1.79,0.75,3.13,200298.14,2020
+Walpack Township,Sussex,0.75,0.00,0.00,0.75,68422.73,2020
+Wantage Township,Sussex,0.61,1.85,0.31,2.77,260716.27,2020
+Berkeley Heights Township,Union,0.96,2.42,0.81,4.20,313366.54,2020
+Clark Township,Union,1.88,4.44,2.43,8.74,123871.99,2020
+Cranford Township,Union,1.44,3.62,1.50,6.56,184240.33,2020
+Elizabeth City,Union,4.78,6.51,17.99,29.27,34576.42,2020
+Fanwood Borough,Union,0.51,1.66,0.53,2.70,464633.87,2020
+Garwood Borough,Union,0.50,1.14,0.87,2.52,400890.29,2020
+Hillside Township,Union,1.14,3.41,3.29,7.84,121895.90,2020
+Kenilworth Borough,Union,0.99,2.58,1.55,5.12,182834.97,2020
+Linden City,Union,1.16,3.45,2.29,6.91,131845.52,2020
+Mountainside Borough,Union,1.86,3.64,1.98,7.47,164175.54,2020
+New Providence Borough,Union,1.05,2.78,1.07,4.90,299356.55,2020
+Plainfield City,Union,1.16,2.27,4.94,8.36,107683.71,2020
+Rahway City,Union,1.05,3.16,2.72,6.92,133444.36,2020
+Roselle Borough,Union,1.01,3.20,4.23,8.44,119896.43,2020
+Roselle Park Borough,Union,0.60,2.15,1.34,4.09,252482.07,2020
+Scotch Plains Township,Union,2.24,7.27,1.70,11.21,123556.29,2020
+Springfield Township,Union,1.31,3.70,2.32,7.33,162400.42,2020
+Summit City,Union,1.19,2.17,1.00,4.36,420114.88,2020
+Union Township,Union,3.37,9.21,7.42,20.00,46235.27,2020
+Westfield Town,Union,0.49,1.29,0.38,2.16,795665.14,2020
+Winfield Township,Union,0.50,10.13,9.76,20.40,18418.48,2020
+Allamuchy Township,Warren,0.82,1.69,0.45,2.95,235299.20,2020
+Alpha Borough,Warren,0.67,1.65,0.87,3.19,183277.99,2020
+Belvidere Town,Warren,1.07,3.03,1.59,5.69,121015.87,2020
+Blairstown Township,Warren,0.72,1.67,0.09,2.47,298542.28,2020
+Franklin Township,Warren,0.69,2.02,0.30,3.00,305880.97,2020
+Frelinghuysen Township,Warren,0.69,1.50,0.32,2.50,324281.65,2020
+Greenwich Township,Warren,0.83,1.89,0.61,3.33,271715.23,2020
+Hackettstown Town,Warren,0.66,1.79,0.68,3.13,276293.85,2020
+Hardwick Township,Warren,0.89,1.83,0.52,3.24,252886.40,2020
+Harmony Township,Warren,0.80,1.31,0.34,2.44,209423.08,2020
+Hope Township,Warren,0.78,1.85,0.39,3.01,257658.40,2020
+Independence Township,Warren,0.83,1.97,0.58,3.37,228784.00,2020
+Knowlton Township,Warren,0.90,2.26,0.44,3.60,210419.19,2020
+Liberty Township,Warren,0.78,2.04,0.35,3.17,230294.79,2020
+Lopatcong Township,Warren,0.70,1.64,0.62,2.95,232469.52,2020
+Mansfield Township,Warren,0.78,2.06,0.64,3.48,233507.29,2020
+Oxford Township,Warren,0.80,2.73,0.64,4.17,166257.00,2020
+Phillipsburg Town,Warren,0.69,1.78,1.58,4.04,110574.63,2020
+Pohatcong Township,Warren,0.75,1.83,1.39,3.96,176038.09,2020
+Washington Borough,Warren,0.80,2.83,1.54,5.16,143257.20,2020
+Washington Township,Warren,0.74,2.14,0.75,3.63,245647.75,2020
+White Township,Warren,0.72,1.34,0.12,2.18,258831.33,2020
