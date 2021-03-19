@@ -15,7 +15,6 @@ import plotly.express as px <br>
 
 
 Steps to Open the Files <br>
-> - Random
 
 *Cleaning Files* <br>
 > - Housing data cleaning code<br>
